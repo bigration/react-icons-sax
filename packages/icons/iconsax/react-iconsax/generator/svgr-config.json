@@ -1,0 +1,21 @@
+{
+  "typescript": true,
+  "memo": false,
+  "ref": false,
+  "removeViewBox": true,
+  "dimensions": false,
+  "replaceAttrValues": {
+    "white": "{props.color || `#FFFFFF`}",
+    "#FFFFFF": "{props.color || `#FFFFFF`}",
+    "black": "{props.color || `#000000`}",
+    "#111111": "{props.color || `#000000`}",
+    "#000": "{props.color || `#000000`}"
+  },
+  "svgProps": {
+    "width": "{props.width || 24}",
+    "height": "{props.height || 24}",
+    "viewBox": "{props.viewBox || '0 0 24 24'}",
+    "fill": "currentColor",
+    "style": "{mergedStyles}"
+  }
+}

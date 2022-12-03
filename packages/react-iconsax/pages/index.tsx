@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { ArrowRefreshSquare2Bold } from '@bigration/react-iconsax';
 
 const StyledPage = styled.div`
   .page {
@@ -16,6 +17,7 @@ export function Index() {
       <div className="wrapper">
         <div className="container">
           <div id="welcome">
+            <ArrowRefreshSquare2Bold width={150} height={150} />
             <h1>
               <span> Hello there, </span>
               Welcome react-iconsax 👋
