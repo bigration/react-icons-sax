@@ -1,0 +1,11 @@
+export { default as BuildingBankTwotone } from './Bank';
+export { default as BuildingBuilding3Twotone } from './Building3';
+export { default as BuildingBuilding4Twotone } from './Building4';
+export { default as BuildingBuildingTwotone } from './Building';
+export { default as BuildingBuildings2Twotone } from './Buildings2';
+export { default as BuildingBuildingsTwotone } from './Buildings';
+export { default as BuildingBulidingTwotone } from './Buliding';
+export { default as BuildingCourthouseTwotone } from './Courthouse';
+export { default as BuildingHospitalTwotone } from './Hospital';
+export { default as BuildingHouse2Twotone } from './House2';
+export { default as BuildingHouseTwotone } from './House';

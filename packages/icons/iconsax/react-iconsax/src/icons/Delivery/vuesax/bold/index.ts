@@ -1,0 +1,16 @@
+export { default as DeliverySvg3DCubeScanBold } from './3DCubeScan';
+export { default as DeliverySvg3DRotateBold } from './3DRotate';
+export { default as DeliverySvg3DSquareBold } from './3DSquare';
+export { default as DeliveryBox1Bold } from './Box1';
+export { default as DeliveryBoxAddBold } from './BoxAdd';
+export { default as DeliveryBoxRemoveBold } from './BoxRemove';
+export { default as DeliveryBoxSearchBold } from './BoxSearch';
+export { default as DeliveryBoxTickBold } from './BoxTick';
+export { default as DeliveryBoxTimeBold } from './BoxTime';
+export { default as DeliveryBoxBold } from './Box';
+export { default as DeliveryConvert3DCubeBold } from './Convert3DCube';
+export { default as DeliveryTruckFastBold } from './TruckFast';
+export { default as DeliveryTruckRemoveBold } from './TruckRemove';
+export { default as DeliveryTruckTickBold } from './TruckTick';
+export { default as DeliveryTruckTimeBold } from './TruckTime';
+export { default as DeliveryTruckBold } from './Truck';

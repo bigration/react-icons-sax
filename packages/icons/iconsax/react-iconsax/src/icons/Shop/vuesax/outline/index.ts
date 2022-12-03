@@ -1,0 +1,14 @@
+export { default as ShopBag2Outline } from './Bag2';
+export { default as ShopBagCross1Outline } from './BagCross1';
+export { default as ShopBagCrossOutline } from './BagCross';
+export { default as ShopBagHappyOutline } from './BagHappy';
+export { default as ShopBagTick2Outline } from './BagTick2';
+export { default as ShopBagTickOutline } from './BagTick';
+export { default as ShopBagTimerOutline } from './BagTimer';
+export { default as ShopBagOutline } from './Bag';
+export { default as ShopBarcodeOutline } from './Barcode';
+export { default as ShopShopAddOutline } from './ShopAdd';
+export { default as ShopShopRemoveOutline } from './ShopRemove';
+export { default as ShopShopOutline } from './Shop';
+export { default as ShopShoppingBagOutline } from './ShoppingBag';
+export { default as ShopShoppingCartOutline } from './ShoppingCart';

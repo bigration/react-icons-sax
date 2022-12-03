@@ -1,0 +1,50 @@
+// Auto-generated file
+import * as React from 'react';
+import { SVGProps } from 'react';
+type IconProps = {
+  size?: number;
+};
+const SvgCalendarAdd = (props: IconProps & SVGProps<SVGSVGElement>) => {
+  const mergedStyles = {
+    display: 'inline-block',
+    fill: undefined,
+    height: props.size || 24,
+    width: props.size || 24,
+  };
+  return (
+    <svg
+      width={props.size || 24}
+      height={props.size || 24}
+      viewBox={props.viewBox || '0 0 24 24'}
+      fill="currentColor"
+      xmlns="http://www.w3.org/2000/svg"
+      style={mergedStyles}
+      {...props}
+    >
+      <path
+        d="M3 13.01V8.5c0-3 1.5-5 5-5h8c3.5 0 5 2 5 5v7.86c-.73-.83-1.8-1.36-3-1.36-2.21 0-4 1.79-4 4 0 .75.21 1.46.58 2.06.21.36.48.68.79.94H8c-3.5 0-5-2-5-5M8 2v3M16 2v3M3.5 9.09h17"
+        stroke="#292D32"
+        strokeWidth={1.5}
+        strokeMiterlimit={10}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path
+        d="M18 23a4 4 0 1 0 0-8 4 4 0 0 0 0 8ZM19.49 19.05h-2.98M18 17.59v2.99"
+        stroke="#292D32"
+        strokeWidth={1.5}
+        strokeMiterlimit={10}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path
+        d="M11.995 13.7h.009M8.295 13.7h.01M8.295 16.7h.01"
+        stroke="#292D32"
+        strokeWidth={2}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+    </svg>
+  );
+};
+export default SvgCalendarAdd;

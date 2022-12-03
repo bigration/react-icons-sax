@@ -1,0 +1,17 @@
+export { default as SettingsCandle2Linear } from './Candle2';
+export { default as SettingsCandleLinear } from './Candle';
+export { default as SettingsCategory2Linear } from './Category2';
+export { default as SettingsCategoryLinear } from './Category';
+export { default as SettingsMenuLinear } from './Menu';
+export { default as SettingsMore2Linear } from './More2';
+export { default as SettingsMoreLinear } from './More';
+export { default as SettingsSetting2Linear } from './Setting2';
+export { default as SettingsSetting3Linear } from './Setting3';
+export { default as SettingsSetting4Linear } from './Setting4';
+export { default as SettingsSetting5Linear } from './Setting5';
+export { default as SettingsSettingLinear } from './Setting';
+export { default as SettingsSettingsLinear } from './Settings';
+export { default as SettingsToggleOffCircleLinear } from './ToggleOffCircle';
+export { default as SettingsToggleOffLinear } from './ToggleOff';
+export { default as SettingsToggleOnCircleLinear } from './ToggleOnCircle';
+export { default as SettingsToggleOnLinear } from './ToggleOn';

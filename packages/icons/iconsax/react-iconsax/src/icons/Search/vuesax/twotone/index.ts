@@ -1,0 +1,10 @@
+export { default as SearchSearchFavorite1Twotone } from './SearchFavorite1';
+export { default as SearchSearchFavoriteTwotone } from './SearchFavorite';
+export { default as SearchSearchNormal1Twotone } from './SearchNormal1';
+export { default as SearchSearchNormalTwotone } from './SearchNormal';
+export { default as SearchSearchStatus1Twotone } from './SearchStatus1';
+export { default as SearchSearchStatusTwotone } from './SearchStatus';
+export { default as SearchSearchZoomIn1Twotone } from './SearchZoomIn1';
+export { default as SearchSearchZoomInTwotone } from './SearchZoomIn';
+export { default as SearchSearchZoomOut1Twotone } from './SearchZoomOut1';
+export { default as SearchSearchZoomOutTwotone } from './SearchZoomOut';

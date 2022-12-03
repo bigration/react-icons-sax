@@ -1,0 +1,16 @@
+export { default as DeliverySvg3DCubeScanOutline } from './3DCubeScan';
+export { default as DeliverySvg3DRotateOutline } from './3DRotate';
+export { default as DeliverySvg3DSquareOutline } from './3DSquare';
+export { default as DeliveryBox1Outline } from './Box1';
+export { default as DeliveryBoxAddOutline } from './BoxAdd';
+export { default as DeliveryBoxRemoveOutline } from './BoxRemove';
+export { default as DeliveryBoxSearchOutline } from './BoxSearch';
+export { default as DeliveryBoxTickOutline } from './BoxTick';
+export { default as DeliveryBoxTimeOutline } from './BoxTime';
+export { default as DeliveryBoxOutline } from './Box';
+export { default as DeliveryConvert3DCubeOutline } from './Convert3DCube';
+export { default as DeliveryTruckFastOutline } from './TruckFast';
+export { default as DeliveryTruckRemoveOutline } from './TruckRemove';
+export { default as DeliveryTruckTickOutline } from './TruckTick';
+export { default as DeliveryTruckTimeOutline } from './TruckTime';
+export { default as DeliveryTruckOutline } from './Truck';

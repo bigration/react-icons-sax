@@ -1,0 +1,15 @@
+export { default as SchoolLearningAwardBold } from './Award';
+export { default as SchoolLearningBook1Bold } from './Book1';
+export { default as SchoolLearningBookBold } from './Book';
+export { default as SchoolLearningBookmark2Bold } from './Bookmark2';
+export { default as SchoolLearningBookmarkBold } from './Bookmark';
+export { default as SchoolLearningBriefcaseBold } from './Briefcase';
+export { default as SchoolLearningBrifecaseCrossBold } from './BrifecaseCross';
+export { default as SchoolLearningBrifecaseTickBold } from './BrifecaseTick';
+export { default as SchoolLearningBrifecaseTimerBold } from './BrifecaseTimer';
+export { default as SchoolLearningCalculatorBold } from './Calculator';
+export { default as SchoolLearningClipboardBold } from './Clipboard';
+export { default as SchoolLearningGiftBold } from './Gift';
+export { default as SchoolLearningNote2Bold } from './Note2';
+export { default as SchoolLearningNoteBold } from './Note';
+export { default as SchoolLearningTeacherBold } from './Teacher';

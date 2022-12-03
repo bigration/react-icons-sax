@@ -1,0 +1,11 @@
+export { default as BuildingBankOutline } from './Bank';
+export { default as BuildingBuilding3Outline } from './Building3';
+export { default as BuildingBuilding4Outline } from './Building4';
+export { default as BuildingBuildingOutline } from './Building';
+export { default as BuildingBuildings2Outline } from './Buildings2';
+export { default as BuildingBuildingsOutline } from './Buildings';
+export { default as BuildingBulidingOutline } from './Buliding';
+export { default as BuildingCourthouseOutline } from './Courthouse';
+export { default as BuildingHospitalOutline } from './Hospital';
+export { default as BuildingHouse2Outline } from './House2';
+export { default as BuildingHouseOutline } from './House';

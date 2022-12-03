@@ -1,0 +1,9 @@
+export { default as CallCallAddOutline } from './CallAdd';
+export { default as CallCallCallingOutline } from './CallCalling';
+export { default as CallCallIncomingOutline } from './CallIncoming';
+export { default as CallCallMinusOutline } from './CallMinus';
+export { default as CallCallOutgoingOutline } from './CallOutgoing';
+export { default as CallCallReceivedOutline } from './CallReceived';
+export { default as CallCallRemoveOutline } from './CallRemove';
+export { default as CallCallSlashOutline } from './CallSlash';
+export { default as CallCallOutline } from './Call';

@@ -1,0 +1,16 @@
+export { default as DeliverySvg3DCubeScanBroken } from './3DCubeScan';
+export { default as DeliverySvg3DRotateBroken } from './3DRotate';
+export { default as DeliverySvg3DSquareBroken } from './3DSquare';
+export { default as DeliveryBox1Broken } from './Box1';
+export { default as DeliveryBoxAddBroken } from './BoxAdd';
+export { default as DeliveryBoxRemoveBroken } from './BoxRemove';
+export { default as DeliveryBoxSearchBroken } from './BoxSearch';
+export { default as DeliveryBoxTickBroken } from './BoxTick';
+export { default as DeliveryBoxTimeBroken } from './BoxTime';
+export { default as DeliveryBoxBroken } from './Box';
+export { default as DeliveryConvert3DCubeBroken } from './Convert3DCube';
+export { default as DeliveryIcon1Broken } from './Icon1';
+export { default as DeliveryIconBroken } from './Icon';
+export { default as DeliveryTruckFastBroken } from './TruckFast';
+export { default as DeliveryTruckTickBroken } from './TruckTick';
+export { default as DeliveryTruckBroken } from './Truck';

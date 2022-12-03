@@ -1,0 +1,12 @@
+export { default as ArchiveArchiveAddBold } from './ArchiveAdd';
+export { default as ArchiveArchiveMinusBold } from './ArchiveMinus';
+export { default as ArchiveArchiveSlashBold } from './ArchiveSlash';
+export { default as ArchiveArchiveTickBold } from './ArchiveTick';
+export { default as ArchiveArchiveBold } from './Archive';
+export { default as ArchiveBookSavedBold } from './BookSaved';
+export { default as ArchiveBookSquareBold } from './BookSquare';
+export { default as ArchiveReceiptSquareBold } from './ReceiptSquare';
+export { default as ArchiveSave2Bold } from './Save2';
+export { default as ArchiveSaveAddBold } from './SaveAdd';
+export { default as ArchiveSaveMinusBold } from './SaveMinus';
+export { default as ArchiveSaveRemoveBold } from './SaveRemove';

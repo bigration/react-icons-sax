@@ -16,7 +16,7 @@ rm -Rf $GEN_PATH
 
 MAIN_INDEX_ARRAY=()
 
-#npx @svgr/cli -d $GEN_PATH/Arrow $ICONS_SOURCE_PATH/Arrow --config-file $CONFIG_FILE --template $TEMPLATE_FILE --index-template $INDEX_TEMPLATE_FILE --svgo-config $SVGO_FILE
+npx @svgr/cli -d $GEN_PATH/Arrow $ICONS_SOURCE_PATH/Arrow --config-file $CONFIG_FILE --template $TEMPLATE_FILE --index-template $INDEX_TEMPLATE_FILE --svgo-config $SVGO_FILE
 
 for dir in packages/icons/iconsax/iconsax-assets/src/lib/icons/*/; do
   dir2=${dir%/}    # Remove the trailing /

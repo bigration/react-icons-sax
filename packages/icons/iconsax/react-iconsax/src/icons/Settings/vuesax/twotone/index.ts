@@ -1,0 +1,17 @@
+export { default as SettingsCandle2Twotone } from './Candle2';
+export { default as SettingsCandleTwotone } from './Candle';
+export { default as SettingsCategory2Twotone } from './Category2';
+export { default as SettingsCategoryTwotone } from './Category';
+export { default as SettingsMenuTwotone } from './Menu';
+export { default as SettingsMore2Twotone } from './More2';
+export { default as SettingsMoreTwotone } from './More';
+export { default as SettingsSetting2Twotone } from './Setting2';
+export { default as SettingsSetting3Twotone } from './Setting3';
+export { default as SettingsSetting4Twotone } from './Setting4';
+export { default as SettingsSetting5Twotone } from './Setting5';
+export { default as SettingsSettingTwotone } from './Setting';
+export { default as SettingsSettingsTwotone } from './Settings';
+export { default as SettingsToggleOffCircleTwotone } from './ToggleOffCircle';
+export { default as SettingsToggleOffTwotone } from './ToggleOff';
+export { default as SettingsToggleOnCircleTwotone } from './ToggleOnCircle';
+export { default as SettingsToggleOnTwotone } from './ToggleOn';

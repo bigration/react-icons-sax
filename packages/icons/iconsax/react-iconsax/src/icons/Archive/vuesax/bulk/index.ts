@@ -1,0 +1,12 @@
+export { default as ArchiveArchiveAddBulk } from './ArchiveAdd';
+export { default as ArchiveArchiveMinusBulk } from './ArchiveMinus';
+export { default as ArchiveArchiveSlashBulk } from './ArchiveSlash';
+export { default as ArchiveArchiveTickBulk } from './ArchiveTick';
+export { default as ArchiveArchiveBulk } from './Archive';
+export { default as ArchiveBookSavedBulk } from './BookSaved';
+export { default as ArchiveBookSquareBulk } from './BookSquare';
+export { default as ArchiveReceiptSquareBulk } from './ReceiptSquare';
+export { default as ArchiveSave2Bulk } from './Save2';
+export { default as ArchiveSaveAddBulk } from './SaveAdd';
+export { default as ArchiveSaveMinusBulk } from './SaveMinus';
+export { default as ArchiveSaveRemoveBulk } from './SaveRemove';

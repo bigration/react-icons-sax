@@ -11,6 +11,26 @@
         "command": "sh packages/icons/iconsax/react-iconsax/generate.sh"
       }
     },
+    "build": {
+      "executor": "@nrwl/web:rollup",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/packages/icons/iconsax/react-iconsax",
+        "tsConfig": "packages/icons/iconsax/react-iconsax/tsconfig.lib.json",
+        "project": "packages/icons/iconsax/react-iconsax/package.json",
+        "entryFile": "packages/icons/iconsax/react-iconsax/src/index.ts",
+        "external": ["react/jsx-runtime"],
+        "rollupConfig": ["@nrwl/react/plugins/bundle-rollup"],
+        "compiler": "babel",
+        "assets": [
+          {
+            "glob": "packages/icons/iconsax/react-iconsax/README.md",
+            "input": ".",
+            "output": "."
+          }
+        ]
+      }
+    },
     "lint": {
       "executor": "@nrwl/linter:eslint",
       "outputs": ["{options.outputFile}"],
@@ -26,6 +46,18 @@
       "options": {
         "jestConfig": "packages/icons/iconsax/react-iconsax/jest.config.ts",
         "passWithNoTests": true
+      }
+    },
+    "version": {
+      "executor": "@jscutlery/semver:version",
+      "options": {
+        "preset": "conventional"
+      }
+    },
+    "deploy": {
+      "executor": "ngx-deploy-npm:deploy",
+      "options": {
+        "access": "public"
       }
     }
   }

@@ -1,0 +1,17 @@
+export { default as SettingsCandle2Outline } from './Candle2';
+export { default as SettingsCandleOutline } from './Candle';
+export { default as SettingsCategory2Outline } from './Category2';
+export { default as SettingsCategoryOutline } from './Category';
+export { default as SettingsMenuOutline } from './Menu';
+export { default as SettingsMore2Outline } from './More2';
+export { default as SettingsMoreOutline } from './More';
+export { default as SettingsSetting2Outline } from './Setting2';
+export { default as SettingsSetting3Outline } from './Setting3';
+export { default as SettingsSetting4Outline } from './Setting4';
+export { default as SettingsSetting5Outline } from './Setting5';
+export { default as SettingsSettingOutline } from './Setting';
+export { default as SettingsSettingsOutline } from './Settings';
+export { default as SettingsToggleOffCircleOutline } from './ToggleOffCircle';
+export { default as SettingsToggleOffOutline } from './ToggleOff';
+export { default as SettingsToggleOnCircleOutline } from './ToggleOnCircle';
+export { default as SettingsToggleOnOutline } from './ToggleOn';

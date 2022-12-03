@@ -17,7 +17,7 @@ export function Index() {
       <div className="wrapper">
         <div className="container">
           <div id="welcome">
-            <ArrowRefreshSquare2Bold width={150} height={150} />
+            <ArrowRefreshSquare2Bold size={24} color="red" />
             <h1>
               <span> Hello there, </span>
               Welcome react-iconsax 👋

@@ -1,0 +1,12 @@
+export { default as ArchiveArchiveAddLinear } from './ArchiveAdd';
+export { default as ArchiveArchiveMinusLinear } from './ArchiveMinus';
+export { default as ArchiveArchiveSlashLinear } from './ArchiveSlash';
+export { default as ArchiveArchiveTickLinear } from './ArchiveTick';
+export { default as ArchiveBookSavedLinear } from './BookSaved';
+export { default as ArchiveBookSquareLinear } from './BookSquare';
+export { default as ArchiveFrameLinear } from './Frame';
+export { default as ArchiveReceiptSquareLinear } from './ReceiptSquare';
+export { default as ArchiveSave2Linear } from './Save2';
+export { default as ArchiveSaveAddLinear } from './SaveAdd';
+export { default as ArchiveSaveMinusLinear } from './SaveMinus';
+export { default as ArchiveSaveRemoveLinear } from './SaveRemove';

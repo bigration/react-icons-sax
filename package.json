@@ -20,6 +20,9 @@
     "tslib": "^2.3.0"
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.0.0",
+    "@commitlint/config-conventional": "^17.0.0",
+    "@jscutlery/semver": "^2.29.0",
     "@nrwl/cli": "15.2.1",
     "@nrwl/cypress": "15.2.1",
     "@nrwl/eslint-plugin-nx": "15.2.1",
@@ -51,9 +54,10 @@
     "eslint-plugin-jsx-a11y": "6.6.1",
     "eslint-plugin-react": "7.31.8",
     "eslint-plugin-react-hooks": "4.6.0",
-    "husky": "^8.0.2",
+    "husky": "^8.0.0",
     "jest": "28.1.1",
     "jest-environment-jsdom": "28.1.1",
+    "ngx-deploy-npm": "^4.3.8",
     "nx": "15.2.1",
     "prettier": "^2.6.2",
     "pretty-quick": "^3.1.3",

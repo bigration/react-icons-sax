@@ -1,0 +1,17 @@
+export { default as SettingsCandle2Bulk } from './Candle2';
+export { default as SettingsCandleBulk } from './Candle';
+export { default as SettingsCategory2Bulk } from './Category2';
+export { default as SettingsCategoryBulk } from './Category';
+export { default as SettingsMenuBulk } from './Menu';
+export { default as SettingsMore2Bulk } from './More2';
+export { default as SettingsMoreBulk } from './More';
+export { default as SettingsSetting2Bulk } from './Setting2';
+export { default as SettingsSetting3Bulk } from './Setting3';
+export { default as SettingsSetting4Bulk } from './Setting4';
+export { default as SettingsSetting5Bulk } from './Setting5';
+export { default as SettingsSettingBulk } from './Setting';
+export { default as SettingsSettingsBulk } from './Settings';
+export { default as SettingsToggleOffCircleBulk } from './ToggleOffCircle';
+export { default as SettingsToggleOffBulk } from './ToggleOff';
+export { default as SettingsToggleOnCircleBulk } from './ToggleOnCircle';
+export { default as SettingsToggleOnBulk } from './ToggleOn';

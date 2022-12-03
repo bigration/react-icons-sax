@@ -1,0 +1,15 @@
+export { default as SchoolLearningAwardOutline } from './Award';
+export { default as SchoolLearningBook1Outline } from './Book1';
+export { default as SchoolLearningBookOutline } from './Book';
+export { default as SchoolLearningBookmark2Outline } from './Bookmark2';
+export { default as SchoolLearningBookmarkOutline } from './Bookmark';
+export { default as SchoolLearningBriefcaseOutline } from './Briefcase';
+export { default as SchoolLearningBrifecaseCrossOutline } from './BrifecaseCross';
+export { default as SchoolLearningBrifecaseTickOutline } from './BrifecaseTick';
+export { default as SchoolLearningBrifecaseTimerOutline } from './BrifecaseTimer';
+export { default as SchoolLearningCalculatorOutline } from './Calculator';
+export { default as SchoolLearningClipboardOutline } from './Clipboard';
+export { default as SchoolLearningGiftOutline } from './Gift';
+export { default as SchoolLearningNote2Outline } from './Note2';
+export { default as SchoolLearningNoteOutline } from './Note';
+export { default as SchoolLearningTeacherOutline } from './Teacher';

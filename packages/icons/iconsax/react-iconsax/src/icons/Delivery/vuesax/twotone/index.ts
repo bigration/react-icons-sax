@@ -1,0 +1,16 @@
+export { default as DeliverySvg3DCubeScanTwotone } from './3DCubeScan';
+export { default as DeliverySvg3DRotateTwotone } from './3DRotate';
+export { default as DeliverySvg3DSquareTwotone } from './3DSquare';
+export { default as DeliveryBox1Twotone } from './Box1';
+export { default as DeliveryBoxAddTwotone } from './BoxAdd';
+export { default as DeliveryBoxRemoveTwotone } from './BoxRemove';
+export { default as DeliveryBoxSearchTwotone } from './BoxSearch';
+export { default as DeliveryBoxTickTwotone } from './BoxTick';
+export { default as DeliveryBoxTimeTwotone } from './BoxTime';
+export { default as DeliveryBoxTwotone } from './Box';
+export { default as DeliveryConvert3DCubeTwotone } from './Convert3DCube';
+export { default as DeliveryIcon1Twotone } from './Icon1';
+export { default as DeliveryIconTwotone } from './Icon';
+export { default as DeliveryTruckFastTwotone } from './TruckFast';
+export { default as DeliveryTruckTickTwotone } from './TruckTick';
+export { default as DeliveryTruckTwotone } from './Truck';

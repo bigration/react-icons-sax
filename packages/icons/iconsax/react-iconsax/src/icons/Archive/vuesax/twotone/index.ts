@@ -1,0 +1,12 @@
+export { default as ArchiveArchiveAddTwotone } from './ArchiveAdd';
+export { default as ArchiveArchiveMinusTwotone } from './ArchiveMinus';
+export { default as ArchiveArchiveSlashTwotone } from './ArchiveSlash';
+export { default as ArchiveArchiveTickTwotone } from './ArchiveTick';
+export { default as ArchiveBookSavedTwotone } from './BookSaved';
+export { default as ArchiveBookSquareTwotone } from './BookSquare';
+export { default as ArchiveFrameTwotone } from './Frame';
+export { default as ArchiveReceiptSquareTwotone } from './ReceiptSquare';
+export { default as ArchiveSave2Twotone } from './Save2';
+export { default as ArchiveSaveAddTwotone } from './SaveAdd';
+export { default as ArchiveSaveMinusTwotone } from './SaveMinus';
+export { default as ArchiveSaveRemoveTwotone } from './SaveRemove';

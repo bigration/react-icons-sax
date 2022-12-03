@@ -1,0 +1,16 @@
+export { default as CarAirplaneSquareTwotone } from './AirplaneSquare';
+export { default as CarAirplaneTwotone } from './Airplane';
+export { default as CarBusTwotone } from './Bus';
+export { default as CarCallAddTwotone } from './CallAdd';
+export { default as CarCallCallingTwotone } from './CallCalling';
+export { default as CarCallIncomingTwotone } from './CallIncoming';
+export { default as CarCallMinusTwotone } from './CallMinus';
+export { default as CarCallOutgoingTwotone } from './CallOutgoing';
+export { default as CarCallReceivedTwotone } from './CallReceived';
+export { default as CarCallRemoveTwotone } from './CallRemove';
+export { default as CarCallSlashTwotone } from './CallSlash';
+export { default as CarCallTwotone } from './Call';
+export { default as CarCarTwotone } from './Car';
+export { default as CarDrivingTwotone } from './Driving';
+export { default as CarShipTwotone } from './Ship';
+export { default as CarSmartCarTwotone } from './SmartCar';

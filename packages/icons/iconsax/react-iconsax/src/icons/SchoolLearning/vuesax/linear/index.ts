@@ -1,0 +1,15 @@
+export { default as SchoolLearningAwardLinear } from './Award';
+export { default as SchoolLearningBook1Linear } from './Book1';
+export { default as SchoolLearningBookLinear } from './Book';
+export { default as SchoolLearningBookmark2Linear } from './Bookmark2';
+export { default as SchoolLearningBookmarkLinear } from './Bookmark';
+export { default as SchoolLearningBriefcaseLinear } from './Briefcase';
+export { default as SchoolLearningBrifecaseCrossLinear } from './BrifecaseCross';
+export { default as SchoolLearningBrifecaseTickLinear } from './BrifecaseTick';
+export { default as SchoolLearningBrifecaseTimerLinear } from './BrifecaseTimer';
+export { default as SchoolLearningCalculatorLinear } from './Calculator';
+export { default as SchoolLearningClipboardLinear } from './Clipboard';
+export { default as SchoolLearningGiftLinear } from './Gift';
+export { default as SchoolLearningNote2Linear } from './Note2';
+export { default as SchoolLearningNoteLinear } from './Note';
+export { default as SchoolLearningTeacherLinear } from './Teacher';

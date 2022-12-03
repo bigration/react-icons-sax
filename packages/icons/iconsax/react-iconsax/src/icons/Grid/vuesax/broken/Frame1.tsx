@@ -1,0 +1,34 @@
+// Auto-generated file
+import * as React from 'react';
+import { SVGProps } from 'react';
+type IconProps = {
+  size?: number;
+};
+const SvgFrame1 = (props: IconProps & SVGProps<SVGSVGElement>) => {
+  const mergedStyles = {
+    display: 'inline-block',
+    fill: undefined,
+    height: props.size || 24,
+    width: props.size || 24,
+  };
+  return (
+    <svg
+      width={props.size || 24}
+      height={props.size || 24}
+      viewBox={props.viewBox || '0 0 24 24'}
+      fill="currentColor"
+      xmlns="http://www.w3.org/2000/svg"
+      style={mergedStyles}
+      {...props}
+    >
+      <path
+        d="M8.27 22c1.59 0 2.23-.6 2.23-2.1V4.1c0-1.5-.64-2.1-2.23-2.1H4.23C2.64 2 2 2.6 2 4.1v15.8c0 1.5.64 2.1 2.23 2.1M15.73 2c-1.59 0-2.23.57-2.23 1.98v4.53c0 1.42.64 1.98 2.23 1.98h4.04c1.59 0 2.23-.57 2.23-1.98V3.98C22 2.57 21.36 2 19.77 2M22 19.77v-4.04c0-1.59-.64-2.23-2.23-2.23h-4.04c-1.59 0-2.23.64-2.23 2.23v4.04c0 1.59.64 2.23 2.23 2.23h4.04c1.59 0 2.23-.64 2.23-2.23Z"
+        stroke="#292D32"
+        strokeWidth={1.5}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+    </svg>
+  );
+};
+export default SvgFrame1;
