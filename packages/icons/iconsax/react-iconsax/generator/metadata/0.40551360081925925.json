@@ -1,0 +1,212 @@
+[
+  {
+    "importName": "ContentEditArchiveBookBold",
+    "exportName": "ArchiveBook",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditBillBold",
+    "exportName": "Bill",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditClipboardCloseBold",
+    "exportName": "ClipboardClose",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditClipboardExportBold",
+    "exportName": "ClipboardExport",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditClipboardImportBold",
+    "exportName": "ClipboardImport",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditClipboardTextBold",
+    "exportName": "ClipboardText",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditClipboardTickBold",
+    "exportName": "ClipboardTick",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditCopyrightBold",
+    "exportName": "Copyright",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditCreativeCommonsBold",
+    "exportName": "CreativeCommons",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditDocumentCloudBold",
+    "exportName": "DocumentCloud",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditDocumentCopyBold",
+    "exportName": "DocumentCopy",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditDocumentDownloadBold",
+    "exportName": "DocumentDownload",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditDocumentFavoriteBold",
+    "exportName": "DocumentFavorite",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditDocumentFilterBold",
+    "exportName": "DocumentFilter",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditDocumentForwardBold",
+    "exportName": "DocumentForward",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditDocumentLikeBold",
+    "exportName": "DocumentLike",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditDocumentNormalBold",
+    "exportName": "DocumentNormal",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditDocumentPreviousBold",
+    "exportName": "DocumentPrevious",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditDocumentSketchBold",
+    "exportName": "DocumentSketch",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditDocumentText1Bold",
+    "exportName": "DocumentText1",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditDocumentTextBold",
+    "exportName": "DocumentText",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditDocumentUploadBold",
+    "exportName": "DocumentUpload",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditDocumentBold",
+    "exportName": "Document",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditEdit2Bold",
+    "exportName": "Edit2",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditEditBold",
+    "exportName": "Edit",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditMenuBoardBold",
+    "exportName": "MenuBoard",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditNote1Bold",
+    "exportName": "Note1",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditNoteAddBold",
+    "exportName": "NoteAdd",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditNoteFavoriteBold",
+    "exportName": "NoteFavorite",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditNoteRemoveBold",
+    "exportName": "NoteRemove",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditNoteTextBold",
+    "exportName": "NoteText",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditNoteBold",
+    "exportName": "Note",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditStickynoteBold",
+    "exportName": "Stickynote",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditTaskSquareBold",
+    "exportName": "TaskSquare",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ContentEditTaskBold",
+    "exportName": "Task",
+    "category": "ContentEdit",
+    "rootFolder": "bold"
+  }
+]

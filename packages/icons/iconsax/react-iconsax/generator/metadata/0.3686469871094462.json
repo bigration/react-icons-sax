@@ -1,0 +1,392 @@
+[
+  {
+    "importName": "ArrowArrangeCircle2Linear",
+    "exportName": "ArrangeCircle2",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrangeCircleLinear",
+    "exportName": "ArrangeCircle",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrangeSquare2Linear",
+    "exportName": "ArrangeSquare2",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrangeSquareLinear",
+    "exportName": "ArrangeSquare",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrow2Linear",
+    "exportName": "Arrow2",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrow3Linear",
+    "exportName": "Arrow3",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowBottomLinear",
+    "exportName": "ArrowBottom",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowCircleDownLinear",
+    "exportName": "ArrowCircleDown",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowCircleLeftLinear",
+    "exportName": "ArrowCircleLeft",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowCircleRightLinear",
+    "exportName": "ArrowCircleRight",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowDown1Linear",
+    "exportName": "ArrowDown1",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowDown2Linear",
+    "exportName": "ArrowDown2",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowDownLinear",
+    "exportName": "ArrowDown",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowLeft1Linear",
+    "exportName": "ArrowLeft1",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowLeft2Linear",
+    "exportName": "ArrowLeft2",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowLeft3Linear",
+    "exportName": "ArrowLeft3",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowLeftLinear",
+    "exportName": "ArrowLeft",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowRight1Linear",
+    "exportName": "ArrowRight1",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowRight2Linear",
+    "exportName": "ArrowRight2",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowRight3Linear",
+    "exportName": "ArrowRight3",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowRightLinear",
+    "exportName": "ArrowRight",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowSquareDownLinear",
+    "exportName": "ArrowSquareDown",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowSquareLeftLinear",
+    "exportName": "ArrowSquareLeft",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowSquareRightLinear",
+    "exportName": "ArrowSquareRight",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowSquareUpLinear",
+    "exportName": "ArrowSquareUp",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowSwapHorizontalLinear",
+    "exportName": "ArrowSwapHorizontal",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowUp1Linear",
+    "exportName": "ArrowUp1",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowUp2Linear",
+    "exportName": "ArrowUp2",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowUp3Linear",
+    "exportName": "ArrowUp3",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowArrowUpLinear",
+    "exportName": "ArrowUp",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowBackSquareLinear",
+    "exportName": "BackSquare",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowConvertLinear",
+    "exportName": "Convert",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowExport1Linear",
+    "exportName": "Export1",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowExport2Linear",
+    "exportName": "Export2",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowExport3Linear",
+    "exportName": "Export3",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowExportLinear",
+    "exportName": "Export",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowForwardSquareLinear",
+    "exportName": "ForwardSquare",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowFrame1Linear",
+    "exportName": "Frame1",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowFrame2Linear",
+    "exportName": "Frame2",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowFrameLinear",
+    "exportName": "Frame",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowImport1Linear",
+    "exportName": "Import1",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowImport2Linear",
+    "exportName": "Import2",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowImportLinear",
+    "exportName": "Import",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowLogin1Linear",
+    "exportName": "Login1",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowLoginLinear",
+    "exportName": "Login",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowLogout1Linear",
+    "exportName": "Logout1",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowLogoutLinear",
+    "exportName": "Logout",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowReceiveSquare2Linear",
+    "exportName": "ReceiveSquare2",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowReceiveSquareLinear",
+    "exportName": "ReceiveSquare",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowReceivedLinear",
+    "exportName": "Received",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowRedoLinear",
+    "exportName": "Redo",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowRefresh2Linear",
+    "exportName": "Refresh2",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowRefreshCircleLinear",
+    "exportName": "RefreshCircle",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowRefreshLeftSquareLinear",
+    "exportName": "RefreshLeftSquare",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowRefreshRightSquareLinear",
+    "exportName": "RefreshRightSquare",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowRefreshSquare2Linear",
+    "exportName": "RefreshSquare2",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowRefreshLinear",
+    "exportName": "Refresh",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowRepeatCircleLinear",
+    "exportName": "RepeatCircle",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowRepeatLinear",
+    "exportName": "Repeat",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowRotateLeftLinear",
+    "exportName": "RotateLeft",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowRotateRightLinear",
+    "exportName": "RotateRight",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowSendSqaure2Linear",
+    "exportName": "SendSqaure2",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowSendSquareLinear",
+    "exportName": "SendSquare",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowSendLinear",
+    "exportName": "Send",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ArrowUndoLinear",
+    "exportName": "Undo",
+    "category": "Arrow",
+    "rootFolder": "linear"
+  }
+]

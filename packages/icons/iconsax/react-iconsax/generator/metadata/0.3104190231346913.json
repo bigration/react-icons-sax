@@ -1,0 +1,122 @@
+[
+  {
+    "importName": "BusinessActivityTwotone",
+    "exportName": "Activity",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessChart1Twotone",
+    "exportName": "Chart1",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessChart2Twotone",
+    "exportName": "Chart2",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessChart21Twotone",
+    "exportName": "Chart21",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessChartSuccessTwotone",
+    "exportName": "ChartSuccess",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessChartTwotone",
+    "exportName": "Chart",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessDiagramTwotone",
+    "exportName": "Diagram",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessFavoriteChartTwotone",
+    "exportName": "FavoriteChart",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessFrameTwotone",
+    "exportName": "Frame",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessGraphTwotone",
+    "exportName": "Graph",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessHashtagTwotone",
+    "exportName": "Hashtag",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessHealthTwotone",
+    "exportName": "Health",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessHomeHashtagTwotone",
+    "exportName": "HomeHashtag",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessHomeTrendDownTwotone",
+    "exportName": "HomeTrendDown",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessHomeTrendUpTwotone",
+    "exportName": "HomeTrendUp",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessPersonalcardTwotone",
+    "exportName": "Personalcard",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessPresentionChartTwotone",
+    "exportName": "PresentionChart",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessStatusUpTwotone",
+    "exportName": "StatusUp",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessTrendDownTwotone",
+    "exportName": "TrendDown",
+    "category": "Business",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BusinessTrendUpTwotone",
+    "exportName": "TrendUp",
+    "category": "Business",
+    "rootFolder": "twotone"
+  }
+]

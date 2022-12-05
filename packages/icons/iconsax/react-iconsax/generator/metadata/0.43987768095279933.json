@@ -1,0 +1,62 @@
+[
+  {
+    "importName": "SearchSearchFavorite1Broken",
+    "exportName": "SearchFavorite1",
+    "category": "Search",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SearchSearchFavoriteBroken",
+    "exportName": "SearchFavorite",
+    "category": "Search",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SearchSearchNormal1Broken",
+    "exportName": "SearchNormal1",
+    "category": "Search",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SearchSearchNormalBroken",
+    "exportName": "SearchNormal",
+    "category": "Search",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SearchSearchStatus1Broken",
+    "exportName": "SearchStatus1",
+    "category": "Search",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SearchSearchStatusBroken",
+    "exportName": "SearchStatus",
+    "category": "Search",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SearchSearchZoomIn1Broken",
+    "exportName": "SearchZoomIn1",
+    "category": "Search",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SearchSearchZoomInBroken",
+    "exportName": "SearchZoomIn",
+    "category": "Search",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SearchSearchZoomOut1Broken",
+    "exportName": "SearchZoomOut1",
+    "category": "Search",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SearchSearchZoomOutBroken",
+    "exportName": "SearchZoomOut",
+    "category": "Search",
+    "rootFolder": "broken"
+  }
+]

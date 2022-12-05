@@ -1,0 +1,110 @@
+[
+  {
+    "importName": "WeatherCloudCrossTwotone",
+    "exportName": "CloudCross",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherCloudDrizzleTwotone",
+    "exportName": "CloudDrizzle",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherCloudFogTwotone",
+    "exportName": "CloudFog",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherCloudLightningTwotone",
+    "exportName": "CloudLightning",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherCloudMinusTwotone",
+    "exportName": "CloudMinus",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherCloudNotifTwotone",
+    "exportName": "CloudNotif",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherCloudPlusTwotone",
+    "exportName": "CloudPlus",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherCloudSnowTwotone",
+    "exportName": "CloudSnow",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherCloudSunnyTwotone",
+    "exportName": "CloudSunny",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherCloudTwotone",
+    "exportName": "Cloud",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherDropTwotone",
+    "exportName": "Drop",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherFlashTwotone",
+    "exportName": "Flash",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherMoonTwotone",
+    "exportName": "Moon",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherSun1Twotone",
+    "exportName": "Sun1",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherSunFogTwotone",
+    "exportName": "SunFog",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherSunTwotone",
+    "exportName": "Sun",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherWind2Twotone",
+    "exportName": "Wind2",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "WeatherWindTwotone",
+    "exportName": "Wind",
+    "category": "Weather",
+    "rootFolder": "twotone"
+  }
+]

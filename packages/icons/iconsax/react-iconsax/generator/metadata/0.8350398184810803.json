@@ -1,0 +1,158 @@
+[
+  {
+    "importName": "SupportLikeQuestionSvg24SupportOutline",
+    "exportName": "Svg24Support",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionDislikeOutline",
+    "exportName": "Dislike",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartAddOutline",
+    "exportName": "HeartAdd",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartCircleOutline",
+    "exportName": "HeartCircle",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartEditOutline",
+    "exportName": "HeartEdit",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartRemoveOutline",
+    "exportName": "HeartRemove",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartSearchOutline",
+    "exportName": "HeartSearch",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartSlashOutline",
+    "exportName": "HeartSlash",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartTickOutline",
+    "exportName": "HeartTick",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartOutline",
+    "exportName": "Heart",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionLike1Outline",
+    "exportName": "Like1",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeDislikeOutline",
+    "exportName": "LikeDislike",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeShapesOutline",
+    "exportName": "LikeShapes",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeTagOutline",
+    "exportName": "LikeTag",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeOutline",
+    "exportName": "Like",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionLovelyOutline",
+    "exportName": "Lovely",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionMagicStarOutline",
+    "exportName": "MagicStar",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionMedalStarOutline",
+    "exportName": "MedalStar",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionMedalOutline",
+    "exportName": "Medal",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionMessageQuestionOutline",
+    "exportName": "MessageQuestion",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionRankingOutline",
+    "exportName": "Ranking",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionSmileysOutline",
+    "exportName": "Smileys",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionStar1Outline",
+    "exportName": "Star1",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionStarSlashOutline",
+    "exportName": "StarSlash",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionStarOutline",
+    "exportName": "Star",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SupportLikeQuestionUnlimitedOutline",
+    "exportName": "Unlimited",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "outline"
+  }
+]

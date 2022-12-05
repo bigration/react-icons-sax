@@ -2,8 +2,7 @@ const comments = `
 // Auto-generated file
 `;
 
-const template = (variables, { tpl, ast }) => {
-  // console.log(JSON.stringify(variables.jsx.children));
+const template = (variables, { tpl }) => {
   return tpl`
 ${comments}
 ${variables.imports};

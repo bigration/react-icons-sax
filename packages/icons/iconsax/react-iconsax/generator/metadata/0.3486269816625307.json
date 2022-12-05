@@ -1,0 +1,212 @@
+[
+  {
+    "importName": "ContentEditArchiveBookBroken",
+    "exportName": "ArchiveBook",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditBillBroken",
+    "exportName": "Bill",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditClipboardCloseBroken",
+    "exportName": "ClipboardClose",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditClipboardExportBroken",
+    "exportName": "ClipboardExport",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditClipboardImportBroken",
+    "exportName": "ClipboardImport",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditClipboardTextBroken",
+    "exportName": "ClipboardText",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditClipboardTickBroken",
+    "exportName": "ClipboardTick",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditCopyrightBroken",
+    "exportName": "Copyright",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditCreativeCommonsBroken",
+    "exportName": "CreativeCommons",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditDocumentCloudBroken",
+    "exportName": "DocumentCloud",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditDocumentCopyBroken",
+    "exportName": "DocumentCopy",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditDocumentDownloadBroken",
+    "exportName": "DocumentDownload",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditDocumentFavoriteBroken",
+    "exportName": "DocumentFavorite",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditDocumentFilterBroken",
+    "exportName": "DocumentFilter",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditDocumentForwardBroken",
+    "exportName": "DocumentForward",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditDocumentLikeBroken",
+    "exportName": "DocumentLike",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditDocumentNormalBroken",
+    "exportName": "DocumentNormal",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditDocumentPreviousBroken",
+    "exportName": "DocumentPrevious",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditDocumentSketchBroken",
+    "exportName": "DocumentSketch",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditDocumentText1Broken",
+    "exportName": "DocumentText1",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditDocumentTextBroken",
+    "exportName": "DocumentText",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditDocumentUploadBroken",
+    "exportName": "DocumentUpload",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditDocumentBroken",
+    "exportName": "Document",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditEdit2Broken",
+    "exportName": "Edit2",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditEditBroken",
+    "exportName": "Edit",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditMenuBoardBroken",
+    "exportName": "MenuBoard",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditNote1Broken",
+    "exportName": "Note1",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditNoteAddBroken",
+    "exportName": "NoteAdd",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditNoteFavoriteBroken",
+    "exportName": "NoteFavorite",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditNoteRemoveBroken",
+    "exportName": "NoteRemove",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditNoteTextBroken",
+    "exportName": "NoteText",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditNoteBroken",
+    "exportName": "Note",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditStickynoteBroken",
+    "exportName": "Stickynote",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditTaskSquareBroken",
+    "exportName": "TaskSquare",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ContentEditTaskBroken",
+    "exportName": "Task",
+    "category": "ContentEdit",
+    "rootFolder": "broken"
+  }
+]

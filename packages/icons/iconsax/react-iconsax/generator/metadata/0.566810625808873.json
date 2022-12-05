@@ -1,0 +1,68 @@
+[
+  {
+    "importName": "BuildingBankBold",
+    "exportName": "Bank",
+    "category": "Building",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BuildingBuilding3Bold",
+    "exportName": "Building3",
+    "category": "Building",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BuildingBuilding4Bold",
+    "exportName": "Building4",
+    "category": "Building",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BuildingBuildingBold",
+    "exportName": "Building",
+    "category": "Building",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BuildingBuildings2Bold",
+    "exportName": "Buildings2",
+    "category": "Building",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BuildingBuildingsBold",
+    "exportName": "Buildings",
+    "category": "Building",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BuildingBulidingBold",
+    "exportName": "Buliding",
+    "category": "Building",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BuildingCourthouseBold",
+    "exportName": "Courthouse",
+    "category": "Building",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BuildingHospitalBold",
+    "exportName": "Hospital",
+    "category": "Building",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BuildingHouse2Bold",
+    "exportName": "House2",
+    "category": "Building",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BuildingHouseBold",
+    "exportName": "House",
+    "category": "Building",
+    "rootFolder": "bold"
+  }
+]

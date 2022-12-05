@@ -1,0 +1,164 @@
+[
+  {
+    "importName": "LocationArrowSquareBroken",
+    "exportName": "ArrowSquare",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationArrowBroken",
+    "exportName": "Arrow",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationDirectDownBroken",
+    "exportName": "DirectDown",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationDirectLeftBroken",
+    "exportName": "DirectLeft",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationDirectRightBroken",
+    "exportName": "DirectRight",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationDirectUpBroken",
+    "exportName": "DirectUp",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationDiscoverBroken",
+    "exportName": "Discover",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationGlobalEditBroken",
+    "exportName": "GlobalEdit",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationGlobalRefreshBroken",
+    "exportName": "GlobalRefresh",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationGlobalSearchBroken",
+    "exportName": "GlobalSearch",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationGlobalBroken",
+    "exportName": "Global",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationGpsSlashBroken",
+    "exportName": "GpsSlash",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationGpsBroken",
+    "exportName": "Gps",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationLocationAddBroken",
+    "exportName": "LocationAdd",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationLocationCrossBroken",
+    "exportName": "LocationCross",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationLocationMinusBroken",
+    "exportName": "LocationMinus",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationLocationSlashBroken",
+    "exportName": "LocationSlash",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationLocationTickBroken",
+    "exportName": "LocationTick",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationLocationBroken",
+    "exportName": "Location",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationMap1Broken",
+    "exportName": "Map1",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationMapBroken",
+    "exportName": "Map",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationPictureFrameBroken",
+    "exportName": "PictureFrame",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationRadar2Broken",
+    "exportName": "Radar2",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationRadarBroken",
+    "exportName": "Radar",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationRouteSquareBroken",
+    "exportName": "RouteSquare",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationRouting2Broken",
+    "exportName": "Routing2",
+    "category": "Location",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "LocationRoutingBroken",
+    "exportName": "Routing",
+    "category": "Location",
+    "rootFolder": "broken"
+  }
+]

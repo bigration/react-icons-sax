@@ -1,0 +1,206 @@
+[
+  {
+    "importName": "ContentEditArchiveBookLinear",
+    "exportName": "ArchiveBook",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditBillLinear",
+    "exportName": "Bill",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditClipboardCloseLinear",
+    "exportName": "ClipboardClose",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditClipboardExportLinear",
+    "exportName": "ClipboardExport",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditClipboardImportLinear",
+    "exportName": "ClipboardImport",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditClipboardTextLinear",
+    "exportName": "ClipboardText",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditClipboardTickLinear",
+    "exportName": "ClipboardTick",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditCopyrightLinear",
+    "exportName": "Copyright",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditCreativeCommonsLinear",
+    "exportName": "CreativeCommons",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditDocumentCloudLinear",
+    "exportName": "DocumentCloud",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditDocumentCopyLinear",
+    "exportName": "DocumentCopy",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditDocumentDownloadLinear",
+    "exportName": "DocumentDownload",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditDocumentFavoriteLinear",
+    "exportName": "DocumentFavorite",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditDocumentFilterLinear",
+    "exportName": "DocumentFilter",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditDocumentForwardLinear",
+    "exportName": "DocumentForward",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditDocumentLikeLinear",
+    "exportName": "DocumentLike",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditDocumentPreviousLinear",
+    "exportName": "DocumentPrevious",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditDocumentSketchLinear",
+    "exportName": "DocumentSketch",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditDocumentText1Linear",
+    "exportName": "DocumentText1",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditDocumentTextLinear",
+    "exportName": "DocumentText",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditDocumentUploadLinear",
+    "exportName": "DocumentUpload",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditDocumentLinear",
+    "exportName": "Document",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditEdit2Linear",
+    "exportName": "Edit2",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditEditLinear",
+    "exportName": "Edit",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditMenuBoardLinear",
+    "exportName": "MenuBoard",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditNote1Linear",
+    "exportName": "Note1",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditNoteAddLinear",
+    "exportName": "NoteAdd",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditNoteFavoriteLinear",
+    "exportName": "NoteFavorite",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditNoteRemoveLinear",
+    "exportName": "NoteRemove",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditNoteTextLinear",
+    "exportName": "NoteText",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditNoteLinear",
+    "exportName": "Note",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditStickynoteLinear",
+    "exportName": "Stickynote",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditTaskSquareLinear",
+    "exportName": "TaskSquare",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ContentEditTaskLinear",
+    "exportName": "Task",
+    "category": "ContentEdit",
+    "rootFolder": "linear"
+  }
+]

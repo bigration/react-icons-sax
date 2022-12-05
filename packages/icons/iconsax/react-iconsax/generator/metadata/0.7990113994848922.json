@@ -1,0 +1,164 @@
+[
+  {
+    "importName": "LocationArrowSquareBold",
+    "exportName": "ArrowSquare",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationArrowBold",
+    "exportName": "Arrow",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationDirectDownBold",
+    "exportName": "DirectDown",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationDirectLeftBold",
+    "exportName": "DirectLeft",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationDirectRightBold",
+    "exportName": "DirectRight",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationDirectUpBold",
+    "exportName": "DirectUp",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationDiscoverBold",
+    "exportName": "Discover",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationGlobalEditBold",
+    "exportName": "GlobalEdit",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationGlobalRefreshBold",
+    "exportName": "GlobalRefresh",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationGlobalSearchBold",
+    "exportName": "GlobalSearch",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationGlobalBold",
+    "exportName": "Global",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationGpsSlashBold",
+    "exportName": "GpsSlash",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationGpsBold",
+    "exportName": "Gps",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationLocationAddBold",
+    "exportName": "LocationAdd",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationLocationCrossBold",
+    "exportName": "LocationCross",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationLocationMinusBold",
+    "exportName": "LocationMinus",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationLocationSlashBold",
+    "exportName": "LocationSlash",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationLocationTickBold",
+    "exportName": "LocationTick",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationLocationBold",
+    "exportName": "Location",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationMap1Bold",
+    "exportName": "Map1",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationMapBold",
+    "exportName": "Map",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationPictureFrameBold",
+    "exportName": "PictureFrame",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationRadar2Bold",
+    "exportName": "Radar2",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationRadarBold",
+    "exportName": "Radar",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationRouteSquareBold",
+    "exportName": "RouteSquare",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationRouting2Bold",
+    "exportName": "Routing2",
+    "category": "Location",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "LocationRoutingBold",
+    "exportName": "Routing",
+    "category": "Location",
+    "rootFolder": "bold"
+  }
+]

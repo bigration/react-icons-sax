@@ -188,3 +188,4 @@ export * from './icons/Weather/vuesax/bulk';
 export * from './icons/Weather/vuesax/linear';
 export * from './icons/Weather/vuesax/outline';
 export * from './icons/Weather/vuesax/twotone';
+export {metadata} from './metadata';

@@ -1,0 +1,92 @@
+[
+  {
+    "importName": "SchoolLearningAwardBold",
+    "exportName": "Award",
+    "category": "SchoolLearning",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SchoolLearningBook1Bold",
+    "exportName": "Book1",
+    "category": "SchoolLearning",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SchoolLearningBookBold",
+    "exportName": "Book",
+    "category": "SchoolLearning",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SchoolLearningBookmark2Bold",
+    "exportName": "Bookmark2",
+    "category": "SchoolLearning",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SchoolLearningBookmarkBold",
+    "exportName": "Bookmark",
+    "category": "SchoolLearning",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SchoolLearningBriefcaseBold",
+    "exportName": "Briefcase",
+    "category": "SchoolLearning",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SchoolLearningBrifecaseCrossBold",
+    "exportName": "BrifecaseCross",
+    "category": "SchoolLearning",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SchoolLearningBrifecaseTickBold",
+    "exportName": "BrifecaseTick",
+    "category": "SchoolLearning",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SchoolLearningBrifecaseTimerBold",
+    "exportName": "BrifecaseTimer",
+    "category": "SchoolLearning",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SchoolLearningCalculatorBold",
+    "exportName": "Calculator",
+    "category": "SchoolLearning",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SchoolLearningClipboardBold",
+    "exportName": "Clipboard",
+    "category": "SchoolLearning",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SchoolLearningGiftBold",
+    "exportName": "Gift",
+    "category": "SchoolLearning",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SchoolLearningNote2Bold",
+    "exportName": "Note2",
+    "category": "SchoolLearning",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SchoolLearningNoteBold",
+    "exportName": "Note",
+    "category": "SchoolLearning",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SchoolLearningTeacherBold",
+    "exportName": "Teacher",
+    "category": "SchoolLearning",
+    "rootFolder": "bold"
+  }
+]

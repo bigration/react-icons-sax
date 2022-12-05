@@ -1,0 +1,272 @@
+[
+  {
+    "importName": "GridSvg3SquareLinear",
+    "exportName": "Svg3Square",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridAlignBottomLinear",
+    "exportName": "AlignBottom",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridAlignHorizontallyLinear",
+    "exportName": "AlignHorizontally",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridAlignLeftLinear",
+    "exportName": "AlignLeft",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridAlignRightLinear",
+    "exportName": "AlignRight",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridAlignVerticallyLinear",
+    "exportName": "AlignVertically",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridConvertshape2Linear",
+    "exportName": "Convertshape2",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridConvertshapeLinear",
+    "exportName": "Convertshape",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridCropLinear",
+    "exportName": "Crop",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridElement1Linear",
+    "exportName": "Element1",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridElement2Linear",
+    "exportName": "Element2",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridElement3Linear",
+    "exportName": "Element3",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridElement4Linear",
+    "exportName": "Element4",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridElementEqualLinear",
+    "exportName": "ElementEqual",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridElementPlusLinear",
+    "exportName": "ElementPlus",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridFatrowsLinear",
+    "exportName": "Fatrows",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridFormatCircleLinear",
+    "exportName": "FormatCircle",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridFormatSquareLinear",
+    "exportName": "FormatSquare",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridFrameLinear",
+    "exportName": "Frame",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridGrid1Linear",
+    "exportName": "Grid1",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridGrid2Linear",
+    "exportName": "Grid2",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridGrid3Linear",
+    "exportName": "Grid3",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridGrid4Linear",
+    "exportName": "Grid4",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridGrid5Linear",
+    "exportName": "Grid5",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridGrid6Linear",
+    "exportName": "Grid6",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridGrid7Linear",
+    "exportName": "Grid7",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridGrid8Linear",
+    "exportName": "Grid8",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridGrid9Linear",
+    "exportName": "Grid9",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridGridEditLinear",
+    "exportName": "GridEdit",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridGridEraserLinear",
+    "exportName": "GridEraser",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridGridLockLinear",
+    "exportName": "GridLock",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridKanbanLinear",
+    "exportName": "Kanban",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridMaximize1Linear",
+    "exportName": "Maximize1",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridMaximize2Linear",
+    "exportName": "Maximize2",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridMaximize3Linear",
+    "exportName": "Maximize3",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridMaximize4Linear",
+    "exportName": "Maximize4",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridMaximizeLinear",
+    "exportName": "Maximize",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridRotateLeftLinear",
+    "exportName": "RotateLeft",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridRotateRightLinear",
+    "exportName": "RotateRight",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridRowHorizontalLinear",
+    "exportName": "RowHorizontal",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridRowVerticalLinear",
+    "exportName": "RowVertical",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridSliderHorizontal1Linear",
+    "exportName": "SliderHorizontal1",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridSliderHorizontalLinear",
+    "exportName": "SliderHorizontal",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridSliderVertical1Linear",
+    "exportName": "SliderVertical1",
+    "category": "Grid",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "GridSliderVerticalLinear",
+    "exportName": "SliderVertical",
+    "category": "Grid",
+    "rootFolder": "linear"
+  }
+]

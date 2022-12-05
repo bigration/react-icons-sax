@@ -1,0 +1,392 @@
+[
+  {
+    "importName": "ArrowArrangeCircle2Outline",
+    "exportName": "ArrangeCircle2",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrangeCircleOutline",
+    "exportName": "ArrangeCircle",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrangeSquare2Outline",
+    "exportName": "ArrangeSquare2",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrangeSquareOutline",
+    "exportName": "ArrangeSquare",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrow2Outline",
+    "exportName": "Arrow2",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrow3Outline",
+    "exportName": "Arrow3",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowBottomOutline",
+    "exportName": "ArrowBottom",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowCircleDownOutline",
+    "exportName": "ArrowCircleDown",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowCircleLeftOutline",
+    "exportName": "ArrowCircleLeft",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowCircleRightOutline",
+    "exportName": "ArrowCircleRight",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowCircleUpOutline",
+    "exportName": "ArrowCircleUp",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowDown1Outline",
+    "exportName": "ArrowDown1",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowDown2Outline",
+    "exportName": "ArrowDown2",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowDownOutline",
+    "exportName": "ArrowDown",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowLeft1Outline",
+    "exportName": "ArrowLeft1",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowLeft2Outline",
+    "exportName": "ArrowLeft2",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowLeft3Outline",
+    "exportName": "ArrowLeft3",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowLeftOutline",
+    "exportName": "ArrowLeft",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowRight1Outline",
+    "exportName": "ArrowRight1",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowRight2Outline",
+    "exportName": "ArrowRight2",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowRight3Outline",
+    "exportName": "ArrowRight3",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowRight4Outline",
+    "exportName": "ArrowRight4",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowRightOutline",
+    "exportName": "ArrowRight",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowSquareDownOutline",
+    "exportName": "ArrowSquareDown",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowSquareLeftOutline",
+    "exportName": "ArrowSquareLeft",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowSquareUpOutline",
+    "exportName": "ArrowSquareUp",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowSwapHorizontalOutline",
+    "exportName": "ArrowSwapHorizontal",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowSwapOutline",
+    "exportName": "ArrowSwap",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowUp1Outline",
+    "exportName": "ArrowUp1",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowUp2Outline",
+    "exportName": "ArrowUp2",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowUp3Outline",
+    "exportName": "ArrowUp3",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowArrowUpOutline",
+    "exportName": "ArrowUp",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowBackSquareOutline",
+    "exportName": "BackSquare",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowConvertOutline",
+    "exportName": "Convert",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowExport1Outline",
+    "exportName": "Export1",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowExport2Outline",
+    "exportName": "Export2",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowExport3Outline",
+    "exportName": "Export3",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowExportOutline",
+    "exportName": "Export",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowForwardSquareOutline",
+    "exportName": "ForwardSquare",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowFrameOutline",
+    "exportName": "Frame",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowImport1Outline",
+    "exportName": "Import1",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowImport2Outline",
+    "exportName": "Import2",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowImportOutline",
+    "exportName": "Import",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowLogin1Outline",
+    "exportName": "Login1",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowLoginOutline",
+    "exportName": "Login",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowLogout1Outline",
+    "exportName": "Logout1",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowLogoutOutline",
+    "exportName": "Logout",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowReceiveSquare2Outline",
+    "exportName": "ReceiveSquare2",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowReceiveSquareOutline",
+    "exportName": "ReceiveSquare",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowReceivedOutline",
+    "exportName": "Received",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowRedoOutline",
+    "exportName": "Redo",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowRefresh2Outline",
+    "exportName": "Refresh2",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowRefreshCircleOutline",
+    "exportName": "RefreshCircle",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowRefreshLeftSquareOutline",
+    "exportName": "RefreshLeftSquare",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowRefreshRightSquareOutline",
+    "exportName": "RefreshRightSquare",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowRefreshSquare2Outline",
+    "exportName": "RefreshSquare2",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowRefreshOutline",
+    "exportName": "Refresh",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowRepeatCircleOutline",
+    "exportName": "RepeatCircle",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowRepeatOutline",
+    "exportName": "Repeat",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowRotateLeftOutline",
+    "exportName": "RotateLeft",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowRotateRightOutline",
+    "exportName": "RotateRight",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowSendSqaure2Outline",
+    "exportName": "SendSqaure2",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowSendSquareOutline",
+    "exportName": "SendSquare",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowSendOutline",
+    "exportName": "Send",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArrowUndoOutline",
+    "exportName": "Undo",
+    "category": "Arrow",
+    "rootFolder": "outline"
+  }
+]

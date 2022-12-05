@@ -1,0 +1,68 @@
+[
+  {
+    "importName": "BuildingBankTwotone",
+    "exportName": "Bank",
+    "category": "Building",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BuildingBuilding3Twotone",
+    "exportName": "Building3",
+    "category": "Building",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BuildingBuilding4Twotone",
+    "exportName": "Building4",
+    "category": "Building",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BuildingBuildingTwotone",
+    "exportName": "Building",
+    "category": "Building",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BuildingBuildings2Twotone",
+    "exportName": "Buildings2",
+    "category": "Building",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BuildingBuildingsTwotone",
+    "exportName": "Buildings",
+    "category": "Building",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BuildingBulidingTwotone",
+    "exportName": "Buliding",
+    "category": "Building",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BuildingCourthouseTwotone",
+    "exportName": "Courthouse",
+    "category": "Building",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BuildingHospitalTwotone",
+    "exportName": "Hospital",
+    "category": "Building",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BuildingHouse2Twotone",
+    "exportName": "House2",
+    "category": "Building",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "BuildingHouseTwotone",
+    "exportName": "House",
+    "category": "Building",
+    "rootFolder": "twotone"
+  }
+]

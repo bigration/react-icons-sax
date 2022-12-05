@@ -1,0 +1,302 @@
+[
+  {
+    "importName": "DesignToolsAdditemOutline",
+    "exportName": "Additem",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsBackwardItemOutline",
+    "exportName": "BackwardItem",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsBezierOutline",
+    "exportName": "Bezier",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsBlend2Outline",
+    "exportName": "Blend2",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsBlendOutline",
+    "exportName": "Blend",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsBlurOutline",
+    "exportName": "Blur",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsBrush1Outline",
+    "exportName": "Brush1",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsBrush2Outline",
+    "exportName": "Brush2",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsBrush3Outline",
+    "exportName": "Brush3",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsBrush4Outline",
+    "exportName": "Brush4",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsBrushOutline",
+    "exportName": "Brush",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsBucketCircleOutline",
+    "exportName": "BucketCircle",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsBucketSquareOutline",
+    "exportName": "BucketSquare",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsBucketOutline",
+    "exportName": "Bucket",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsColorSwatchOutline",
+    "exportName": "ColorSwatch",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsColorfilterOutline",
+    "exportName": "Colorfilter",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsColorsSquareOutline",
+    "exportName": "ColorsSquare",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsComponentOutline",
+    "exportName": "Component",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsCopySuccessOutline",
+    "exportName": "CopySuccess",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsCopyOutline",
+    "exportName": "Copy",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsDesigntoolsOutline",
+    "exportName": "Designtools",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsEraserOutline",
+    "exportName": "Eraser",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsFlashCircleOutline",
+    "exportName": "FlashCircle",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsForwardItemOutline",
+    "exportName": "ForwardItem",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsGlassOutline",
+    "exportName": "Glass",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsLayerOutline",
+    "exportName": "Layer",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsLifebuoyOutline",
+    "exportName": "Lifebuoy",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsMagicpenOutline",
+    "exportName": "Magicpen",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsMainComponentOutline",
+    "exportName": "MainComponent",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsMask1Outline",
+    "exportName": "Mask1",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsMask2Outline",
+    "exportName": "Mask2",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsMaskOutline",
+    "exportName": "Mask",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsOmegaCircleOutline",
+    "exportName": "OmegaCircle",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsOmegaSquareOutline",
+    "exportName": "OmegaSquare",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsPaintbucketOutline",
+    "exportName": "Paintbucket",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsPath2Outline",
+    "exportName": "Path2",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsPathSquareOutline",
+    "exportName": "PathSquare",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsPathOutline",
+    "exportName": "Path",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsPenAddOutline",
+    "exportName": "PenAdd",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsPenCloseOutline",
+    "exportName": "PenClose",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsPenRemoveOutline",
+    "exportName": "PenRemove",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsPenTool2Outline",
+    "exportName": "PenTool2",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsPenToolOutline",
+    "exportName": "PenTool",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsRecoveryConvertOutline",
+    "exportName": "RecoveryConvert",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsRulerOutline",
+    "exportName": "Ruler",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsRulerpenOutline",
+    "exportName": "Rulerpen",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsScissorOutline",
+    "exportName": "Scissor",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsShapes1Outline",
+    "exportName": "Shapes1",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsShapesOutline",
+    "exportName": "Shapes",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DesignToolsSizeOutline",
+    "exportName": "Size",
+    "category": "DesignTools",
+    "rootFolder": "outline"
+  }
+]

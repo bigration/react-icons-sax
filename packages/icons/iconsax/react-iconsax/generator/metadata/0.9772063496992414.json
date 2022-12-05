@@ -1,0 +1,122 @@
+[
+  {
+    "importName": "BusinessActivityLinear",
+    "exportName": "Activity",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessChart1Linear",
+    "exportName": "Chart1",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessChart2Linear",
+    "exportName": "Chart2",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessChart21Linear",
+    "exportName": "Chart21",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessChartSuccessLinear",
+    "exportName": "ChartSuccess",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessChartLinear",
+    "exportName": "Chart",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessDiagramLinear",
+    "exportName": "Diagram",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessFavoriteChartLinear",
+    "exportName": "FavoriteChart",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessFrameLinear",
+    "exportName": "Frame",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessGraphLinear",
+    "exportName": "Graph",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessHashtagLinear",
+    "exportName": "Hashtag",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessHealthLinear",
+    "exportName": "Health",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessHomeHashtagLinear",
+    "exportName": "HomeHashtag",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessHomeTrendDownLinear",
+    "exportName": "HomeTrendDown",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessHomeTrendUpLinear",
+    "exportName": "HomeTrendUp",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessPersonalcardLinear",
+    "exportName": "Personalcard",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessPresentionChartLinear",
+    "exportName": "PresentionChart",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessStatusUpLinear",
+    "exportName": "StatusUp",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessTrendDownLinear",
+    "exportName": "TrendDown",
+    "category": "Business",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BusinessTrendUpLinear",
+    "exportName": "TrendUp",
+    "category": "Business",
+    "rootFolder": "linear"
+  }
+]

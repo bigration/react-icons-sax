@@ -1,0 +1,488 @@
+[
+  {
+    "importName": "VideoAudioImageAudioSquareBulk",
+    "exportName": "AudioSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageBackward10SecondsBulk",
+    "exportName": "Backward10Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageBackward15SecondsBulk",
+    "exportName": "Backward15Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageBackward5SecondsBulk",
+    "exportName": "Backward5Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageBackwardBulk",
+    "exportName": "Backward",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageCameraSlashBulk",
+    "exportName": "CameraSlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageCameraBulk",
+    "exportName": "Camera",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageDevicesBulk",
+    "exportName": "Devices",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageForward10SecondsBulk",
+    "exportName": "Forward10Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageForward15SecondsBulk",
+    "exportName": "Forward15Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageForward5SecondsBulk",
+    "exportName": "Forward5Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageForwardBulk",
+    "exportName": "Forward",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageFrameBulk",
+    "exportName": "Frame",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageGalleryAddBulk",
+    "exportName": "GalleryAdd",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageGalleryEditBulk",
+    "exportName": "GalleryEdit",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageGalleryFavoriteBulk",
+    "exportName": "GalleryFavorite",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageGalleryImportBulk",
+    "exportName": "GalleryImport",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageGalleryRemoveBulk",
+    "exportName": "GalleryRemove",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageGallerySlashBulk",
+    "exportName": "GallerySlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageGalleryTickBulk",
+    "exportName": "GalleryTick",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageGalleryBulk",
+    "exportName": "Gallery",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageImageBulk",
+    "exportName": "Image",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMaximizeCircleBulk",
+    "exportName": "MaximizeCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMicrophone2Bulk",
+    "exportName": "Microphone2",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMicrophoneSlash1Bulk",
+    "exportName": "MicrophoneSlash1",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMicrophoneSlashBulk",
+    "exportName": "MicrophoneSlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMicrophoneBulk",
+    "exportName": "Microphone",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMiniMusicSqaureBulk",
+    "exportName": "MiniMusicSqaure",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMusicCircleBulk",
+    "exportName": "MusicCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMusicDashboardBulk",
+    "exportName": "MusicDashboard",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMusicFilterBulk",
+    "exportName": "MusicFilter",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMusicLibrary2Bulk",
+    "exportName": "MusicLibrary2",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMusicPlaylistBulk",
+    "exportName": "MusicPlaylist",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMusicSquareAddBulk",
+    "exportName": "MusicSquareAdd",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMusicSquareRemoveBulk",
+    "exportName": "MusicSquareRemove",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMusicSquareSearchBulk",
+    "exportName": "MusicSquareSearch",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMusicSquareBulk",
+    "exportName": "MusicSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMusicBulk",
+    "exportName": "Music",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageMusicnoteBulk",
+    "exportName": "Musicnote",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageNextBulk",
+    "exportName": "Next",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageNoteSquareBulk",
+    "exportName": "NoteSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImagePauseCircleBulk",
+    "exportName": "PauseCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImagePauseBulk",
+    "exportName": "Pause",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImagePlayAddBulk",
+    "exportName": "PlayAdd",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImagePlayCircleBulk",
+    "exportName": "PlayCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImagePlayCricleBulk",
+    "exportName": "PlayCricle",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImagePlayRemoveBulk",
+    "exportName": "PlayRemove",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImagePlayBulk",
+    "exportName": "Play",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImagePreviousBulk",
+    "exportName": "Previous",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageRadioBulk",
+    "exportName": "Radio",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageRecordCircleBulk",
+    "exportName": "RecordCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageRecordBulk",
+    "exportName": "Record",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageRepeateMusicBulk",
+    "exportName": "RepeateMusic",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageRepeateOneBulk",
+    "exportName": "RepeateOne",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageScissorBulk",
+    "exportName": "Scissor",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageScreenmirroringBulk",
+    "exportName": "Screenmirroring",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageShuffleBulk",
+    "exportName": "Shuffle",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageStopCircleBulk",
+    "exportName": "StopCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageStopBulk",
+    "exportName": "Stop",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageSubtitleBulk",
+    "exportName": "Subtitle",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVideoAddBulk",
+    "exportName": "VideoAdd",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVideoCircleBulk",
+    "exportName": "VideoCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVideoHorizontalBulk",
+    "exportName": "VideoHorizontal",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVideoOctagonBulk",
+    "exportName": "VideoOctagon",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVideoPlayBulk",
+    "exportName": "VideoPlay",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVideoRemoveBulk",
+    "exportName": "VideoRemove",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVideoSlashBulk",
+    "exportName": "VideoSlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVideoSquareBulk",
+    "exportName": "VideoSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVideoTickBulk",
+    "exportName": "VideoTick",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVideoTimeBulk",
+    "exportName": "VideoTime",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVideoVerticalBulk",
+    "exportName": "VideoVertical",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVideoBulk",
+    "exportName": "Video",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVoiceCricleBulk",
+    "exportName": "VoiceCricle",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVoiceSquareBulk",
+    "exportName": "VoiceSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVolumeCrossBulk",
+    "exportName": "VolumeCross",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVolumeHighBulk",
+    "exportName": "VolumeHigh",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVolumeLow1Bulk",
+    "exportName": "VolumeLow1",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVolumeLowBulk",
+    "exportName": "VolumeLow",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVolumeMuteBulk",
+    "exportName": "VolumeMute",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVolumeSlashBulk",
+    "exportName": "VolumeSlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "VideoAudioImageVolumeUpBulk",
+    "exportName": "VolumeUp",
+    "category": "VideoAudioImage",
+    "rootFolder": "bulk"
+  }
+]

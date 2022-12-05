@@ -1,0 +1,62 @@
+[
+  {
+    "importName": "SearchSearchFavorite1Outline",
+    "exportName": "SearchFavorite1",
+    "category": "Search",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SearchSearchFavoriteOutline",
+    "exportName": "SearchFavorite",
+    "category": "Search",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SearchSearchNormal1Outline",
+    "exportName": "SearchNormal1",
+    "category": "Search",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SearchSearchNormalOutline",
+    "exportName": "SearchNormal",
+    "category": "Search",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SearchSearchStatus1Outline",
+    "exportName": "SearchStatus1",
+    "category": "Search",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SearchSearchStatusOutline",
+    "exportName": "SearchStatus",
+    "category": "Search",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SearchSearchZoomIn1Outline",
+    "exportName": "SearchZoomIn1",
+    "category": "Search",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SearchSearchZoomInOutline",
+    "exportName": "SearchZoomIn",
+    "category": "Search",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SearchSearchZoomOut1Outline",
+    "exportName": "SearchZoomOut1",
+    "category": "Search",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SearchSearchZoomOutOutline",
+    "exportName": "SearchZoomOut",
+    "category": "Search",
+    "rootFolder": "outline"
+  }
+]

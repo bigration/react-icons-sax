@@ -1,0 +1,290 @@
+[
+  {
+    "importName": "ComputersDevicesElectronicsAirdropBulk",
+    "exportName": "Airdrop",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsAirpodBulk",
+    "exportName": "Airpod",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsAirpodsBulk",
+    "exportName": "Airpods",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsBluetooth2Bulk",
+    "exportName": "Bluetooth2",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsBluetoothCircleBulk",
+    "exportName": "BluetoothCircle",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsBluetoothRectangleBulk",
+    "exportName": "BluetoothRectangle",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsBluetoothBulk",
+    "exportName": "Bluetooth",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsClockBulk",
+    "exportName": "Clock",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCloudAddBulk",
+    "exportName": "CloudAdd",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCloudChangeBulk",
+    "exportName": "CloudChange",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCloudConnectionBulk",
+    "exportName": "CloudConnection",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCloudRemoveBulk",
+    "exportName": "CloudRemove",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCpuChargeBulk",
+    "exportName": "CpuCharge",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCpuSettingBulk",
+    "exportName": "CpuSetting",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCpuBulk",
+    "exportName": "Cpu",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsDevicesBulk",
+    "exportName": "Devices",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsDriver2Bulk",
+    "exportName": "Driver2",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsDriverRefreshBulk",
+    "exportName": "DriverRefresh",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsDriverBulk",
+    "exportName": "Driver",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsElectricityBulk",
+    "exportName": "Electricity",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsExternalDriveBulk",
+    "exportName": "ExternalDrive",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsFolderConnectionBulk",
+    "exportName": "FolderConnection",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsGameBulk",
+    "exportName": "Game",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsGameboyBulk",
+    "exportName": "Gameboy",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsHeadphoneBulk",
+    "exportName": "Headphone",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsHeadphonesBulk",
+    "exportName": "Headphones",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsKeyboardOpenBulk",
+    "exportName": "KeyboardOpen",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsKeyboardBulk",
+    "exportName": "Keyboard",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsLampBulk",
+    "exportName": "Lamp",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMicroscopeBulk",
+    "exportName": "Microscope",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMirroringScreenBulk",
+    "exportName": "MirroringScreen",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMobileBulk",
+    "exportName": "Mobile",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMonitorMobbileBulk",
+    "exportName": "MonitorMobbile",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMonitorRecorderBulk",
+    "exportName": "MonitorRecorder",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMonitorBulk",
+    "exportName": "Monitor",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMouseBulk",
+    "exportName": "Mouse",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMusicPlayBulk",
+    "exportName": "MusicPlay",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsPrinterSlashBulk",
+    "exportName": "PrinterSlash",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsPrinterBulk",
+    "exportName": "Printer",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsRam2Bulk",
+    "exportName": "Ram2",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsRamBulk",
+    "exportName": "Ram",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsSimcard1Bulk",
+    "exportName": "Simcard1",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsSimcard2Bulk",
+    "exportName": "Simcard2",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsSimcardBulk",
+    "exportName": "Simcard",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsSpeakerBulk",
+    "exportName": "Speaker",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsWatchStatusBulk",
+    "exportName": "WatchStatus",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsWatchBulk",
+    "exportName": "Watch",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsWeightBulk",
+    "exportName": "Weight",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bulk"
+  }
+]

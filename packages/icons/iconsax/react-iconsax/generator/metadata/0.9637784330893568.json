@@ -1,0 +1,122 @@
+[
+  {
+    "importName": "UsersPeopleTwotone",
+    "exportName": "People",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersProfile2UserTwotone",
+    "exportName": "Profile2User",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersProfileAddTwotone",
+    "exportName": "ProfileAdd",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersProfileCircleTwotone",
+    "exportName": "ProfileCircle",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersProfileDeleteTwotone",
+    "exportName": "ProfileDelete",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersProfileRemoveTwotone",
+    "exportName": "ProfileRemove",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersProfileTickTwotone",
+    "exportName": "ProfileTick",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersProfileTwotone",
+    "exportName": "Profile",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersTagUserTwotone",
+    "exportName": "TagUser",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersUserAddTwotone",
+    "exportName": "UserAdd",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersUserCirlceAddTwotone",
+    "exportName": "UserCirlceAdd",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersUserEditTwotone",
+    "exportName": "UserEdit",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersUserMinusTwotone",
+    "exportName": "UserMinus",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersUserOctagonTwotone",
+    "exportName": "UserOctagon",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersUserRemoveTwotone",
+    "exportName": "UserRemove",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersUserSearchTwotone",
+    "exportName": "UserSearch",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersUserSquareTwotone",
+    "exportName": "UserSquare",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersUserTagTwotone",
+    "exportName": "UserTag",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersUserTickTwotone",
+    "exportName": "UserTick",
+    "category": "Users",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "UsersUserTwotone",
+    "exportName": "User",
+    "category": "Users",
+    "rootFolder": "twotone"
+  }
+]

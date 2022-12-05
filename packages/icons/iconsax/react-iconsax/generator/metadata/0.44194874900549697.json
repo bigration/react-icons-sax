@@ -1,0 +1,158 @@
+[
+  {
+    "importName": "SupportLikeQuestionSvg24SupportTwotone",
+    "exportName": "Svg24Support",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionDislikeTwotone",
+    "exportName": "Dislike",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartAddTwotone",
+    "exportName": "HeartAdd",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartCircleTwotone",
+    "exportName": "HeartCircle",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartEditTwotone",
+    "exportName": "HeartEdit",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartRemoveTwotone",
+    "exportName": "HeartRemove",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartSearchTwotone",
+    "exportName": "HeartSearch",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartSlashTwotone",
+    "exportName": "HeartSlash",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartTickTwotone",
+    "exportName": "HeartTick",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartTwotone",
+    "exportName": "Heart",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionLike1Twotone",
+    "exportName": "Like1",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeDislikeTwotone",
+    "exportName": "LikeDislike",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeShapesTwotone",
+    "exportName": "LikeShapes",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeTagTwotone",
+    "exportName": "LikeTag",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeTwotone",
+    "exportName": "Like",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionLovelyTwotone",
+    "exportName": "Lovely",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionMagicStarTwotone",
+    "exportName": "MagicStar",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionMedalStarTwotone",
+    "exportName": "MedalStar",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionMedalTwotone",
+    "exportName": "Medal",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionMessageQuestionTwotone",
+    "exportName": "MessageQuestion",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionRankingTwotone",
+    "exportName": "Ranking",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionSmileysTwotone",
+    "exportName": "Smileys",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionStar1Twotone",
+    "exportName": "Star1",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionStarSlashTwotone",
+    "exportName": "StarSlash",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionStarTwotone",
+    "exportName": "Star",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SupportLikeQuestionUnlimitedTwotone",
+    "exportName": "Unlimited",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "twotone"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "importName": "ArchiveArchiveAddOutline",
+    "exportName": "ArchiveAdd",
+    "category": "Archive",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArchiveArchiveMinusOutline",
+    "exportName": "ArchiveMinus",
+    "category": "Archive",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArchiveArchiveSlashOutline",
+    "exportName": "ArchiveSlash",
+    "category": "Archive",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArchiveArchiveTickOutline",
+    "exportName": "ArchiveTick",
+    "category": "Archive",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArchiveArchiveOutline",
+    "exportName": "Archive",
+    "category": "Archive",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArchiveBookSavedOutline",
+    "exportName": "BookSaved",
+    "category": "Archive",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArchiveBookSquareOutline",
+    "exportName": "BookSquare",
+    "category": "Archive",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArchiveReceiptSquareOutline",
+    "exportName": "ReceiptSquare",
+    "category": "Archive",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArchiveSave2Outline",
+    "exportName": "Save2",
+    "category": "Archive",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArchiveSaveAddOutline",
+    "exportName": "SaveAdd",
+    "category": "Archive",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArchiveSaveMinusOutline",
+    "exportName": "SaveMinus",
+    "category": "Archive",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ArchiveSaveRemoveOutline",
+    "exportName": "SaveRemove",
+    "category": "Archive",
+    "rootFolder": "outline"
+  }
+]

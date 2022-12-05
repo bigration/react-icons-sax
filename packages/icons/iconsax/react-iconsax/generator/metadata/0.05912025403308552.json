@@ -1,0 +1,110 @@
+[
+  {
+    "importName": "WeatherCloudCrossOutline",
+    "exportName": "CloudCross",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherCloudDrizzleOutline",
+    "exportName": "CloudDrizzle",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherCloudFogOutline",
+    "exportName": "CloudFog",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherCloudLightningOutline",
+    "exportName": "CloudLightning",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherCloudMinusOutline",
+    "exportName": "CloudMinus",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherCloudNotifOutline",
+    "exportName": "CloudNotif",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherCloudPlusOutline",
+    "exportName": "CloudPlus",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherCloudSnowOutline",
+    "exportName": "CloudSnow",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherCloudSunnyOutline",
+    "exportName": "CloudSunny",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherCloudOutline",
+    "exportName": "Cloud",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherFlashOutline",
+    "exportName": "Flash",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherIconOutline",
+    "exportName": "Icon",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherMoonOutline",
+    "exportName": "Moon",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherSun1Outline",
+    "exportName": "Sun1",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherSunFogOutline",
+    "exportName": "SunFog",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherSunOutline",
+    "exportName": "Sun",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherWind2Outline",
+    "exportName": "Wind2",
+    "category": "Weather",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "WeatherWindOutline",
+    "exportName": "Wind",
+    "category": "Weather",
+    "rootFolder": "outline"
+  }
+]

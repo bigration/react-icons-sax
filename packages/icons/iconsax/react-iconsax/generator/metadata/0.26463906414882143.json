@@ -1,0 +1,212 @@
+[
+  {
+    "importName": "TypeParagraphCharacterAttachCircleTwotone",
+    "exportName": "AttachCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterAttachSquareTwotone",
+    "exportName": "AttachSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterEraserTwotone",
+    "exportName": "Eraser",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterFirstlineTwotone",
+    "exportName": "Firstline",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterLanguageCircleTwotone",
+    "exportName": "LanguageCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterLanguageSquareTwotone",
+    "exportName": "LanguageSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterLink1Twotone",
+    "exportName": "Link1",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterLink2Twotone",
+    "exportName": "Link2",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterLink21Twotone",
+    "exportName": "Link21",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterLinkCircleTwotone",
+    "exportName": "LinkCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterLinkSquareTwotone",
+    "exportName": "LinkSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterLinkTwotone",
+    "exportName": "Link",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterMaximizeTwotone",
+    "exportName": "Maximize",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterPaperclip2Twotone",
+    "exportName": "Paperclip2",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterPaperclipTwotone",
+    "exportName": "Paperclip",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterPharagraphspacingTwotone",
+    "exportName": "Pharagraphspacing",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteDownCircleTwotone",
+    "exportName": "QuoteDownCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteDownSquareTwotone",
+    "exportName": "QuoteDownSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteDownTwotone",
+    "exportName": "QuoteDown",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteUpCircleTwotone",
+    "exportName": "QuoteUpCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteUpSquareTwotone",
+    "exportName": "QuoteUpSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteUpTwotone",
+    "exportName": "QuoteUp",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterSmallcapsTwotone",
+    "exportName": "Smallcaps",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextBlockTwotone",
+    "exportName": "TextBlock",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextBoldTwotone",
+    "exportName": "TextBold",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextItalicTwotone",
+    "exportName": "TextItalic",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextUnderlineTwotone",
+    "exportName": "TextUnderline",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextTwotone",
+    "exportName": "Text",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignCenterTwotone",
+    "exportName": "TextalignCenter",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignJustifycenterTwotone",
+    "exportName": "TextalignJustifycenter",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignJustifyleftTwotone",
+    "exportName": "TextalignJustifyleft",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignJustifyrightTwotone",
+    "exportName": "TextalignJustifyright",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignLeftTwotone",
+    "exportName": "TextalignLeft",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignRightTwotone",
+    "exportName": "TextalignRight",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TypeParagraphCharacterTranslateTwotone",
+    "exportName": "Translate",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "twotone"
+  }
+]

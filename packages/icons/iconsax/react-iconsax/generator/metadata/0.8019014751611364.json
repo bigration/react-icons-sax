@@ -1,0 +1,56 @@
+[
+  {
+    "importName": "NotificationsLampChargeOutline",
+    "exportName": "LampCharge",
+    "category": "Notifications",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "NotificationsLampOnOutline",
+    "exportName": "LampOn",
+    "category": "Notifications",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "NotificationsLampSlashOutline",
+    "exportName": "LampSlash",
+    "category": "Notifications",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "NotificationsNotification1Outline",
+    "exportName": "Notification1",
+    "category": "Notifications",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "NotificationsNotificationBingOutline",
+    "exportName": "NotificationBing",
+    "category": "Notifications",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "NotificationsNotificationCircleOutline",
+    "exportName": "NotificationCircle",
+    "category": "Notifications",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "NotificationsNotificationFavoriteOutline",
+    "exportName": "NotificationFavorite",
+    "category": "Notifications",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "NotificationsNotificationStatusOutline",
+    "exportName": "NotificationStatus",
+    "category": "Notifications",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "NotificationsNotificationOutline",
+    "exportName": "Notification",
+    "category": "Notifications",
+    "rootFolder": "outline"
+  }
+]

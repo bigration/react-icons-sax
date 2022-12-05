@@ -1,0 +1,92 @@
+[
+  {
+    "importName": "TimeCalendar1Twotone",
+    "exportName": "Calendar1",
+    "category": "Time",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TimeCalendar2Twotone",
+    "exportName": "Calendar2",
+    "category": "Time",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TimeCalendarAddTwotone",
+    "exportName": "CalendarAdd",
+    "category": "Time",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TimeCalendarCircleTwotone",
+    "exportName": "CalendarCircle",
+    "category": "Time",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TimeCalendarEditTwotone",
+    "exportName": "CalendarEdit",
+    "category": "Time",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TimeCalendarRemoveTwotone",
+    "exportName": "CalendarRemove",
+    "category": "Time",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TimeCalendarSearchTwotone",
+    "exportName": "CalendarSearch",
+    "category": "Time",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TimeCalendarTickTwotone",
+    "exportName": "CalendarTick",
+    "category": "Time",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TimeCalendarTwotone",
+    "exportName": "Calendar",
+    "category": "Time",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TimeClockTwotone",
+    "exportName": "Clock",
+    "category": "Time",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TimeSecurityTimeTwotone",
+    "exportName": "SecurityTime",
+    "category": "Time",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TimeTimer1Twotone",
+    "exportName": "Timer1",
+    "category": "Time",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TimeTimerPauseTwotone",
+    "exportName": "TimerPause",
+    "category": "Time",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TimeTimerStartTwotone",
+    "exportName": "TimerStart",
+    "category": "Time",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "TimeTimerTwotone",
+    "exportName": "Timer",
+    "category": "Time",
+    "rootFolder": "twotone"
+  }
+]

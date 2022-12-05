@@ -1,0 +1,74 @@
+[
+  {
+    "importName": "ArchiveArchiveAddBulk",
+    "exportName": "ArchiveAdd",
+    "category": "Archive",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ArchiveArchiveMinusBulk",
+    "exportName": "ArchiveMinus",
+    "category": "Archive",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ArchiveArchiveSlashBulk",
+    "exportName": "ArchiveSlash",
+    "category": "Archive",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ArchiveArchiveTickBulk",
+    "exportName": "ArchiveTick",
+    "category": "Archive",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ArchiveArchiveBulk",
+    "exportName": "Archive",
+    "category": "Archive",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ArchiveBookSavedBulk",
+    "exportName": "BookSaved",
+    "category": "Archive",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ArchiveBookSquareBulk",
+    "exportName": "BookSquare",
+    "category": "Archive",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ArchiveReceiptSquareBulk",
+    "exportName": "ReceiptSquare",
+    "category": "Archive",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ArchiveSave2Bulk",
+    "exportName": "Save2",
+    "category": "Archive",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ArchiveSaveAddBulk",
+    "exportName": "SaveAdd",
+    "category": "Archive",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ArchiveSaveMinusBulk",
+    "exportName": "SaveMinus",
+    "category": "Archive",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "ArchiveSaveRemoveBulk",
+    "exportName": "SaveRemove",
+    "category": "Archive",
+    "rootFolder": "bulk"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "importName": "AstrologyAquariusLinear",
+    "exportName": "Aquarius",
+    "category": "Astrology",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "AstrologyGemini2Linear",
+    "exportName": "Gemini2",
+    "category": "Astrology",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "AstrologyGeminiLinear",
+    "exportName": "Gemini",
+    "category": "Astrology",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "AstrologyManLinear",
+    "exportName": "Man",
+    "category": "Astrology",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "AstrologySagittariusLinear",
+    "exportName": "Sagittarius",
+    "category": "Astrology",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "AstrologyWomanLinear",
+    "exportName": "Woman",
+    "category": "Astrology",
+    "rootFolder": "linear"
+  }
+]

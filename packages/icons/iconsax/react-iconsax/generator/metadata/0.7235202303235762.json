@@ -1,0 +1,212 @@
+[
+  {
+    "importName": "ContentEditArchiveBookTwotone",
+    "exportName": "ArchiveBook",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditBillTwotone",
+    "exportName": "Bill",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditClipboardCloseTwotone",
+    "exportName": "ClipboardClose",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditClipboardExportTwotone",
+    "exportName": "ClipboardExport",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditClipboardImportTwotone",
+    "exportName": "ClipboardImport",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditClipboardTextTwotone",
+    "exportName": "ClipboardText",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditClipboardTickTwotone",
+    "exportName": "ClipboardTick",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditCopyrightTwotone",
+    "exportName": "Copyright",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditCreativeCommonsTwotone",
+    "exportName": "CreativeCommons",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditDocumentCloudTwotone",
+    "exportName": "DocumentCloud",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditDocumentCopyTwotone",
+    "exportName": "DocumentCopy",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditDocumentDownloadTwotone",
+    "exportName": "DocumentDownload",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditDocumentFavoriteTwotone",
+    "exportName": "DocumentFavorite",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditDocumentFilterTwotone",
+    "exportName": "DocumentFilter",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditDocumentForwardTwotone",
+    "exportName": "DocumentForward",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditDocumentLikeTwotone",
+    "exportName": "DocumentLike",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditDocumentNormalTwotone",
+    "exportName": "DocumentNormal",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditDocumentPreviousTwotone",
+    "exportName": "DocumentPrevious",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditDocumentSketchTwotone",
+    "exportName": "DocumentSketch",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditDocumentText1Twotone",
+    "exportName": "DocumentText1",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditDocumentTextTwotone",
+    "exportName": "DocumentText",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditDocumentUploadTwotone",
+    "exportName": "DocumentUpload",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditDocumentTwotone",
+    "exportName": "Document",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditEdit2Twotone",
+    "exportName": "Edit2",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditEditTwotone",
+    "exportName": "Edit",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditMenuBoardTwotone",
+    "exportName": "MenuBoard",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditNote1Twotone",
+    "exportName": "Note1",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditNoteAddTwotone",
+    "exportName": "NoteAdd",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditNoteFavoriteTwotone",
+    "exportName": "NoteFavorite",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditNoteRemoveTwotone",
+    "exportName": "NoteRemove",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditNoteTextTwotone",
+    "exportName": "NoteText",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditNoteTwotone",
+    "exportName": "Note",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditStickynoteTwotone",
+    "exportName": "Stickynote",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditTaskSquareTwotone",
+    "exportName": "TaskSquare",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ContentEditTaskTwotone",
+    "exportName": "Task",
+    "category": "ContentEdit",
+    "rootFolder": "twotone"
+  }
+]

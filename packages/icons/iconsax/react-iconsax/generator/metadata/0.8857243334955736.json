@@ -1,0 +1,608 @@
+[
+  {
+    "importName": "EssetionalSvg3DcubeBulk",
+    "exportName": "Svg3Dcube",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalSvg3FullBulk",
+    "exportName": "Svg3Full",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalAddCircleBulk",
+    "exportName": "AddCircle",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalAddSquareBulk",
+    "exportName": "AddSquare",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalAddBulk",
+    "exportName": "Add",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalArchiveBulk",
+    "exportName": "Archive",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalAutobrightnessBulk",
+    "exportName": "Autobrightness",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalBatteryChargingBulk",
+    "exportName": "BatteryCharging",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalBatteryDisableBulk",
+    "exportName": "BatteryDisable",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalBatteryEmpty1Bulk",
+    "exportName": "BatteryEmpty1",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalBatteryEmptyBulk",
+    "exportName": "BatteryEmpty",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalBatteryFullBulk",
+    "exportName": "BatteryFull",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalBox2Bulk",
+    "exportName": "Box2",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalBroomBulk",
+    "exportName": "Broom",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalBubbleBulk",
+    "exportName": "Bubble",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalCakeBulk",
+    "exportName": "Cake",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalCdBulk",
+    "exportName": "Cd",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalChartBulk",
+    "exportName": "Chart",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalChromeBulk",
+    "exportName": "Chrome",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalCloseCircleBulk",
+    "exportName": "CloseCircle",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalCloseSquareBulk",
+    "exportName": "CloseSquare",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalCoffeeBulk",
+    "exportName": "Coffee",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalComputingBulk",
+    "exportName": "Computing",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalCrown1Bulk",
+    "exportName": "Crown1",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalCrownBulk",
+    "exportName": "Crown",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalCupBulk",
+    "exportName": "Cup",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalDangerBulk",
+    "exportName": "Danger",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalDiamondsBulk",
+    "exportName": "Diamonds",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalDiscoverBulk",
+    "exportName": "Discover",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalEmojiHappyBulk",
+    "exportName": "EmojiHappy",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalEmojiNormalBulk",
+    "exportName": "EmojiNormal",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalEmojiSadBulk",
+    "exportName": "EmojiSad",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalFilterAddBulk",
+    "exportName": "FilterAdd",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalFilterEditBulk",
+    "exportName": "FilterEdit",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalFilterRemoveBulk",
+    "exportName": "FilterRemove",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalFilterSearchBulk",
+    "exportName": "FilterSearch",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalFilterSquareBulk",
+    "exportName": "FilterSquare",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalFilterTickBulk",
+    "exportName": "FilterTick",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalFilterBulk",
+    "exportName": "Filter",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalFlag2Bulk",
+    "exportName": "Flag2",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalFlagBulk",
+    "exportName": "Flag",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalFlashCircleBulk",
+    "exportName": "FlashCircle",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalFlashSlashBulk",
+    "exportName": "FlashSlash",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalFlashBulk",
+    "exportName": "Flash",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalForbidden2Bulk",
+    "exportName": "Forbidden2",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalForbiddenBulk",
+    "exportName": "Forbidden",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalGhostBulk",
+    "exportName": "Ghost",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalGlassBulk",
+    "exportName": "Glass",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalGrammerlyBulk",
+    "exportName": "Grammerly",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalHappyemojiBulk",
+    "exportName": "Happyemoji",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalHome1Bulk",
+    "exportName": "Home1",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalHome2Bulk",
+    "exportName": "Home2",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalHomeWifiBulk",
+    "exportName": "HomeWifi",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalHomeBulk",
+    "exportName": "Home",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalInfoCircleBulk",
+    "exportName": "InfoCircle",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalInformationBulk",
+    "exportName": "Information",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalInstagramBulk",
+    "exportName": "Instagram",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalJudgeBulk",
+    "exportName": "Judge",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalLampBulk",
+    "exportName": "Lamp",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalLevelBulk",
+    "exportName": "Level",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalMenuBulk",
+    "exportName": "Menu",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalMilkBulk",
+    "exportName": "Milk",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalMinusCirlceBulk",
+    "exportName": "MinusCirlce",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalMinusSquareBulk",
+    "exportName": "MinusSquare",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalMinusBulk",
+    "exportName": "Minus",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalMirrorBulk",
+    "exportName": "Mirror",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalMoreCircleBulk",
+    "exportName": "MoreCircle",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalMoreSquareBulk",
+    "exportName": "MoreSquare",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalMouseCircleBulk",
+    "exportName": "MouseCircle",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalMouseSquareBulk",
+    "exportName": "MouseSquare",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalMouseBulk",
+    "exportName": "Mouse",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalPetBulk",
+    "exportName": "Pet",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalRankingBulk",
+    "exportName": "Ranking",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalReserveBulk",
+    "exportName": "Reserve",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalSafeHomeBulk",
+    "exportName": "SafeHome",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalSend2Bulk",
+    "exportName": "Send2",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalSendBulk",
+    "exportName": "Send",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalShareBulk",
+    "exportName": "Share",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalSignpostBulk",
+    "exportName": "Signpost",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalSlashBulk",
+    "exportName": "Slash",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalSliderBulk",
+    "exportName": "Slider",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalSmartHomeBulk",
+    "exportName": "SmartHome",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalSortBulk",
+    "exportName": "Sort",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalSoundBulk",
+    "exportName": "Sound",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalSpeedometerBulk",
+    "exportName": "Speedometer",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalStatusBulk",
+    "exportName": "Status",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalStickerBulk",
+    "exportName": "Sticker",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalStoryBulk",
+    "exportName": "Story",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalTagCrossBulk",
+    "exportName": "TagCross",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalTagRightBulk",
+    "exportName": "TagRight",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalTickCircleBulk",
+    "exportName": "TickCircle",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalTickSquareBulk",
+    "exportName": "TickSquare",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalTrashBulk",
+    "exportName": "Trash",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalTreeBulk",
+    "exportName": "Tree",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalTriangleBulk",
+    "exportName": "Triangle",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalTrushSquareBulk",
+    "exportName": "TrushSquare",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalVerifyBulk",
+    "exportName": "Verify",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalWarning2Bulk",
+    "exportName": "Warning2",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalWeightBulk",
+    "exportName": "Weight",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalWifiSquareBulk",
+    "exportName": "WifiSquare",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EssetionalWifiBulk",
+    "exportName": "Wifi",
+    "category": "Essetional",
+    "rootFolder": "bulk"
+  }
+]

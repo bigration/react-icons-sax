@@ -1,0 +1,38 @@
+[
+  {
+    "importName": "CryptoCurrencyBitcoinCardOutline",
+    "exportName": "BitcoinCard",
+    "category": "CryptoCurrency",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "CryptoCurrencyBitcoinConvertOutline",
+    "exportName": "BitcoinConvert",
+    "category": "CryptoCurrency",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "CryptoCurrencyBitcoinRefreshOutline",
+    "exportName": "BitcoinRefresh",
+    "category": "CryptoCurrency",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "CryptoCurrencyBuyCryptoOutline",
+    "exportName": "BuyCrypto",
+    "category": "CryptoCurrency",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "CryptoCurrencyCardCoinOutline",
+    "exportName": "CardCoin",
+    "category": "CryptoCurrency",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "CryptoCurrencyTradeOutline",
+    "exportName": "Trade",
+    "category": "CryptoCurrency",
+    "rootFolder": "outline"
+  }
+]

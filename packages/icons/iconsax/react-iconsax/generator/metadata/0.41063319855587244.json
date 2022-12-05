@@ -1,0 +1,56 @@
+[
+  {
+    "importName": "CallCallAddLinear",
+    "exportName": "CallAdd",
+    "category": "Call",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CallCallCallingLinear",
+    "exportName": "CallCalling",
+    "category": "Call",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CallCallIncomingLinear",
+    "exportName": "CallIncoming",
+    "category": "Call",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CallCallMinusLinear",
+    "exportName": "CallMinus",
+    "category": "Call",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CallCallOutgoingLinear",
+    "exportName": "CallOutgoing",
+    "category": "Call",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CallCallReceivedLinear",
+    "exportName": "CallReceived",
+    "category": "Call",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CallCallRemoveLinear",
+    "exportName": "CallRemove",
+    "category": "Call",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CallCallSlashLinear",
+    "exportName": "CallSlash",
+    "category": "Call",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CallCallLinear",
+    "exportName": "Call",
+    "category": "Call",
+    "rootFolder": "linear"
+  }
+]

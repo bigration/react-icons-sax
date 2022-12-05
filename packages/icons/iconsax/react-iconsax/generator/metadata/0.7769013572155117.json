@@ -1,0 +1,98 @@
+[
+  {
+    "importName": "DeliverySvg3DCubeScanBold",
+    "exportName": "Svg3DCubeScan",
+    "category": "Delivery",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "DeliverySvg3DRotateBold",
+    "exportName": "Svg3DRotate",
+    "category": "Delivery",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "DeliverySvg3DSquareBold",
+    "exportName": "Svg3DSquare",
+    "category": "Delivery",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "DeliveryBox1Bold",
+    "exportName": "Box1",
+    "category": "Delivery",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "DeliveryBoxAddBold",
+    "exportName": "BoxAdd",
+    "category": "Delivery",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "DeliveryBoxRemoveBold",
+    "exportName": "BoxRemove",
+    "category": "Delivery",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "DeliveryBoxSearchBold",
+    "exportName": "BoxSearch",
+    "category": "Delivery",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "DeliveryBoxTickBold",
+    "exportName": "BoxTick",
+    "category": "Delivery",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "DeliveryBoxTimeBold",
+    "exportName": "BoxTime",
+    "category": "Delivery",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "DeliveryBoxBold",
+    "exportName": "Box",
+    "category": "Delivery",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "DeliveryConvert3DCubeBold",
+    "exportName": "Convert3DCube",
+    "category": "Delivery",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "DeliveryTruckFastBold",
+    "exportName": "TruckFast",
+    "category": "Delivery",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "DeliveryTruckRemoveBold",
+    "exportName": "TruckRemove",
+    "category": "Delivery",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "DeliveryTruckTickBold",
+    "exportName": "TruckTick",
+    "category": "Delivery",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "DeliveryTruckTimeBold",
+    "exportName": "TruckTime",
+    "category": "Delivery",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "DeliveryTruckBold",
+    "exportName": "Truck",
+    "category": "Delivery",
+    "rootFolder": "bold"
+  }
+]

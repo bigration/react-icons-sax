@@ -1,0 +1,56 @@
+[
+  {
+    "importName": "CallCallAddOutline",
+    "exportName": "CallAdd",
+    "category": "Call",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "CallCallCallingOutline",
+    "exportName": "CallCalling",
+    "category": "Call",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "CallCallIncomingOutline",
+    "exportName": "CallIncoming",
+    "category": "Call",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "CallCallMinusOutline",
+    "exportName": "CallMinus",
+    "category": "Call",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "CallCallOutgoingOutline",
+    "exportName": "CallOutgoing",
+    "category": "Call",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "CallCallReceivedOutline",
+    "exportName": "CallReceived",
+    "category": "Call",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "CallCallRemoveOutline",
+    "exportName": "CallRemove",
+    "category": "Call",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "CallCallSlashOutline",
+    "exportName": "CallSlash",
+    "category": "Call",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "CallCallOutline",
+    "exportName": "Call",
+    "category": "Call",
+    "rootFolder": "outline"
+  }
+]

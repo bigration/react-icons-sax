@@ -1,0 +1,86 @@
+[
+  {
+    "importName": "ShopBag2Broken",
+    "exportName": "Bag2",
+    "category": "Shop",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ShopBagCross1Broken",
+    "exportName": "BagCross1",
+    "category": "Shop",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ShopBagCrossBroken",
+    "exportName": "BagCross",
+    "category": "Shop",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ShopBagHappyBroken",
+    "exportName": "BagHappy",
+    "category": "Shop",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ShopBagTick2Broken",
+    "exportName": "BagTick2",
+    "category": "Shop",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ShopBagTickBroken",
+    "exportName": "BagTick",
+    "category": "Shop",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ShopBagTimerBroken",
+    "exportName": "BagTimer",
+    "category": "Shop",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ShopBagBroken",
+    "exportName": "Bag",
+    "category": "Shop",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ShopBarcodeBroken",
+    "exportName": "Barcode",
+    "category": "Shop",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ShopShopAddBroken",
+    "exportName": "ShopAdd",
+    "category": "Shop",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ShopShopRemoveBroken",
+    "exportName": "ShopRemove",
+    "category": "Shop",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ShopShopBroken",
+    "exportName": "Shop",
+    "category": "Shop",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ShopShoppingBagBroken",
+    "exportName": "ShoppingBag",
+    "category": "Shop",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ShopShoppingCartBroken",
+    "exportName": "ShoppingCart",
+    "category": "Shop",
+    "rootFolder": "broken"
+  }
+]

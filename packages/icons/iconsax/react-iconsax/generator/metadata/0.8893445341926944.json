@@ -1,0 +1,74 @@
+[
+  {
+    "importName": "ArchiveArchiveAddBold",
+    "exportName": "ArchiveAdd",
+    "category": "Archive",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ArchiveArchiveMinusBold",
+    "exportName": "ArchiveMinus",
+    "category": "Archive",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ArchiveArchiveSlashBold",
+    "exportName": "ArchiveSlash",
+    "category": "Archive",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ArchiveArchiveTickBold",
+    "exportName": "ArchiveTick",
+    "category": "Archive",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ArchiveArchiveBold",
+    "exportName": "Archive",
+    "category": "Archive",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ArchiveBookSavedBold",
+    "exportName": "BookSaved",
+    "category": "Archive",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ArchiveBookSquareBold",
+    "exportName": "BookSquare",
+    "category": "Archive",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ArchiveReceiptSquareBold",
+    "exportName": "ReceiptSquare",
+    "category": "Archive",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ArchiveSave2Bold",
+    "exportName": "Save2",
+    "category": "Archive",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ArchiveSaveAddBold",
+    "exportName": "SaveAdd",
+    "category": "Archive",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ArchiveSaveMinusBold",
+    "exportName": "SaveMinus",
+    "category": "Archive",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ArchiveSaveRemoveBold",
+    "exportName": "SaveRemove",
+    "category": "Archive",
+    "rootFolder": "bold"
+  }
+]

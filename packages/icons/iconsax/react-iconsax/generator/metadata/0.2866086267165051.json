@@ -1,0 +1,50 @@
+[
+  {
+    "importName": "CarAirplaneSquareLinear",
+    "exportName": "AirplaneSquare",
+    "category": "Car",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CarAirplaneLinear",
+    "exportName": "Airplane",
+    "category": "Car",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CarBusLinear",
+    "exportName": "Bus",
+    "category": "Car",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CarCarLinear",
+    "exportName": "Car",
+    "category": "Car",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CarDrivingLinear",
+    "exportName": "Driving",
+    "category": "Car",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CarGasStationLinear",
+    "exportName": "GasStation",
+    "category": "Car",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CarShipLinear",
+    "exportName": "Ship",
+    "category": "Car",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CarSmartCarLinear",
+    "exportName": "SmartCar",
+    "category": "Car",
+    "rootFolder": "linear"
+  }
+]

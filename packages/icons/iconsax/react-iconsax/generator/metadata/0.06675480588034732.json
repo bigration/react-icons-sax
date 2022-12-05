@@ -1,0 +1,212 @@
+[
+  {
+    "importName": "TypeParagraphCharacterAttachCircleLinear",
+    "exportName": "AttachCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterAttachSquareLinear",
+    "exportName": "AttachSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterEraserLinear",
+    "exportName": "Eraser",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterFirstlineLinear",
+    "exportName": "Firstline",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterLanguageCircleLinear",
+    "exportName": "LanguageCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterLanguageSquareLinear",
+    "exportName": "LanguageSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterLink1Linear",
+    "exportName": "Link1",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterLink2Linear",
+    "exportName": "Link2",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterLink21Linear",
+    "exportName": "Link21",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterLinkCircleLinear",
+    "exportName": "LinkCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterLinkSquareLinear",
+    "exportName": "LinkSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterLinkLinear",
+    "exportName": "Link",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterMaximizeLinear",
+    "exportName": "Maximize",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterPaperclip2Linear",
+    "exportName": "Paperclip2",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterPaperclipLinear",
+    "exportName": "Paperclip",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterPharagraphspacingLinear",
+    "exportName": "Pharagraphspacing",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteDownCircleLinear",
+    "exportName": "QuoteDownCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteDownSquareLinear",
+    "exportName": "QuoteDownSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteDownLinear",
+    "exportName": "QuoteDown",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteUpCircleLinear",
+    "exportName": "QuoteUpCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteUpSquareLinear",
+    "exportName": "QuoteUpSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteUpLinear",
+    "exportName": "QuoteUp",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterSmallcapsLinear",
+    "exportName": "Smallcaps",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextBlockLinear",
+    "exportName": "TextBlock",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextBoldLinear",
+    "exportName": "TextBold",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextItalicLinear",
+    "exportName": "TextItalic",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextUnderlineLinear",
+    "exportName": "TextUnderline",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextLinear",
+    "exportName": "Text",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignCenterLinear",
+    "exportName": "TextalignCenter",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignJustifycenterLinear",
+    "exportName": "TextalignJustifycenter",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignJustifyleftLinear",
+    "exportName": "TextalignJustifyleft",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignJustifyrightLinear",
+    "exportName": "TextalignJustifyright",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignLeftLinear",
+    "exportName": "TextalignLeft",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignRightLinear",
+    "exportName": "TextalignRight",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "TypeParagraphCharacterTranslateLinear",
+    "exportName": "Translate",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "linear"
+  }
+]

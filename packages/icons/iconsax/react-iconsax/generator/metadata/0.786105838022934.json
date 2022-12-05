@@ -1,0 +1,158 @@
+[
+  {
+    "importName": "SupportLikeQuestionSvg24SupportBulk",
+    "exportName": "Svg24Support",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionDislikeBulk",
+    "exportName": "Dislike",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartAddBulk",
+    "exportName": "HeartAdd",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartCircleBulk",
+    "exportName": "HeartCircle",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartEditBulk",
+    "exportName": "HeartEdit",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartRemoveBulk",
+    "exportName": "HeartRemove",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartSearchBulk",
+    "exportName": "HeartSearch",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartSlashBulk",
+    "exportName": "HeartSlash",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartTickBulk",
+    "exportName": "HeartTick",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartBulk",
+    "exportName": "Heart",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionLike1Bulk",
+    "exportName": "Like1",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeDislikeBulk",
+    "exportName": "LikeDislike",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeShapesBulk",
+    "exportName": "LikeShapes",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeTagBulk",
+    "exportName": "LikeTag",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeBulk",
+    "exportName": "Like",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionLovelyBulk",
+    "exportName": "Lovely",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionMagicStarBulk",
+    "exportName": "MagicStar",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionMedalStarBulk",
+    "exportName": "MedalStar",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionMedalBulk",
+    "exportName": "Medal",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionMessageQuestionBulk",
+    "exportName": "MessageQuestion",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionRankingBulk",
+    "exportName": "Ranking",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionSmileysBulk",
+    "exportName": "Smileys",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionStar1Bulk",
+    "exportName": "Star1",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionStarSlashBulk",
+    "exportName": "StarSlash",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionStarBulk",
+    "exportName": "Star",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SupportLikeQuestionUnlimitedBulk",
+    "exportName": "Unlimited",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bulk"
+  }
+]

@@ -1,0 +1,608 @@
+[
+  {
+    "importName": "CryptoCompanyAaveAaveLinear",
+    "exportName": "AaveAave",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyAndroidLinear",
+    "exportName": "Android",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyAnkrAnkrLinear",
+    "exportName": "AnkrAnkr",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyAppleLinear",
+    "exportName": "Apple",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyAugurRepLinear",
+    "exportName": "AugurRep",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyAutonioNioxLinear",
+    "exportName": "AutonioNiox",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyAvalancheAvaxLinear",
+    "exportName": "AvalancheAvax",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyBeLinear",
+    "exportName": "Be",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyBinanceCoinBnbLinear",
+    "exportName": "BinanceCoinBnb",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyBinanceUsdBusdLinear",
+    "exportName": "BinanceUsdBusd",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyBitcoinBtcLinear",
+    "exportName": "BitcoinBtc",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyBloggerLinear",
+    "exportName": "Blogger",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyBootsrapLinear",
+    "exportName": "Bootsrap",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyCardanoAdaLinear",
+    "exportName": "CardanoAda",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyCeloCeloLinear",
+    "exportName": "CeloCelo",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyCelsiusCelLinear",
+    "exportName": "CelsiusCel",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyChainlinkLinkLinear",
+    "exportName": "ChainlinkLink",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyCivicCvcLinear",
+    "exportName": "CivicCvc",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyDaiDaiLinear",
+    "exportName": "DaiDai",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyDashDashLinear",
+    "exportName": "DashDash",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyDecredDcrLinear",
+    "exportName": "DecredDcr",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyDentDentLinear",
+    "exportName": "DentDent",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyDribbbleLinear",
+    "exportName": "Dribbble",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyDropboxLinear",
+    "exportName": "Dropbox",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyEducareEktLinear",
+    "exportName": "EducareEkt",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyEmercoinEmcLinear",
+    "exportName": "EmercoinEmc",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyEnjinCoinEnjLinear",
+    "exportName": "EnjinCoinEnj",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyEosEosLinear",
+    "exportName": "EosEos",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyEthereumClassicEtcLinear",
+    "exportName": "EthereumClassicEtc",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyEthereumEthLinear",
+    "exportName": "EthereumEth",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyFacebookLinear",
+    "exportName": "Facebook",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyFigma1Linear",
+    "exportName": "Figma1",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyFigmaLinear",
+    "exportName": "Figma",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyFrame1Linear",
+    "exportName": "Frame1",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyFrameLinear",
+    "exportName": "Frame",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyFramerLinear",
+    "exportName": "Framer",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyFtxTokenFttLinear",
+    "exportName": "FtxTokenFtt",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyGoogle1Linear",
+    "exportName": "Google1",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyGooglePlayLinear",
+    "exportName": "GooglePlay",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyGoogleLinear",
+    "exportName": "Google",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyHarmonyOneLinear",
+    "exportName": "HarmonyOne",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyHederaHashgraphHbarLinear",
+    "exportName": "HederaHashgraphHbar",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyHexHexLinear",
+    "exportName": "HexHex",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyHtml3Linear",
+    "exportName": "Html3",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyHtml5Linear",
+    "exportName": "Html5",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyHuobiTokenHtLinear",
+    "exportName": "HuobiTokenHt",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyIconIcxLinear",
+    "exportName": "IconIcx",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyIllustratorLinear",
+    "exportName": "Illustrator",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyIostIostLinear",
+    "exportName": "IostIost",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyJavaScriptLinear",
+    "exportName": "JavaScript",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyJsLinear",
+    "exportName": "Js",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyKyberNetworkKncLinear",
+    "exportName": "KyberNetworkKnc",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyLitecoinltcLinear",
+    "exportName": "Litecoinltc",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyMakerMkrLinear",
+    "exportName": "MakerMkr",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyMessengerLinear",
+    "exportName": "Messenger",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyMoneroXmrLinear",
+    "exportName": "MoneroXmr",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyNebulasNasLinear",
+    "exportName": "NebulasNas",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyNemXemLinear",
+    "exportName": "NemXem",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyNexoNexoLinear",
+    "exportName": "NexoNexo",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyOceanProtocolOceanLinear",
+    "exportName": "OceanProtocolOcean",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyOkbOkbLinear",
+    "exportName": "OkbOkb",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyOntologyOntLinear",
+    "exportName": "OntologyOnt",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyPaypalLinear",
+    "exportName": "Paypal",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyPhotoshopLinear",
+    "exportName": "Photoshop",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyPolkadotDotLinear",
+    "exportName": "PolkadotDot",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyPolygonMaticLinear",
+    "exportName": "PolygonMatic",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyPolyswarmNctLinear",
+    "exportName": "PolyswarmNct",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyPythonLinear",
+    "exportName": "Python",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyQuantQntLinear",
+    "exportName": "QuantQnt",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanySiacoinScLinear",
+    "exportName": "SiacoinSc",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanySlackLinear",
+    "exportName": "Slack",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanySnapchatLinear",
+    "exportName": "Snapchat",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanySolanaSolLinear",
+    "exportName": "SolanaSol",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanySpotifyLinear",
+    "exportName": "Spotify",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyStacksStxLinear",
+    "exportName": "StacksStx",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyStellarXlmLinear",
+    "exportName": "StellarXlm",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyTenxPayLinear",
+    "exportName": "TenxPay",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyTetherUsdtLinear",
+    "exportName": "TetherUsdt",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyTheGraphGrtLinear",
+    "exportName": "TheGraphGrt",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyThetaThetaLinear",
+    "exportName": "ThetaTheta",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyThorchainRuneLinear",
+    "exportName": "ThorchainRune",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyTrelloLinear",
+    "exportName": "Trello",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyTriangleLinear",
+    "exportName": "Triangle",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyTrontronTrxLinear",
+    "exportName": "TrontronTrx",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyTwitchLinear",
+    "exportName": "Twitch",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyUi8Linear",
+    "exportName": "Ui8",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyUsdCoinUsdcLinear",
+    "exportName": "UsdCoinUsdc",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyVelasVlxLinear",
+    "exportName": "VelasVlx",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyVibeVibeLinear",
+    "exportName": "VibeVibe",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyVuesaxLinear",
+    "exportName": "Vuesax",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyWanchainWan1Linear",
+    "exportName": "WanchainWan1",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyWanchainWanLinear",
+    "exportName": "WanchainWan",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyWhatsappLinear",
+    "exportName": "Whatsapp",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyWindowsLinear",
+    "exportName": "Windows",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyWingWingLinear",
+    "exportName": "WingWing",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyXdLinear",
+    "exportName": "Xd",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyXiaomiLinear",
+    "exportName": "Xiaomi",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyXrpXrpLinear",
+    "exportName": "XrpXrp",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyYoutubeLinear",
+    "exportName": "Youtube",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyZelZelLinear",
+    "exportName": "ZelZel",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "CryptoCompanyZoomLinear",
+    "exportName": "Zoom",
+    "category": "CryptoCompany",
+    "rootFolder": "linear"
+  }
+]

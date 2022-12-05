@@ -1,0 +1,122 @@
+[
+  {
+    "importName": "BusinessActivityBulk",
+    "exportName": "Activity",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessChart1Bulk",
+    "exportName": "Chart1",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessChart2Bulk",
+    "exportName": "Chart2",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessChart21Bulk",
+    "exportName": "Chart21",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessChartSuccessBulk",
+    "exportName": "ChartSuccess",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessChartBulk",
+    "exportName": "Chart",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessDiagramBulk",
+    "exportName": "Diagram",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessFavoriteChartBulk",
+    "exportName": "FavoriteChart",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessFrameBulk",
+    "exportName": "Frame",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessGraphBulk",
+    "exportName": "Graph",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessHashtagBulk",
+    "exportName": "Hashtag",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessHealthBulk",
+    "exportName": "Health",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessHomeHashtagBulk",
+    "exportName": "HomeHashtag",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessHomeTrendDownBulk",
+    "exportName": "HomeTrendDown",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessHomeTrendUpBulk",
+    "exportName": "HomeTrendUp",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessPersonalcardBulk",
+    "exportName": "Personalcard",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessPresentionChartBulk",
+    "exportName": "PresentionChart",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessStatusUpBulk",
+    "exportName": "StatusUp",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessTrendDownBulk",
+    "exportName": "TrendDown",
+    "category": "Business",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "BusinessTrendUpBulk",
+    "exportName": "TrendUp",
+    "category": "Business",
+    "rootFolder": "bulk"
+  }
+]

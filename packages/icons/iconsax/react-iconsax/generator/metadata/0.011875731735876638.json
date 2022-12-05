@@ -1,0 +1,290 @@
+[
+  {
+    "importName": "ComputersDevicesElectronicsAirdropOutline",
+    "exportName": "Airdrop",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsAirpodOutline",
+    "exportName": "Airpod",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsAirpodsOutline",
+    "exportName": "Airpods",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsBluetooth2Outline",
+    "exportName": "Bluetooth2",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsBluetoothCircleOutline",
+    "exportName": "BluetoothCircle",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsBluetoothRectangleOutline",
+    "exportName": "BluetoothRectangle",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsBluetoothOutline",
+    "exportName": "Bluetooth",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsClockOutline",
+    "exportName": "Clock",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCloudAddOutline",
+    "exportName": "CloudAdd",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCloudChangeOutline",
+    "exportName": "CloudChange",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCloudConnectionOutline",
+    "exportName": "CloudConnection",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCloudRemoveOutline",
+    "exportName": "CloudRemove",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCpuChargeOutline",
+    "exportName": "CpuCharge",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCpuSettingOutline",
+    "exportName": "CpuSetting",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCpuOutline",
+    "exportName": "Cpu",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsDevicesOutline",
+    "exportName": "Devices",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsDriver2Outline",
+    "exportName": "Driver2",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsDriverRefreshOutline",
+    "exportName": "DriverRefresh",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsDriverOutline",
+    "exportName": "Driver",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsElectricityOutline",
+    "exportName": "Electricity",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsExternalDriveOutline",
+    "exportName": "ExternalDrive",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsFolderConnectionOutline",
+    "exportName": "FolderConnection",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsGameOutline",
+    "exportName": "Game",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsGameboyOutline",
+    "exportName": "Gameboy",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsHeadphoneOutline",
+    "exportName": "Headphone",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsHeadphonesOutline",
+    "exportName": "Headphones",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsKeyboardOpenOutline",
+    "exportName": "KeyboardOpen",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsKeyboardOutline",
+    "exportName": "Keyboard",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsLampOutline",
+    "exportName": "Lamp",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMicroscopeOutline",
+    "exportName": "Microscope",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMirroringScreenOutline",
+    "exportName": "MirroringScreen",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMobileOutline",
+    "exportName": "Mobile",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMonitorMobbileOutline",
+    "exportName": "MonitorMobbile",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMonitorRecorderOutline",
+    "exportName": "MonitorRecorder",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMonitorOutline",
+    "exportName": "Monitor",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMouseOutline",
+    "exportName": "Mouse",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMusicPlayOutline",
+    "exportName": "MusicPlay",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsPrinterSlashOutline",
+    "exportName": "PrinterSlash",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsPrinterOutline",
+    "exportName": "Printer",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsRam2Outline",
+    "exportName": "Ram2",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsRamOutline",
+    "exportName": "Ram",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsSimcard1Outline",
+    "exportName": "Simcard1",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsSimcard2Outline",
+    "exportName": "Simcard2",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsSimcardOutline",
+    "exportName": "Simcard",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsSpeakerOutline",
+    "exportName": "Speaker",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsWatchStatusOutline",
+    "exportName": "WatchStatus",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsWatchOutline",
+    "exportName": "Watch",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsWeightOutline",
+    "exportName": "Weight",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "outline"
+  }
+]

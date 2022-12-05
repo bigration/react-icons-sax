@@ -1,0 +1,170 @@
+[
+  {
+    "importName": "SecurityAlarmOutline",
+    "exportName": "Alarm",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityCheckOutline",
+    "exportName": "Check",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityEyeSlashOutline",
+    "exportName": "EyeSlash",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityEyeOutline",
+    "exportName": "Eye",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityFingerCricleOutline",
+    "exportName": "FingerCricle",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityFingerScanOutline",
+    "exportName": "FingerScan",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityFrameOutline",
+    "exportName": "Frame",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityKeySquareOutline",
+    "exportName": "KeySquare",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityKeyOutline",
+    "exportName": "Key",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityLock1Outline",
+    "exportName": "Lock1",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityLockCircleOutline",
+    "exportName": "LockCircle",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityLockSlashOutline",
+    "exportName": "LockSlash",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityLockOutline",
+    "exportName": "Lock",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityPasswordCheckOutline",
+    "exportName": "PasswordCheck",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityRadarOutline",
+    "exportName": "Radar",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityScanBarcodeOutline",
+    "exportName": "ScanBarcode",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityScanOutline",
+    "exportName": "Scan",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityScannerOutline",
+    "exportName": "Scanner",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityScanningOutline",
+    "exportName": "Scanning",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecuritySecuritySafeOutline",
+    "exportName": "SecuritySafe",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecuritySecurityUserOutline",
+    "exportName": "SecurityUser",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecuritySecurityOutline",
+    "exportName": "Security",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityShieldCrossOutline",
+    "exportName": "ShieldCross",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityShieldSearchOutline",
+    "exportName": "ShieldSearch",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityShieldSlashOutline",
+    "exportName": "ShieldSlash",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityShieldTickOutline",
+    "exportName": "ShieldTick",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityShieldOutline",
+    "exportName": "Shield",
+    "category": "Security",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SecurityUnlockOutline",
+    "exportName": "Unlock",
+    "category": "Security",
+    "rootFolder": "outline"
+  }
+]

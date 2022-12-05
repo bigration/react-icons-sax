@@ -1,0 +1,470 @@
+[
+  {
+    "importName": "MoneyArchiveBulk",
+    "exportName": "Archive",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyCardAddBulk",
+    "exportName": "CardAdd",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyCardEditBulk",
+    "exportName": "CardEdit",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyCardPosBulk",
+    "exportName": "CardPos",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyCardReceiveBulk",
+    "exportName": "CardReceive",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyCardRemove1Bulk",
+    "exportName": "CardRemove1",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyCardRemoveBulk",
+    "exportName": "CardRemove",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyCardSendBulk",
+    "exportName": "CardSend",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyCardSlashBulk",
+    "exportName": "CardSlash",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyCardTick1Bulk",
+    "exportName": "CardTick1",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyCardTickBulk",
+    "exportName": "CardTick",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyCardBulk",
+    "exportName": "Card",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyCardsBulk",
+    "exportName": "Cards",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyChartSquareBulk",
+    "exportName": "ChartSquare",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyCoin1Bulk",
+    "exportName": "Coin1",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyCoinBulk",
+    "exportName": "Coin",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyConvertCardBulk",
+    "exportName": "ConvertCard",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyDiscountCircleBulk",
+    "exportName": "DiscountCircle",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyDiscountShapeBulk",
+    "exportName": "DiscountShape",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyDocumentBulk",
+    "exportName": "Document",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyDollarCircleBulk",
+    "exportName": "DollarCircle",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyDollarSquareBulk",
+    "exportName": "DollarSquare",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyEmptyWalletAddBulk",
+    "exportName": "EmptyWalletAdd",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyEmptyWalletChangeBulk",
+    "exportName": "EmptyWalletChange",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyEmptyWalletRemoveBulk",
+    "exportName": "EmptyWalletRemove",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyEmptyWalletTickBulk",
+    "exportName": "EmptyWalletTick",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyEmptyWalletTimeBulk",
+    "exportName": "EmptyWalletTime",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyEmptyWalletBulk",
+    "exportName": "EmptyWallet",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyMathBulk",
+    "exportName": "Math",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyMoney2Bulk",
+    "exportName": "Money2",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyMoney3Bulk",
+    "exportName": "Money3",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyMoney4Bulk",
+    "exportName": "Money4",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyMoneyAddBulk",
+    "exportName": "MoneyAdd",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyMoneyChangeBulk",
+    "exportName": "MoneyChange",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyMoneyForbiddenBulk",
+    "exportName": "MoneyForbidden",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyMoneyReciveBulk",
+    "exportName": "MoneyRecive",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyMoneyRemoveBulk",
+    "exportName": "MoneyRemove",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyMoneySendBulk",
+    "exportName": "MoneySend",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyMoneyTickBulk",
+    "exportName": "MoneyTick",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyMoneyTimeBulk",
+    "exportName": "MoneyTime",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyMoneyBulk",
+    "exportName": "Money",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyMoneysBulk",
+    "exportName": "Moneys",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyPercentageCircleBulk",
+    "exportName": "PercentageCircle",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyPercentageSquareBulk",
+    "exportName": "PercentageSquare",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyReceipt1Bulk",
+    "exportName": "Receipt1",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyReceipt21Bulk",
+    "exportName": "Receipt21",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyReceipt2Bulk",
+    "exportName": "Receipt2",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyReceiptAddBulk",
+    "exportName": "ReceiptAdd",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyReceiptDiscountBulk",
+    "exportName": "ReceiptDiscount",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyReceiptDisscountBulk",
+    "exportName": "ReceiptDisscount",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyReceiptEditBulk",
+    "exportName": "ReceiptEdit",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyReceiptItemBulk",
+    "exportName": "ReceiptItem",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyReceiptMinusBulk",
+    "exportName": "ReceiptMinus",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyReceiptSearchBulk",
+    "exportName": "ReceiptSearch",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyReceiptTextBulk",
+    "exportName": "ReceiptText",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyReceiptBulk",
+    "exportName": "Receipt",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneySecurityCardBulk",
+    "exportName": "SecurityCard",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyStrongbox2Bulk",
+    "exportName": "Strongbox2",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyStrongboxBulk",
+    "exportName": "Strongbox",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyTag2Bulk",
+    "exportName": "Tag2",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyTagBulk",
+    "exportName": "Tag",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyTicket2Bulk",
+    "exportName": "Ticket2",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyTicketDiscountBulk",
+    "exportName": "TicketDiscount",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyTicketExpiredBulk",
+    "exportName": "TicketExpired",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyTicketStarBulk",
+    "exportName": "TicketStar",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyTicketBulk",
+    "exportName": "Ticket",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyTransactionMinusBulk",
+    "exportName": "TransactionMinus",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyWallet1Bulk",
+    "exportName": "Wallet1",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyWallet2Bulk",
+    "exportName": "Wallet2",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyWallet3Bulk",
+    "exportName": "Wallet3",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyWalletAdd1Bulk",
+    "exportName": "WalletAdd1",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyWalletAddBulk",
+    "exportName": "WalletAdd",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyWalletCheckBulk",
+    "exportName": "WalletCheck",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyWalletMinusBulk",
+    "exportName": "WalletMinus",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyWalletMoneyBulk",
+    "exportName": "WalletMoney",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyWalletRemoveBulk",
+    "exportName": "WalletRemove",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyWalletSearchBulk",
+    "exportName": "WalletSearch",
+    "category": "Money",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "MoneyWalletBulk",
+    "exportName": "Wallet",
+    "category": "Money",
+    "rootFolder": "bulk"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "importName": "DesignToolsAdditemBulk",
+    "exportName": "Additem",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsBackwardItemBulk",
+    "exportName": "BackwardItem",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsBezierBulk",
+    "exportName": "Bezier",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsBlend2Bulk",
+    "exportName": "Blend2",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsBlendBulk",
+    "exportName": "Blend",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsBlurBulk",
+    "exportName": "Blur",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsBrush1Bulk",
+    "exportName": "Brush1",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsBrush2Bulk",
+    "exportName": "Brush2",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsBrush3Bulk",
+    "exportName": "Brush3",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsBrush4Bulk",
+    "exportName": "Brush4",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsBrushBulk",
+    "exportName": "Brush",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsBucketCircleBulk",
+    "exportName": "BucketCircle",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsBucketSquareBulk",
+    "exportName": "BucketSquare",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsBucketBulk",
+    "exportName": "Bucket",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsColorSwatchBulk",
+    "exportName": "ColorSwatch",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsColorfilterBulk",
+    "exportName": "Colorfilter",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsColorsSquareBulk",
+    "exportName": "ColorsSquare",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsComponentBulk",
+    "exportName": "Component",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsCopySuccessBulk",
+    "exportName": "CopySuccess",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsCopyBulk",
+    "exportName": "Copy",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsDesigntoolsBulk",
+    "exportName": "Designtools",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsEraserBulk",
+    "exportName": "Eraser",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsFlashCircleBulk",
+    "exportName": "FlashCircle",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsForwardItemBulk",
+    "exportName": "ForwardItem",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsGlassBulk",
+    "exportName": "Glass",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsLayerBulk",
+    "exportName": "Layer",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsLifebuoyBulk",
+    "exportName": "Lifebuoy",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsMagicpenBulk",
+    "exportName": "Magicpen",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsMainComponentBulk",
+    "exportName": "MainComponent",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsMask1Bulk",
+    "exportName": "Mask1",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsMask2Bulk",
+    "exportName": "Mask2",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsMaskBulk",
+    "exportName": "Mask",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsOmegaCircleBulk",
+    "exportName": "OmegaCircle",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsOmegaSquareBulk",
+    "exportName": "OmegaSquare",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsPaintbucketBulk",
+    "exportName": "Paintbucket",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsPath2Bulk",
+    "exportName": "Path2",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsPathSquareBulk",
+    "exportName": "PathSquare",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsPathBulk",
+    "exportName": "Path",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsPenAddBulk",
+    "exportName": "PenAdd",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsPenCloseBulk",
+    "exportName": "PenClose",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsPenRemoveBulk",
+    "exportName": "PenRemove",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsPenTool2Bulk",
+    "exportName": "PenTool2",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsPenToolBulk",
+    "exportName": "PenTool",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsRecoveryConvertBulk",
+    "exportName": "RecoveryConvert",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsRulerBulk",
+    "exportName": "Ruler",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsRulerpenBulk",
+    "exportName": "Rulerpen",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsScissorBulk",
+    "exportName": "Scissor",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsShapes1Bulk",
+    "exportName": "Shapes1",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsShapesBulk",
+    "exportName": "Shapes",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DesignToolsSizeBulk",
+    "exportName": "Size",
+    "category": "DesignTools",
+    "rootFolder": "bulk"
+  }
+]

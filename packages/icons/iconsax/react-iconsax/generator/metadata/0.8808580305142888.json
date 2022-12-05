@@ -1,0 +1,290 @@
+[
+  {
+    "importName": "ComputersDevicesElectronicsAirdropBroken",
+    "exportName": "Airdrop",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsAirpodBroken",
+    "exportName": "Airpod",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsAirpodsBroken",
+    "exportName": "Airpods",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsBluetooth2Broken",
+    "exportName": "Bluetooth2",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsBluetoothCircleBroken",
+    "exportName": "BluetoothCircle",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsBluetoothRectangleBroken",
+    "exportName": "BluetoothRectangle",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsBluetoothBroken",
+    "exportName": "Bluetooth",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsClockBroken",
+    "exportName": "Clock",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCloudAddBroken",
+    "exportName": "CloudAdd",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCloudChangeBroken",
+    "exportName": "CloudChange",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCloudConnectionBroken",
+    "exportName": "CloudConnection",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCloudRemoveBroken",
+    "exportName": "CloudRemove",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCpuChargeBroken",
+    "exportName": "CpuCharge",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCpuSettingBroken",
+    "exportName": "CpuSetting",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCpuBroken",
+    "exportName": "Cpu",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsDevicesBroken",
+    "exportName": "Devices",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsDriver2Broken",
+    "exportName": "Driver2",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsDriverRefreshBroken",
+    "exportName": "DriverRefresh",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsDriverBroken",
+    "exportName": "Driver",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsElectricityBroken",
+    "exportName": "Electricity",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsExternalDriveBroken",
+    "exportName": "ExternalDrive",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsFolderConnectionBroken",
+    "exportName": "FolderConnection",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsGameBroken",
+    "exportName": "Game",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsGameboyBroken",
+    "exportName": "Gameboy",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsHeadphoneBroken",
+    "exportName": "Headphone",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsHeadphonesBroken",
+    "exportName": "Headphones",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsKeyboardOpenBroken",
+    "exportName": "KeyboardOpen",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsKeyboardBroken",
+    "exportName": "Keyboard",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsLampBroken",
+    "exportName": "Lamp",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMicroscopeBroken",
+    "exportName": "Microscope",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMirroringScreenBroken",
+    "exportName": "MirroringScreen",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMobileBroken",
+    "exportName": "Mobile",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMonitorMobbileBroken",
+    "exportName": "MonitorMobbile",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMonitorRecorderBroken",
+    "exportName": "MonitorRecorder",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMonitorBroken",
+    "exportName": "Monitor",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMouseBroken",
+    "exportName": "Mouse",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMusicPlayBroken",
+    "exportName": "MusicPlay",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsPrinterSlashBroken",
+    "exportName": "PrinterSlash",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsPrinterBroken",
+    "exportName": "Printer",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsRam2Broken",
+    "exportName": "Ram2",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsRamBroken",
+    "exportName": "Ram",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsSimcard1Broken",
+    "exportName": "Simcard1",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsSimcard2Broken",
+    "exportName": "Simcard2",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsSimcardBroken",
+    "exportName": "Simcard",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsSpeakerBroken",
+    "exportName": "Speaker",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsWatchStatusBroken",
+    "exportName": "WatchStatus",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsWatchBroken",
+    "exportName": "Watch",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsWeightBroken",
+    "exportName": "Weight",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "broken"
+  }
+]

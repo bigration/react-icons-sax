@@ -1,0 +1,158 @@
+[
+  {
+    "importName": "SupportLikeQuestionSvg24SupportBold",
+    "exportName": "Svg24Support",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionDislikeBold",
+    "exportName": "Dislike",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartAddBold",
+    "exportName": "HeartAdd",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartCircleBold",
+    "exportName": "HeartCircle",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartEditBold",
+    "exportName": "HeartEdit",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartRemoveBold",
+    "exportName": "HeartRemove",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartSearchBold",
+    "exportName": "HeartSearch",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartSlashBold",
+    "exportName": "HeartSlash",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartTickBold",
+    "exportName": "HeartTick",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartBold",
+    "exportName": "Heart",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionLike1Bold",
+    "exportName": "Like1",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeDislikeBold",
+    "exportName": "LikeDislike",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeShapesBold",
+    "exportName": "LikeShapes",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeTagBold",
+    "exportName": "LikeTag",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeBold",
+    "exportName": "Like",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionLovelyBold",
+    "exportName": "Lovely",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionMagicStarBold",
+    "exportName": "MagicStar",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionMedalStarBold",
+    "exportName": "MedalStar",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionMedalBold",
+    "exportName": "Medal",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionMessageQuestionBold",
+    "exportName": "MessageQuestion",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionRankingBold",
+    "exportName": "Ranking",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionSmileysBold",
+    "exportName": "Smileys",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionStar1Bold",
+    "exportName": "Star1",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionStarSlashBold",
+    "exportName": "StarSlash",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionStarBold",
+    "exportName": "Star",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SupportLikeQuestionUnlimitedBold",
+    "exportName": "Unlimited",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "bold"
+  }
+]

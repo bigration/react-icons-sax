@@ -1,0 +1,218 @@
+[
+  {
+    "importName": "EmailsMessagesDeviceMessageBulk",
+    "exportName": "DeviceMessage",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesDirectInboxBulk",
+    "exportName": "DirectInbox",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesDirectNormalBulk",
+    "exportName": "DirectNormal",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesDirectNotificationBulk",
+    "exportName": "DirectNotification",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesDirectSendBulk",
+    "exportName": "DirectSend",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesDirectBulk",
+    "exportName": "Direct",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesDirectboxDefaultBulk",
+    "exportName": "DirectboxDefault",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesDirectboxNotifBulk",
+    "exportName": "DirectboxNotif",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesDirectboxReceiveBulk",
+    "exportName": "DirectboxReceive",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesDirectboxSendBulk",
+    "exportName": "DirectboxSend",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessage2Bulk",
+    "exportName": "Message2",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessageAdd1Bulk",
+    "exportName": "MessageAdd1",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessageAddBulk",
+    "exportName": "MessageAdd",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessageCircleBulk",
+    "exportName": "MessageCircle",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessageEditBulk",
+    "exportName": "MessageEdit",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessageFavoriteBulk",
+    "exportName": "MessageFavorite",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessageMinusBulk",
+    "exportName": "MessageMinus",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessageNotifBulk",
+    "exportName": "MessageNotif",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessageRemoveBulk",
+    "exportName": "MessageRemove",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessageSearchBulk",
+    "exportName": "MessageSearch",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessageSquareBulk",
+    "exportName": "MessageSquare",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessageText1Bulk",
+    "exportName": "MessageText1",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessageTextBulk",
+    "exportName": "MessageText",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessageTickBulk",
+    "exportName": "MessageTick",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessageTimeBulk",
+    "exportName": "MessageTime",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessageBulk",
+    "exportName": "Message",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessages1Bulk",
+    "exportName": "Messages1",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessages2Bulk",
+    "exportName": "Messages2",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessages3Bulk",
+    "exportName": "Messages3",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesMessagesBulk",
+    "exportName": "Messages",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesSmsEditBulk",
+    "exportName": "SmsEdit",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesSmsNotificationBulk",
+    "exportName": "SmsNotification",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesSmsSearchBulk",
+    "exportName": "SmsSearch",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesSmsStarBulk",
+    "exportName": "SmsStar",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesSmsTrackingBulk",
+    "exportName": "SmsTracking",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "EmailsMessagesSmsBulk",
+    "exportName": "Sms",
+    "category": "EmailsMessages",
+    "rootFolder": "bulk"
+  }
+]

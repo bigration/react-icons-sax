@@ -1,0 +1,164 @@
+[
+  {
+    "importName": "LocationArrowSquareLinear",
+    "exportName": "ArrowSquare",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationArrowLinear",
+    "exportName": "Arrow",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationDirectDownLinear",
+    "exportName": "DirectDown",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationDirectLeftLinear",
+    "exportName": "DirectLeft",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationDirectRightLinear",
+    "exportName": "DirectRight",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationDirectUpLinear",
+    "exportName": "DirectUp",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationDiscoverLinear",
+    "exportName": "Discover",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationGlobalEditLinear",
+    "exportName": "GlobalEdit",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationGlobalRefreshLinear",
+    "exportName": "GlobalRefresh",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationGlobalSearchLinear",
+    "exportName": "GlobalSearch",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationGlobalLinear",
+    "exportName": "Global",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationGpsSlashLinear",
+    "exportName": "GpsSlash",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationGpsLinear",
+    "exportName": "Gps",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationLocationAddLinear",
+    "exportName": "LocationAdd",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationLocationCrossLinear",
+    "exportName": "LocationCross",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationLocationMinusLinear",
+    "exportName": "LocationMinus",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationLocationSlashLinear",
+    "exportName": "LocationSlash",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationLocationTickLinear",
+    "exportName": "LocationTick",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationLocationLinear",
+    "exportName": "Location",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationMap1Linear",
+    "exportName": "Map1",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationMapLinear",
+    "exportName": "Map",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationPictureFrameLinear",
+    "exportName": "PictureFrame",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationRadar2Linear",
+    "exportName": "Radar2",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationRadarLinear",
+    "exportName": "Radar",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationRouteSquareLinear",
+    "exportName": "RouteSquare",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationRouting2Linear",
+    "exportName": "Routing2",
+    "category": "Location",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "LocationRoutingLinear",
+    "exportName": "Routing",
+    "category": "Location",
+    "rootFolder": "linear"
+  }
+]

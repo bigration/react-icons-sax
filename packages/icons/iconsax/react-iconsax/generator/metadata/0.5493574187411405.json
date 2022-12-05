@@ -1,0 +1,212 @@
+[
+  {
+    "importName": "TypeParagraphCharacterAttachCircleBulk",
+    "exportName": "AttachCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterAttachSquareBulk",
+    "exportName": "AttachSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterEraserBulk",
+    "exportName": "Eraser",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterFirstlineBulk",
+    "exportName": "Firstline",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterLanguageCircleBulk",
+    "exportName": "LanguageCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterLanguageSquareBulk",
+    "exportName": "LanguageSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterLink1Bulk",
+    "exportName": "Link1",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterLink2Bulk",
+    "exportName": "Link2",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterLink21Bulk",
+    "exportName": "Link21",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterLinkCircleBulk",
+    "exportName": "LinkCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterLinkSquareBulk",
+    "exportName": "LinkSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterLinkBulk",
+    "exportName": "Link",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterMaximizeBulk",
+    "exportName": "Maximize",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterPaperclip2Bulk",
+    "exportName": "Paperclip2",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterPaperclipBulk",
+    "exportName": "Paperclip",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterPharagraphspacingBulk",
+    "exportName": "Pharagraphspacing",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteDownCircleBulk",
+    "exportName": "QuoteDownCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteDownSquareBulk",
+    "exportName": "QuoteDownSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteDownBulk",
+    "exportName": "QuoteDown",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteUpCircleBulk",
+    "exportName": "QuoteUpCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteUpSquareBulk",
+    "exportName": "QuoteUpSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteUpBulk",
+    "exportName": "QuoteUp",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterSmallcapsBulk",
+    "exportName": "Smallcaps",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextBlockBulk",
+    "exportName": "TextBlock",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextBoldBulk",
+    "exportName": "TextBold",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextItalicBulk",
+    "exportName": "TextItalic",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextUnderlineBulk",
+    "exportName": "TextUnderline",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextBulk",
+    "exportName": "Text",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignCenterBulk",
+    "exportName": "TextalignCenter",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignJustifycenterBulk",
+    "exportName": "TextalignJustifycenter",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignJustifyleftBulk",
+    "exportName": "TextalignJustifyleft",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignJustifyrightBulk",
+    "exportName": "TextalignJustifyright",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignLeftBulk",
+    "exportName": "TextalignLeft",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignRightBulk",
+    "exportName": "TextalignRight",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "TypeParagraphCharacterTranslateBulk",
+    "exportName": "Translate",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bulk"
+  }
+]

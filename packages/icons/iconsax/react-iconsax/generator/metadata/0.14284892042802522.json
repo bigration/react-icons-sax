@@ -1,0 +1,62 @@
+[
+  {
+    "importName": "SearchSearchFavorite1Bold",
+    "exportName": "SearchFavorite1",
+    "category": "Search",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SearchSearchFavoriteBold",
+    "exportName": "SearchFavorite",
+    "category": "Search",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SearchSearchNormal1Bold",
+    "exportName": "SearchNormal1",
+    "category": "Search",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SearchSearchNormalBold",
+    "exportName": "SearchNormal",
+    "category": "Search",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SearchSearchStatus1Bold",
+    "exportName": "SearchStatus1",
+    "category": "Search",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SearchSearchStatusBold",
+    "exportName": "SearchStatus",
+    "category": "Search",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SearchSearchZoomIn1Bold",
+    "exportName": "SearchZoomIn1",
+    "category": "Search",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SearchSearchZoomInBold",
+    "exportName": "SearchZoomIn",
+    "category": "Search",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SearchSearchZoomOut1Bold",
+    "exportName": "SearchZoomOut1",
+    "category": "Search",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "SearchSearchZoomOutBold",
+    "exportName": "SearchZoomOut",
+    "category": "Search",
+    "rootFolder": "bold"
+  }
+]

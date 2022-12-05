@@ -1,0 +1,56 @@
+[
+  {
+    "importName": "CallCallAddBroken",
+    "exportName": "CallAdd",
+    "category": "Call",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "CallCallCallingBroken",
+    "exportName": "CallCalling",
+    "category": "Call",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "CallCallIncomingBroken",
+    "exportName": "CallIncoming",
+    "category": "Call",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "CallCallMinusBroken",
+    "exportName": "CallMinus",
+    "category": "Call",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "CallCallOutgoingBroken",
+    "exportName": "CallOutgoing",
+    "category": "Call",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "CallCallReceivedBroken",
+    "exportName": "CallReceived",
+    "category": "Call",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "CallCallRemoveBroken",
+    "exportName": "CallRemove",
+    "category": "Call",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "CallCallSlashBroken",
+    "exportName": "CallSlash",
+    "category": "Call",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "CallCallBroken",
+    "exportName": "Call",
+    "category": "Call",
+    "rootFolder": "broken"
+  }
+]

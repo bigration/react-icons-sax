@@ -1,0 +1,164 @@
+[
+  {
+    "importName": "ProgramingCode1Bold",
+    "exportName": "Code1",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingCodeCircleBold",
+    "exportName": "CodeCircle",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingCodeBold",
+    "exportName": "Code",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingCommandSquareBold",
+    "exportName": "CommandSquare",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingCommandBold",
+    "exportName": "Command",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingData2Bold",
+    "exportName": "Data2",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingDataBold",
+    "exportName": "Data",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingDocumentCode2Bold",
+    "exportName": "DocumentCode2",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingDocumentCodeBold",
+    "exportName": "DocumentCode",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingHashtagDownBold",
+    "exportName": "HashtagDown",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingHashtagUpBold",
+    "exportName": "HashtagUp",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingHashtagBold",
+    "exportName": "Hashtag",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingHierarchy2Bold",
+    "exportName": "Hierarchy2",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingHierarchy3Bold",
+    "exportName": "Hierarchy3",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingHierarchySquare2Bold",
+    "exportName": "HierarchySquare2",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingHierarchySquare3Bold",
+    "exportName": "HierarchySquare3",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingHierarchySquareBold",
+    "exportName": "HierarchySquare",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingHierarchyBold",
+    "exportName": "Hierarchy",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingMessageProgrammingBold",
+    "exportName": "MessageProgramming",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingMobileProgrammingBold",
+    "exportName": "MobileProgramming",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingProgrammingArrowBold",
+    "exportName": "ProgrammingArrow",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingProgrammingArrowsBold",
+    "exportName": "ProgrammingArrows",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingScrollBold",
+    "exportName": "Scroll",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingSidebarBottomBold",
+    "exportName": "SidebarBottom",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingSidebarLeftBold",
+    "exportName": "SidebarLeft",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingSidebarRightBold",
+    "exportName": "SidebarRight",
+    "category": "Programing",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ProgramingSidebarTopBold",
+    "exportName": "SidebarTop",
+    "category": "Programing",
+    "rootFolder": "bold"
+  }
+]

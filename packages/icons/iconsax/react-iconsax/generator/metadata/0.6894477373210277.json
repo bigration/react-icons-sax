@@ -1,0 +1,470 @@
+[
+  {
+    "importName": "MoneyArchiveTwotone",
+    "exportName": "Archive",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyCardAddTwotone",
+    "exportName": "CardAdd",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyCardEditTwotone",
+    "exportName": "CardEdit",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyCardPosTwotone",
+    "exportName": "CardPos",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyCardReceiveTwotone",
+    "exportName": "CardReceive",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyCardRemove1Twotone",
+    "exportName": "CardRemove1",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyCardRemoveTwotone",
+    "exportName": "CardRemove",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyCardSendTwotone",
+    "exportName": "CardSend",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyCardSlashTwotone",
+    "exportName": "CardSlash",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyCardTick1Twotone",
+    "exportName": "CardTick1",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyCardTickTwotone",
+    "exportName": "CardTick",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyCardTwotone",
+    "exportName": "Card",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyCardsTwotone",
+    "exportName": "Cards",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyChartSquareTwotone",
+    "exportName": "ChartSquare",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyCoin1Twotone",
+    "exportName": "Coin1",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyCoinTwotone",
+    "exportName": "Coin",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyConvertCardTwotone",
+    "exportName": "ConvertCard",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyDiscountCircleTwotone",
+    "exportName": "DiscountCircle",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyDiscountShapeTwotone",
+    "exportName": "DiscountShape",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyDocumentTwotone",
+    "exportName": "Document",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyDollarCircleTwotone",
+    "exportName": "DollarCircle",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyDollarSquareTwotone",
+    "exportName": "DollarSquare",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyEmptyWalletAddTwotone",
+    "exportName": "EmptyWalletAdd",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyEmptyWalletRemoveTwotone",
+    "exportName": "EmptyWalletRemove",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyEmptyWalletTickTwotone",
+    "exportName": "EmptyWalletTick",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyEmptyWalletTwotone",
+    "exportName": "EmptyWallet",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyIcon1Twotone",
+    "exportName": "Icon1",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyIconTwotone",
+    "exportName": "Icon",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyMathTwotone",
+    "exportName": "Math",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyMoney2Twotone",
+    "exportName": "Money2",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyMoney3Twotone",
+    "exportName": "Money3",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyMoney4Twotone",
+    "exportName": "Money4",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyMoneyAddTwotone",
+    "exportName": "MoneyAdd",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyMoneyChangeTwotone",
+    "exportName": "MoneyChange",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyMoneyForbiddenTwotone",
+    "exportName": "MoneyForbidden",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyMoneyReciveTwotone",
+    "exportName": "MoneyRecive",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyMoneyRemoveTwotone",
+    "exportName": "MoneyRemove",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyMoneySendTwotone",
+    "exportName": "MoneySend",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyMoneyTickTwotone",
+    "exportName": "MoneyTick",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyMoneyTimeTwotone",
+    "exportName": "MoneyTime",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyMoneyTwotone",
+    "exportName": "Money",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyMoneysTwotone",
+    "exportName": "Moneys",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyPercentageCircleTwotone",
+    "exportName": "PercentageCircle",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyPercentageSquareTwotone",
+    "exportName": "PercentageSquare",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyReceipt1Twotone",
+    "exportName": "Receipt1",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyReceipt21Twotone",
+    "exportName": "Receipt21",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyReceipt2Twotone",
+    "exportName": "Receipt2",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyReceiptAddTwotone",
+    "exportName": "ReceiptAdd",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyReceiptDiscountTwotone",
+    "exportName": "ReceiptDiscount",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyReceiptDisscountTwotone",
+    "exportName": "ReceiptDisscount",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyReceiptEditTwotone",
+    "exportName": "ReceiptEdit",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyReceiptItemTwotone",
+    "exportName": "ReceiptItem",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyReceiptMinusTwotone",
+    "exportName": "ReceiptMinus",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyReceiptSearchTwotone",
+    "exportName": "ReceiptSearch",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyReceiptTextTwotone",
+    "exportName": "ReceiptText",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyReceiptTwotone",
+    "exportName": "Receipt",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneySecurityCardTwotone",
+    "exportName": "SecurityCard",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyStrongbox2Twotone",
+    "exportName": "Strongbox2",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyStrongboxTwotone",
+    "exportName": "Strongbox",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyTag2Twotone",
+    "exportName": "Tag2",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyTagTwotone",
+    "exportName": "Tag",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyTicket2Twotone",
+    "exportName": "Ticket2",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyTicketDiscountTwotone",
+    "exportName": "TicketDiscount",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyTicketExpiredTwotone",
+    "exportName": "TicketExpired",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyTicketStarTwotone",
+    "exportName": "TicketStar",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyTicketTwotone",
+    "exportName": "Ticket",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyTransactionMinusTwotone",
+    "exportName": "TransactionMinus",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyWallet1Twotone",
+    "exportName": "Wallet1",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyWallet2Twotone",
+    "exportName": "Wallet2",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyWallet3Twotone",
+    "exportName": "Wallet3",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyWalletAdd1Twotone",
+    "exportName": "WalletAdd1",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyWalletAddTwotone",
+    "exportName": "WalletAdd",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyWalletCheckTwotone",
+    "exportName": "WalletCheck",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyWalletMinusTwotone",
+    "exportName": "WalletMinus",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyWalletMoneyTwotone",
+    "exportName": "WalletMoney",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyWalletRemoveTwotone",
+    "exportName": "WalletRemove",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyWalletSearchTwotone",
+    "exportName": "WalletSearch",
+    "category": "Money",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "MoneyWalletTwotone",
+    "exportName": "Wallet",
+    "category": "Money",
+    "rootFolder": "twotone"
+  }
+]

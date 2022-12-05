@@ -1,0 +1,98 @@
+[
+  {
+    "importName": "DeliverySvg3DCubeScanBulk",
+    "exportName": "Svg3DCubeScan",
+    "category": "Delivery",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DeliverySvg3DRotateBulk",
+    "exportName": "Svg3DRotate",
+    "category": "Delivery",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DeliverySvg3DSquareBulk",
+    "exportName": "Svg3DSquare",
+    "category": "Delivery",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DeliveryBox1Bulk",
+    "exportName": "Box1",
+    "category": "Delivery",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DeliveryBoxAddBulk",
+    "exportName": "BoxAdd",
+    "category": "Delivery",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DeliveryBoxRemoveBulk",
+    "exportName": "BoxRemove",
+    "category": "Delivery",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DeliveryBoxSearchBulk",
+    "exportName": "BoxSearch",
+    "category": "Delivery",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DeliveryBoxTickBulk",
+    "exportName": "BoxTick",
+    "category": "Delivery",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DeliveryBoxTimeBulk",
+    "exportName": "BoxTime",
+    "category": "Delivery",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DeliveryBoxBulk",
+    "exportName": "Box",
+    "category": "Delivery",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DeliveryConvert3DCubeBulk",
+    "exportName": "Convert3DCube",
+    "category": "Delivery",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DeliveryGroup1Bulk",
+    "exportName": "Group1",
+    "category": "Delivery",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DeliveryGroupBulk",
+    "exportName": "Group",
+    "category": "Delivery",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DeliveryTruckRemoveBulk",
+    "exportName": "TruckRemove",
+    "category": "Delivery",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DeliveryTruckTickBulk",
+    "exportName": "TruckTick",
+    "category": "Delivery",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "DeliveryTruckTimeBulk",
+    "exportName": "TruckTime",
+    "category": "Delivery",
+    "rootFolder": "bulk"
+  }
+]

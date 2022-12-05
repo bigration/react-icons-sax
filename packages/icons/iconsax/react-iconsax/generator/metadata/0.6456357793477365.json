@@ -1,0 +1,608 @@
+[
+  {
+    "importName": "EssetionalSvg3DcubeBold",
+    "exportName": "Svg3Dcube",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalSvg3FullBold",
+    "exportName": "Svg3Full",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalAddCircleBold",
+    "exportName": "AddCircle",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalAddSquareBold",
+    "exportName": "AddSquare",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalAddBold",
+    "exportName": "Add",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalArchiveBold",
+    "exportName": "Archive",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalAutobrightnessBold",
+    "exportName": "Autobrightness",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalBatteryChargingBold",
+    "exportName": "BatteryCharging",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalBatteryDisableBold",
+    "exportName": "BatteryDisable",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalBatteryEmpty1Bold",
+    "exportName": "BatteryEmpty1",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalBatteryEmptyBold",
+    "exportName": "BatteryEmpty",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalBatteryFullBold",
+    "exportName": "BatteryFull",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalBox2Bold",
+    "exportName": "Box2",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalBroomBold",
+    "exportName": "Broom",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalBubbleBold",
+    "exportName": "Bubble",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalCakeBold",
+    "exportName": "Cake",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalCdBold",
+    "exportName": "Cd",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalChartBold",
+    "exportName": "Chart",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalChromeBold",
+    "exportName": "Chrome",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalCloseCircleBold",
+    "exportName": "CloseCircle",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalCloseSquareBold",
+    "exportName": "CloseSquare",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalCoffeeBold",
+    "exportName": "Coffee",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalComputingBold",
+    "exportName": "Computing",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalCrown1Bold",
+    "exportName": "Crown1",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalCrownBold",
+    "exportName": "Crown",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalCupBold",
+    "exportName": "Cup",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalDangerBold",
+    "exportName": "Danger",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalDiamondsBold",
+    "exportName": "Diamonds",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalDiscoverBold",
+    "exportName": "Discover",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalEmojiHappyBold",
+    "exportName": "EmojiHappy",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalEmojiNormalBold",
+    "exportName": "EmojiNormal",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalEmojiSadBold",
+    "exportName": "EmojiSad",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalFilterAddBold",
+    "exportName": "FilterAdd",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalFilterEditBold",
+    "exportName": "FilterEdit",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalFilterRemoveBold",
+    "exportName": "FilterRemove",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalFilterSearchBold",
+    "exportName": "FilterSearch",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalFilterSquareBold",
+    "exportName": "FilterSquare",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalFilterTickBold",
+    "exportName": "FilterTick",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalFilterBold",
+    "exportName": "Filter",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalFlag2Bold",
+    "exportName": "Flag2",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalFlagBold",
+    "exportName": "Flag",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalFlashCircleBold",
+    "exportName": "FlashCircle",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalFlashSlashBold",
+    "exportName": "FlashSlash",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalFlashBold",
+    "exportName": "Flash",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalForbidden2Bold",
+    "exportName": "Forbidden2",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalForbiddenBold",
+    "exportName": "Forbidden",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalGhostBold",
+    "exportName": "Ghost",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalGlassBold",
+    "exportName": "Glass",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalGrammerlyBold",
+    "exportName": "Grammerly",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalHappyemojiBold",
+    "exportName": "Happyemoji",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalHome1Bold",
+    "exportName": "Home1",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalHome2Bold",
+    "exportName": "Home2",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalHomeWifiBold",
+    "exportName": "HomeWifi",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalHomeBold",
+    "exportName": "Home",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalInfoCircleBold",
+    "exportName": "InfoCircle",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalInformationBold",
+    "exportName": "Information",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalInstagramBold",
+    "exportName": "Instagram",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalJudgeBold",
+    "exportName": "Judge",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalLampBold",
+    "exportName": "Lamp",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalLevelBold",
+    "exportName": "Level",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalMenuBold",
+    "exportName": "Menu",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalMilkBold",
+    "exportName": "Milk",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalMinusCirlceBold",
+    "exportName": "MinusCirlce",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalMinusSquareBold",
+    "exportName": "MinusSquare",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalMinusBold",
+    "exportName": "Minus",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalMirrorBold",
+    "exportName": "Mirror",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalMoreCircleBold",
+    "exportName": "MoreCircle",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalMoreSquareBold",
+    "exportName": "MoreSquare",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalMouseCircleBold",
+    "exportName": "MouseCircle",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalMouseSquareBold",
+    "exportName": "MouseSquare",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalMouseBold",
+    "exportName": "Mouse",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalPetBold",
+    "exportName": "Pet",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalRankingBold",
+    "exportName": "Ranking",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalReserveBold",
+    "exportName": "Reserve",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalSafeHomeBold",
+    "exportName": "SafeHome",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalSend2Bold",
+    "exportName": "Send2",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalSendBold",
+    "exportName": "Send",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalShareBold",
+    "exportName": "Share",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalSignpostBold",
+    "exportName": "Signpost",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalSlashBold",
+    "exportName": "Slash",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalSliderBold",
+    "exportName": "Slider",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalSmartHomeBold",
+    "exportName": "SmartHome",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalSortBold",
+    "exportName": "Sort",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalSoundBold",
+    "exportName": "Sound",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalSpeedometerBold",
+    "exportName": "Speedometer",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalStatusBold",
+    "exportName": "Status",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalStickerBold",
+    "exportName": "Sticker",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalStoryBold",
+    "exportName": "Story",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalTagCrossBold",
+    "exportName": "TagCross",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalTagRightBold",
+    "exportName": "TagRight",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalTickCircleBold",
+    "exportName": "TickCircle",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalTickSquareBold",
+    "exportName": "TickSquare",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalTrashBold",
+    "exportName": "Trash",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalTreeBold",
+    "exportName": "Tree",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalTriangleBold",
+    "exportName": "Triangle",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalTrushSquareBold",
+    "exportName": "TrushSquare",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalVerifyBold",
+    "exportName": "Verify",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalWarning2Bold",
+    "exportName": "Warning2",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalWeightBold",
+    "exportName": "Weight",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalWifiSquareBold",
+    "exportName": "WifiSquare",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "EssetionalWifiBold",
+    "exportName": "Wifi",
+    "category": "Essetional",
+    "rootFolder": "bold"
+  }
+]

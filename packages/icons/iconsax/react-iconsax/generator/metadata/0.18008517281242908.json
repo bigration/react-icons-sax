@@ -1,0 +1,122 @@
+[
+  {
+    "importName": "UsersFrameBroken",
+    "exportName": "Frame",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersPeopleBroken",
+    "exportName": "People",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersProfile2UserBroken",
+    "exportName": "Profile2User",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersProfileAddBroken",
+    "exportName": "ProfileAdd",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersProfileCircleBroken",
+    "exportName": "ProfileCircle",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersProfileDeleteBroken",
+    "exportName": "ProfileDelete",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersProfileRemoveBroken",
+    "exportName": "ProfileRemove",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersProfileTickBroken",
+    "exportName": "ProfileTick",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersTagUserBroken",
+    "exportName": "TagUser",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersUserAddBroken",
+    "exportName": "UserAdd",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersUserCirlceAddBroken",
+    "exportName": "UserCirlceAdd",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersUserEditBroken",
+    "exportName": "UserEdit",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersUserMinusBroken",
+    "exportName": "UserMinus",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersUserOctagonBroken",
+    "exportName": "UserOctagon",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersUserRemoveBroken",
+    "exportName": "UserRemove",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersUserSearchBroken",
+    "exportName": "UserSearch",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersUserSquareBroken",
+    "exportName": "UserSquare",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersUserTagBroken",
+    "exportName": "UserTag",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersUserTickBroken",
+    "exportName": "UserTick",
+    "category": "Users",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "UsersUserBroken",
+    "exportName": "User",
+    "category": "Users",
+    "rootFolder": "broken"
+  }
+]

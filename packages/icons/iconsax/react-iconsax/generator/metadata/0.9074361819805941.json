@@ -1,0 +1,92 @@
+[
+  {
+    "importName": "TimeCalendar1Outline",
+    "exportName": "Calendar1",
+    "category": "Time",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TimeCalendar2Outline",
+    "exportName": "Calendar2",
+    "category": "Time",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TimeCalendarAddOutline",
+    "exportName": "CalendarAdd",
+    "category": "Time",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TimeCalendarCircleOutline",
+    "exportName": "CalendarCircle",
+    "category": "Time",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TimeCalendarEditOutline",
+    "exportName": "CalendarEdit",
+    "category": "Time",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TimeCalendarRemoveOutline",
+    "exportName": "CalendarRemove",
+    "category": "Time",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TimeCalendarSearchOutline",
+    "exportName": "CalendarSearch",
+    "category": "Time",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TimeCalendarTickOutline",
+    "exportName": "CalendarTick",
+    "category": "Time",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TimeCalendarOutline",
+    "exportName": "Calendar",
+    "category": "Time",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TimeClockOutline",
+    "exportName": "Clock",
+    "category": "Time",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TimeSecurityTimeOutline",
+    "exportName": "SecurityTime",
+    "category": "Time",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TimeTimer1Outline",
+    "exportName": "Timer1",
+    "category": "Time",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TimeTimerPauseOutline",
+    "exportName": "TimerPause",
+    "category": "Time",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TimeTimerStartOutline",
+    "exportName": "TimerStart",
+    "category": "Time",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TimeTimerOutline",
+    "exportName": "Timer",
+    "category": "Time",
+    "rootFolder": "outline"
+  }
+]

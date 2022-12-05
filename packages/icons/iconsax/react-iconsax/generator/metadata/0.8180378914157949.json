@@ -1,0 +1,122 @@
+[
+  {
+    "importName": "UsersPeopleBulk",
+    "exportName": "People",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersProfile2UserBulk",
+    "exportName": "Profile2User",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersProfileAddBulk",
+    "exportName": "ProfileAdd",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersProfileCircleBulk",
+    "exportName": "ProfileCircle",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersProfileDeleteBulk",
+    "exportName": "ProfileDelete",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersProfileRemoveBulk",
+    "exportName": "ProfileRemove",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersProfileTickBulk",
+    "exportName": "ProfileTick",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersProfileBulk",
+    "exportName": "Profile",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersTagUserBulk",
+    "exportName": "TagUser",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersUserAddBulk",
+    "exportName": "UserAdd",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersUserCirlceAddBulk",
+    "exportName": "UserCirlceAdd",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersUserEditBulk",
+    "exportName": "UserEdit",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersUserMinusBulk",
+    "exportName": "UserMinus",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersUserOctagonBulk",
+    "exportName": "UserOctagon",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersUserRemoveBulk",
+    "exportName": "UserRemove",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersUserSearchBulk",
+    "exportName": "UserSearch",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersUserSquareBulk",
+    "exportName": "UserSquare",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersUserTagBulk",
+    "exportName": "UserTag",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersUserTickBulk",
+    "exportName": "UserTick",
+    "category": "Users",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "UsersUserBulk",
+    "exportName": "User",
+    "category": "Users",
+    "rootFolder": "bulk"
+  }
+]

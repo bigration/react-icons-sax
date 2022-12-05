@@ -1,0 +1,164 @@
+[
+  {
+    "importName": "ProgramingCode1Linear",
+    "exportName": "Code1",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingCodeCircleLinear",
+    "exportName": "CodeCircle",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingCodeLinear",
+    "exportName": "Code",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingCommandSquareLinear",
+    "exportName": "CommandSquare",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingCommandLinear",
+    "exportName": "Command",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingData2Linear",
+    "exportName": "Data2",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingDataLinear",
+    "exportName": "Data",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingDocumentCode2Linear",
+    "exportName": "DocumentCode2",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingDocumentCodeLinear",
+    "exportName": "DocumentCode",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingHashtagDownLinear",
+    "exportName": "HashtagDown",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingHashtagUpLinear",
+    "exportName": "HashtagUp",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingHashtagLinear",
+    "exportName": "Hashtag",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingHierarchy2Linear",
+    "exportName": "Hierarchy2",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingHierarchy3Linear",
+    "exportName": "Hierarchy3",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingHierarchySquare2Linear",
+    "exportName": "HierarchySquare2",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingHierarchySquare3Linear",
+    "exportName": "HierarchySquare3",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingHierarchySquareLinear",
+    "exportName": "HierarchySquare",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingHierarchyLinear",
+    "exportName": "Hierarchy",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingMessageProgrammingLinear",
+    "exportName": "MessageProgramming",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingMobileProgrammingLinear",
+    "exportName": "MobileProgramming",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingProgrammingArrowLinear",
+    "exportName": "ProgrammingArrow",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingProgrammingArrowsLinear",
+    "exportName": "ProgrammingArrows",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingScrollLinear",
+    "exportName": "Scroll",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingSidebarBottomLinear",
+    "exportName": "SidebarBottom",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingSidebarLeftLinear",
+    "exportName": "SidebarLeft",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingSidebarRightLinear",
+    "exportName": "SidebarRight",
+    "category": "Programing",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ProgramingSidebarTopLinear",
+    "exportName": "SidebarTop",
+    "category": "Programing",
+    "rootFolder": "linear"
+  }
+]

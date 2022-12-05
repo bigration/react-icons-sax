@@ -1,0 +1,38 @@
+[
+  {
+    "importName": "AstrologyAquariusBulk",
+    "exportName": "Aquarius",
+    "category": "Astrology",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "AstrologyGemini2Bulk",
+    "exportName": "Gemini2",
+    "category": "Astrology",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "AstrologyGeminiBulk",
+    "exportName": "Gemini",
+    "category": "Astrology",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "AstrologyManBulk",
+    "exportName": "Man",
+    "category": "Astrology",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "AstrologySagittariusBulk",
+    "exportName": "Sagittarius",
+    "category": "Astrology",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "AstrologyWomanBulk",
+    "exportName": "Woman",
+    "category": "Astrology",
+    "rootFolder": "bulk"
+  }
+]

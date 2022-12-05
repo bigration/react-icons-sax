@@ -1,0 +1,392 @@
+[
+  {
+    "importName": "ArrowArrangeCircle2Broken",
+    "exportName": "ArrangeCircle2",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrangeCircleBroken",
+    "exportName": "ArrangeCircle",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrangeSquare2Broken",
+    "exportName": "ArrangeSquare2",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrangeSquareBroken",
+    "exportName": "ArrangeSquare",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrow2Broken",
+    "exportName": "Arrow2",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrow3Broken",
+    "exportName": "Arrow3",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowBottomBroken",
+    "exportName": "ArrowBottom",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowCircleDownBroken",
+    "exportName": "ArrowCircleDown",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowCircleLeftBroken",
+    "exportName": "ArrowCircleLeft",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowCircleRightBroken",
+    "exportName": "ArrowCircleRight",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowCircleUpBroken",
+    "exportName": "ArrowCircleUp",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowDown1Broken",
+    "exportName": "ArrowDown1",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowDown2Broken",
+    "exportName": "ArrowDown2",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowDownBroken",
+    "exportName": "ArrowDown",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowLeft1Broken",
+    "exportName": "ArrowLeft1",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowLeft2Broken",
+    "exportName": "ArrowLeft2",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowLeft3Broken",
+    "exportName": "ArrowLeft3",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowLeftBroken",
+    "exportName": "ArrowLeft",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowRight1Broken",
+    "exportName": "ArrowRight1",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowRight2Broken",
+    "exportName": "ArrowRight2",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowRight3Broken",
+    "exportName": "ArrowRight3",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowRightBroken",
+    "exportName": "ArrowRight",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowSquareDownBroken",
+    "exportName": "ArrowSquareDown",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowSquareLeftBroken",
+    "exportName": "ArrowSquareLeft",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowSquareRightBroken",
+    "exportName": "ArrowSquareRight",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowSquareUpBroken",
+    "exportName": "ArrowSquareUp",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowSwapHorizontalBroken",
+    "exportName": "ArrowSwapHorizontal",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowSwapBroken",
+    "exportName": "ArrowSwap",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowUp1Broken",
+    "exportName": "ArrowUp1",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowUp2Broken",
+    "exportName": "ArrowUp2",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowUp3Broken",
+    "exportName": "ArrowUp3",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowArrowUpBroken",
+    "exportName": "ArrowUp",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowBackSquareBroken",
+    "exportName": "BackSquare",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowConvertBroken",
+    "exportName": "Convert",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowExport1Broken",
+    "exportName": "Export1",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowExport2Broken",
+    "exportName": "Export2",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowExport3Broken",
+    "exportName": "Export3",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowExportBroken",
+    "exportName": "Export",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowForwardSquareBroken",
+    "exportName": "ForwardSquare",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowFrameBroken",
+    "exportName": "Frame",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowImport1Broken",
+    "exportName": "Import1",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowImport2Broken",
+    "exportName": "Import2",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowImportBroken",
+    "exportName": "Import",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowLogin1Broken",
+    "exportName": "Login1",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowLoginBroken",
+    "exportName": "Login",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowLogout1Broken",
+    "exportName": "Logout1",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowLogoutBroken",
+    "exportName": "Logout",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowReceiveSquare2Broken",
+    "exportName": "ReceiveSquare2",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowReceiveSquareBroken",
+    "exportName": "ReceiveSquare",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowReceivedBroken",
+    "exportName": "Received",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowRedoBroken",
+    "exportName": "Redo",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowRefresh2Broken",
+    "exportName": "Refresh2",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowRefreshCircleBroken",
+    "exportName": "RefreshCircle",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowRefreshLeftSquareBroken",
+    "exportName": "RefreshLeftSquare",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowRefreshRightSquareBroken",
+    "exportName": "RefreshRightSquare",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowRefreshSquare2Broken",
+    "exportName": "RefreshSquare2",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowRefreshBroken",
+    "exportName": "Refresh",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowRepeatCircleBroken",
+    "exportName": "RepeatCircle",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowRepeatBroken",
+    "exportName": "Repeat",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowRotateLeftBroken",
+    "exportName": "RotateLeft",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowRotateRightBroken",
+    "exportName": "RotateRight",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowSendSqaure2Broken",
+    "exportName": "SendSqaure2",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowSendSquareBroken",
+    "exportName": "SendSquare",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowSendBroken",
+    "exportName": "Send",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "ArrowUndoBroken",
+    "exportName": "Undo",
+    "category": "Arrow",
+    "rootFolder": "broken"
+  }
+]

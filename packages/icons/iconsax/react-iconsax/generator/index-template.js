@@ -1,6 +1,11 @@
 const path = require('path');
+const fs = require('fs');
+
+const metadataPath = 'packages/icons/iconsax/react-iconsax/generator/metadata';
 
 function defaultIndexTemplate(filePaths) {
+  const metadata = [];
+
   const exportEntries = filePaths.map((filePath) => {
     const basename = path.basename(filePath, path.extname(filePath));
     const rootFolder = path.basename(path.dirname(filePath));
@@ -10,10 +15,23 @@ function defaultIndexTemplate(filePaths) {
     const splitDirectory = path.dirname(filePath).split('/');
     const category = splitDirectory[splitDirectory.length - 3];
 
-    return `export { default as ${category}${exportName}${
+    const importName = `${category}${exportName}${
       rootFolder[0].toUpperCase() + rootFolder.slice(1)
-    } } from './${basename}'`;
+    }`;
+
+    metadata.push({ importName, exportName, category, rootFolder });
+
+    return `export { default as ${importName}} from './${basename}'`;
   });
+
+  fs.writeFile(
+    `${metadataPath}/${Math.random()}.json`,
+    JSON.stringify(metadata),
+    function (err) {
+      if (err) throw err;
+    }
+  );
+
   return exportEntries.join('\n');
 }
 

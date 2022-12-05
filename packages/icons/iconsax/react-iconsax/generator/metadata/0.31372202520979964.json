@@ -1,0 +1,68 @@
+[
+  {
+    "importName": "BuildingBankLinear",
+    "exportName": "Bank",
+    "category": "Building",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BuildingBuilding3Linear",
+    "exportName": "Building3",
+    "category": "Building",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BuildingBuilding4Linear",
+    "exportName": "Building4",
+    "category": "Building",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BuildingBuildingLinear",
+    "exportName": "Building",
+    "category": "Building",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BuildingBuildings2Linear",
+    "exportName": "Buildings2",
+    "category": "Building",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BuildingBuildingsLinear",
+    "exportName": "Buildings",
+    "category": "Building",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BuildingBulidingLinear",
+    "exportName": "Buliding",
+    "category": "Building",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BuildingCourthouseLinear",
+    "exportName": "Courthouse",
+    "category": "Building",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BuildingHospitalLinear",
+    "exportName": "Hospital",
+    "category": "Building",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BuildingHouse2Linear",
+    "exportName": "House2",
+    "category": "Building",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "BuildingHouseLinear",
+    "exportName": "House",
+    "category": "Building",
+    "rootFolder": "linear"
+  }
+]

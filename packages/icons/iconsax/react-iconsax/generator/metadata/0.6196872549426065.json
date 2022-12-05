@@ -1,0 +1,104 @@
+[
+  {
+    "importName": "SettingsCandle2Outline",
+    "exportName": "Candle2",
+    "category": "Settings",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SettingsCandleOutline",
+    "exportName": "Candle",
+    "category": "Settings",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SettingsCategory2Outline",
+    "exportName": "Category2",
+    "category": "Settings",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SettingsCategoryOutline",
+    "exportName": "Category",
+    "category": "Settings",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SettingsMenuOutline",
+    "exportName": "Menu",
+    "category": "Settings",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SettingsMore2Outline",
+    "exportName": "More2",
+    "category": "Settings",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SettingsMoreOutline",
+    "exportName": "More",
+    "category": "Settings",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SettingsSetting2Outline",
+    "exportName": "Setting2",
+    "category": "Settings",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SettingsSetting3Outline",
+    "exportName": "Setting3",
+    "category": "Settings",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SettingsSetting4Outline",
+    "exportName": "Setting4",
+    "category": "Settings",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SettingsSetting5Outline",
+    "exportName": "Setting5",
+    "category": "Settings",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SettingsSettingOutline",
+    "exportName": "Setting",
+    "category": "Settings",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SettingsSettingsOutline",
+    "exportName": "Settings",
+    "category": "Settings",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SettingsToggleOffCircleOutline",
+    "exportName": "ToggleOffCircle",
+    "category": "Settings",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SettingsToggleOffOutline",
+    "exportName": "ToggleOff",
+    "category": "Settings",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SettingsToggleOnCircleOutline",
+    "exportName": "ToggleOnCircle",
+    "category": "Settings",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SettingsToggleOnOutline",
+    "exportName": "ToggleOn",
+    "category": "Settings",
+    "rootFolder": "outline"
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "importName": "VideoAudioImageAudioSquareTwotone",
+    "exportName": "AudioSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageBackward10SecondsTwotone",
+    "exportName": "Backward10Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageBackward15SecondsTwotone",
+    "exportName": "Backward15Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageBackward5SecondsTwotone",
+    "exportName": "Backward5Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageBackwardTwotone",
+    "exportName": "Backward",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageCameraSlashTwotone",
+    "exportName": "CameraSlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageCameraTwotone",
+    "exportName": "Camera",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageForward10SecondsTwotone",
+    "exportName": "Forward10Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageForward15SecondsTwotone",
+    "exportName": "Forward15Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageForward5SecondsTwotone",
+    "exportName": "Forward5Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageForwardTwotone",
+    "exportName": "Forward",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageGalleryAddTwotone",
+    "exportName": "GalleryAdd",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageGalleryEditTwotone",
+    "exportName": "GalleryEdit",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageGalleryExportTwotone",
+    "exportName": "GalleryExport",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageGalleryFavoriteTwotone",
+    "exportName": "GalleryFavorite",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageGalleryImportTwotone",
+    "exportName": "GalleryImport",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageGalleryRemoveTwotone",
+    "exportName": "GalleryRemove",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageGallerySlashTwotone",
+    "exportName": "GallerySlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageGalleryTickTwotone",
+    "exportName": "GalleryTick",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageGalleryTwotone",
+    "exportName": "Gallery",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageImageTwotone",
+    "exportName": "Image",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMaximizeCircleTwotone",
+    "exportName": "MaximizeCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMicrophone2Twotone",
+    "exportName": "Microphone2",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMicrophoneSlash1Twotone",
+    "exportName": "MicrophoneSlash1",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMicrophoneSlashTwotone",
+    "exportName": "MicrophoneSlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMicrophoneTwotone",
+    "exportName": "Microphone",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMiniMusicSqaureTwotone",
+    "exportName": "MiniMusicSqaure",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMusicCircleTwotone",
+    "exportName": "MusicCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMusicDashboardTwotone",
+    "exportName": "MusicDashboard",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMusicFilterTwotone",
+    "exportName": "MusicFilter",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMusicLibrary2Twotone",
+    "exportName": "MusicLibrary2",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMusicPlaylistTwotone",
+    "exportName": "MusicPlaylist",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMusicSquareAddTwotone",
+    "exportName": "MusicSquareAdd",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMusicSquareRemoveTwotone",
+    "exportName": "MusicSquareRemove",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMusicSquareSearchTwotone",
+    "exportName": "MusicSquareSearch",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMusicSquareTwotone",
+    "exportName": "MusicSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMusicTwotone",
+    "exportName": "Music",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageMusicnoteTwotone",
+    "exportName": "Musicnote",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageNextTwotone",
+    "exportName": "Next",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageNoteSquareTwotone",
+    "exportName": "NoteSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImagePauseCircleTwotone",
+    "exportName": "PauseCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImagePauseTwotone",
+    "exportName": "Pause",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImagePlayAddTwotone",
+    "exportName": "PlayAdd",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImagePlayCircleTwotone",
+    "exportName": "PlayCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImagePlayCricleTwotone",
+    "exportName": "PlayCricle",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImagePlayRemoveTwotone",
+    "exportName": "PlayRemove",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImagePlayTwotone",
+    "exportName": "Play",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImagePreviousTwotone",
+    "exportName": "Previous",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageRadioTwotone",
+    "exportName": "Radio",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageRecordCircleTwotone",
+    "exportName": "RecordCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageRecordTwotone",
+    "exportName": "Record",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageRepeateMusicTwotone",
+    "exportName": "RepeateMusic",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageRepeateOneTwotone",
+    "exportName": "RepeateOne",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageScissorTwotone",
+    "exportName": "Scissor",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageScreenmirroringTwotone",
+    "exportName": "Screenmirroring",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageShuffleTwotone",
+    "exportName": "Shuffle",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageStopCircleTwotone",
+    "exportName": "StopCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageStopTwotone",
+    "exportName": "Stop",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageSubtitleTwotone",
+    "exportName": "Subtitle",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVideoAddTwotone",
+    "exportName": "VideoAdd",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVideoCircleTwotone",
+    "exportName": "VideoCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVideoHorizontalTwotone",
+    "exportName": "VideoHorizontal",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVideoOctagonTwotone",
+    "exportName": "VideoOctagon",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVideoPlayTwotone",
+    "exportName": "VideoPlay",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVideoRemoveTwotone",
+    "exportName": "VideoRemove",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVideoSlashTwotone",
+    "exportName": "VideoSlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVideoSquareTwotone",
+    "exportName": "VideoSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVideoTickTwotone",
+    "exportName": "VideoTick",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVideoTimeTwotone",
+    "exportName": "VideoTime",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVideoVerticalTwotone",
+    "exportName": "VideoVertical",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVideoTwotone",
+    "exportName": "Video",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVoiceCricleTwotone",
+    "exportName": "VoiceCricle",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVoiceSquareTwotone",
+    "exportName": "VoiceSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVolumeCrossTwotone",
+    "exportName": "VolumeCross",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVolumeHighTwotone",
+    "exportName": "VolumeHigh",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVolumeLow1Twotone",
+    "exportName": "VolumeLow1",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVolumeLowTwotone",
+    "exportName": "VolumeLow",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVolumeMuteTwotone",
+    "exportName": "VolumeMute",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVolumeSlashTwotone",
+    "exportName": "VolumeSlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVolumeUpTwotone",
+    "exportName": "VolumeUp",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "VideoAudioImageVolumeTwotone",
+    "exportName": "Volume",
+    "category": "VideoAudioImage",
+    "rootFolder": "twotone"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "importName": "GridSvg3SquareBulk",
+    "exportName": "Svg3Square",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridAlignBottomBulk",
+    "exportName": "AlignBottom",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridAlignHorizontallyBulk",
+    "exportName": "AlignHorizontally",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridAlignLeftBulk",
+    "exportName": "AlignLeft",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridAlignRightBulk",
+    "exportName": "AlignRight",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridAlignVerticallyBulk",
+    "exportName": "AlignVertically",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridConvertshape2Bulk",
+    "exportName": "Convertshape2",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridConvertshapeBulk",
+    "exportName": "Convertshape",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridCropBulk",
+    "exportName": "Crop",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridElement1Bulk",
+    "exportName": "Element1",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridElement2Bulk",
+    "exportName": "Element2",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridElement3Bulk",
+    "exportName": "Element3",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridElement4Bulk",
+    "exportName": "Element4",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridElementEqualBulk",
+    "exportName": "ElementEqual",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridElementPlusBulk",
+    "exportName": "ElementPlus",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridFatrowsBulk",
+    "exportName": "Fatrows",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridFormatCircleBulk",
+    "exportName": "FormatCircle",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridFormatSquareBulk",
+    "exportName": "FormatSquare",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridFrameBulk",
+    "exportName": "Frame",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridGrid1Bulk",
+    "exportName": "Grid1",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridGrid2Bulk",
+    "exportName": "Grid2",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridGrid3Bulk",
+    "exportName": "Grid3",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridGrid4Bulk",
+    "exportName": "Grid4",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridGrid5Bulk",
+    "exportName": "Grid5",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridGrid6Bulk",
+    "exportName": "Grid6",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridGrid7Bulk",
+    "exportName": "Grid7",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridGrid8Bulk",
+    "exportName": "Grid8",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridGrid9Bulk",
+    "exportName": "Grid9",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridGridEditBulk",
+    "exportName": "GridEdit",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridGridEraserBulk",
+    "exportName": "GridEraser",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridGridLockBulk",
+    "exportName": "GridLock",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridKanbanBulk",
+    "exportName": "Kanban",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridMaximize1Bulk",
+    "exportName": "Maximize1",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridMaximize2Bulk",
+    "exportName": "Maximize2",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridMaximize3Bulk",
+    "exportName": "Maximize3",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridMaximize4Bulk",
+    "exportName": "Maximize4",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridMaximizeBulk",
+    "exportName": "Maximize",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridRotateLeftBulk",
+    "exportName": "RotateLeft",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridRotateRightBulk",
+    "exportName": "RotateRight",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridRowHorizontalBulk",
+    "exportName": "RowHorizontal",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridRowVerticalBulk",
+    "exportName": "RowVertical",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridSliderHorizontal1Bulk",
+    "exportName": "SliderHorizontal1",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridSliderHorizontalBulk",
+    "exportName": "SliderHorizontal",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridSliderVertical1Bulk",
+    "exportName": "SliderVertical1",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "GridSliderVerticalBulk",
+    "exportName": "SliderVertical",
+    "category": "Grid",
+    "rootFolder": "bulk"
+  }
+]

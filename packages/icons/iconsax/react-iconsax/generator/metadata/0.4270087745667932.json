@@ -1,0 +1,98 @@
+[
+  {
+    "importName": "DeliverySvg3DCubeScanBroken",
+    "exportName": "Svg3DCubeScan",
+    "category": "Delivery",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "DeliverySvg3DRotateBroken",
+    "exportName": "Svg3DRotate",
+    "category": "Delivery",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "DeliverySvg3DSquareBroken",
+    "exportName": "Svg3DSquare",
+    "category": "Delivery",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "DeliveryBox1Broken",
+    "exportName": "Box1",
+    "category": "Delivery",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "DeliveryBoxAddBroken",
+    "exportName": "BoxAdd",
+    "category": "Delivery",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "DeliveryBoxRemoveBroken",
+    "exportName": "BoxRemove",
+    "category": "Delivery",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "DeliveryBoxSearchBroken",
+    "exportName": "BoxSearch",
+    "category": "Delivery",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "DeliveryBoxTickBroken",
+    "exportName": "BoxTick",
+    "category": "Delivery",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "DeliveryBoxTimeBroken",
+    "exportName": "BoxTime",
+    "category": "Delivery",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "DeliveryBoxBroken",
+    "exportName": "Box",
+    "category": "Delivery",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "DeliveryConvert3DCubeBroken",
+    "exportName": "Convert3DCube",
+    "category": "Delivery",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "DeliveryIcon1Broken",
+    "exportName": "Icon1",
+    "category": "Delivery",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "DeliveryIconBroken",
+    "exportName": "Icon",
+    "category": "Delivery",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "DeliveryTruckFastBroken",
+    "exportName": "TruckFast",
+    "category": "Delivery",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "DeliveryTruckTickBroken",
+    "exportName": "TruckTick",
+    "category": "Delivery",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "DeliveryTruckBroken",
+    "exportName": "Truck",
+    "category": "Delivery",
+    "rootFolder": "broken"
+  }
+]

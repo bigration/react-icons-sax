@@ -1,0 +1,158 @@
+[
+  {
+    "importName": "SupportLikeQuestionSvg24SupportBroken",
+    "exportName": "Svg24Support",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionDislikeBroken",
+    "exportName": "Dislike",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartAddBroken",
+    "exportName": "HeartAdd",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartCircleBroken",
+    "exportName": "HeartCircle",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartEditBroken",
+    "exportName": "HeartEdit",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartRemoveBroken",
+    "exportName": "HeartRemove",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartSearchBroken",
+    "exportName": "HeartSearch",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartSlashBroken",
+    "exportName": "HeartSlash",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartTickBroken",
+    "exportName": "HeartTick",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionHeartBroken",
+    "exportName": "Heart",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionLike1Broken",
+    "exportName": "Like1",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeDislikeBroken",
+    "exportName": "LikeDislike",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeShapesBroken",
+    "exportName": "LikeShapes",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeTagBroken",
+    "exportName": "LikeTag",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionLikeBroken",
+    "exportName": "Like",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionLovelyBroken",
+    "exportName": "Lovely",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionMagicStarBroken",
+    "exportName": "MagicStar",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionMedalStarBroken",
+    "exportName": "MedalStar",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionMedalBroken",
+    "exportName": "Medal",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionMessageQuestionBroken",
+    "exportName": "MessageQuestion",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionRankingBroken",
+    "exportName": "Ranking",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionSmileysBroken",
+    "exportName": "Smileys",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionStar1Broken",
+    "exportName": "Star1",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionStarSlashBroken",
+    "exportName": "StarSlash",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionStarBroken",
+    "exportName": "Star",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "SupportLikeQuestionUnlimitedBroken",
+    "exportName": "Unlimited",
+    "category": "SupportLikeQuestion",
+    "rootFolder": "broken"
+  }
+]

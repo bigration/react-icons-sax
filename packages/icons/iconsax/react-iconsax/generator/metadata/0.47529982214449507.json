@@ -1,0 +1,92 @@
+[
+  {
+    "importName": "SchoolLearningAwardOutline",
+    "exportName": "Award",
+    "category": "SchoolLearning",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SchoolLearningBook1Outline",
+    "exportName": "Book1",
+    "category": "SchoolLearning",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SchoolLearningBookOutline",
+    "exportName": "Book",
+    "category": "SchoolLearning",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SchoolLearningBookmark2Outline",
+    "exportName": "Bookmark2",
+    "category": "SchoolLearning",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SchoolLearningBookmarkOutline",
+    "exportName": "Bookmark",
+    "category": "SchoolLearning",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SchoolLearningBriefcaseOutline",
+    "exportName": "Briefcase",
+    "category": "SchoolLearning",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SchoolLearningBrifecaseCrossOutline",
+    "exportName": "BrifecaseCross",
+    "category": "SchoolLearning",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SchoolLearningBrifecaseTickOutline",
+    "exportName": "BrifecaseTick",
+    "category": "SchoolLearning",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SchoolLearningBrifecaseTimerOutline",
+    "exportName": "BrifecaseTimer",
+    "category": "SchoolLearning",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SchoolLearningCalculatorOutline",
+    "exportName": "Calculator",
+    "category": "SchoolLearning",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SchoolLearningClipboardOutline",
+    "exportName": "Clipboard",
+    "category": "SchoolLearning",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SchoolLearningGiftOutline",
+    "exportName": "Gift",
+    "category": "SchoolLearning",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SchoolLearningNote2Outline",
+    "exportName": "Note2",
+    "category": "SchoolLearning",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SchoolLearningNoteOutline",
+    "exportName": "Note",
+    "category": "SchoolLearning",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "SchoolLearningTeacherOutline",
+    "exportName": "Teacher",
+    "category": "SchoolLearning",
+    "rootFolder": "outline"
+  }
+]

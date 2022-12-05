@@ -1,0 +1,272 @@
+[
+  {
+    "importName": "GridSvg3SquareBroken",
+    "exportName": "Svg3Square",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridAlignBottomBroken",
+    "exportName": "AlignBottom",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridAlignHorizontallyBroken",
+    "exportName": "AlignHorizontally",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridAlignLeftBroken",
+    "exportName": "AlignLeft",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridAlignRightBroken",
+    "exportName": "AlignRight",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridAlignVerticallyBroken",
+    "exportName": "AlignVertically",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridConvertshape2Broken",
+    "exportName": "Convertshape2",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridConvertshapeBroken",
+    "exportName": "Convertshape",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridCropBroken",
+    "exportName": "Crop",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridElement2Broken",
+    "exportName": "Element2",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridElement3Broken",
+    "exportName": "Element3",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridElement4Broken",
+    "exportName": "Element4",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridElementEqualBroken",
+    "exportName": "ElementEqual",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridElementPlusBroken",
+    "exportName": "ElementPlus",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridFatrowsBroken",
+    "exportName": "Fatrows",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridFormatCircleBroken",
+    "exportName": "FormatCircle",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridFormatSquareBroken",
+    "exportName": "FormatSquare",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridFrame1Broken",
+    "exportName": "Frame1",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridFrame2Broken",
+    "exportName": "Frame2",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridFrameBroken",
+    "exportName": "Frame",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridGrid1Broken",
+    "exportName": "Grid1",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridGrid2Broken",
+    "exportName": "Grid2",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridGrid3Broken",
+    "exportName": "Grid3",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridGrid4Broken",
+    "exportName": "Grid4",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridGrid5Broken",
+    "exportName": "Grid5",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridGrid6Broken",
+    "exportName": "Grid6",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridGrid7Broken",
+    "exportName": "Grid7",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridGrid8Broken",
+    "exportName": "Grid8",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridGrid9Broken",
+    "exportName": "Grid9",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridGridEditBroken",
+    "exportName": "GridEdit",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridGridEraserBroken",
+    "exportName": "GridEraser",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridGridLockBroken",
+    "exportName": "GridLock",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridMaximize1Broken",
+    "exportName": "Maximize1",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridMaximize2Broken",
+    "exportName": "Maximize2",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridMaximize3Broken",
+    "exportName": "Maximize3",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridMaximize4Broken",
+    "exportName": "Maximize4",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridMaximizeBroken",
+    "exportName": "Maximize",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridRotateLeftBroken",
+    "exportName": "RotateLeft",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridRotateRightBroken",
+    "exportName": "RotateRight",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridRowHorizontalBroken",
+    "exportName": "RowHorizontal",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridRowVerticalBroken",
+    "exportName": "RowVertical",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridSliderHorizontal1Broken",
+    "exportName": "SliderHorizontal1",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridSliderHorizontalBroken",
+    "exportName": "SliderHorizontal",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridSliderVertical1Broken",
+    "exportName": "SliderVertical1",
+    "category": "Grid",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "GridSliderVerticalBroken",
+    "exportName": "SliderVertical",
+    "category": "Grid",
+    "rootFolder": "broken"
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "importName": "VideoAudioImageAudioSquareOutline",
+    "exportName": "AudioSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageBackward10SecondsOutline",
+    "exportName": "Backward10Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageBackward15SecondsOutline",
+    "exportName": "Backward15Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageBackward5SecondsOutline",
+    "exportName": "Backward5Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageBackwardOutline",
+    "exportName": "Backward",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageCameraSlashOutline",
+    "exportName": "CameraSlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageCameraOutline",
+    "exportName": "Camera",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageDevicesOutline",
+    "exportName": "Devices",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageForward10SecondsOutline",
+    "exportName": "Forward10Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageForward15SecondsOutline",
+    "exportName": "Forward15Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageForward5SecondsOutline",
+    "exportName": "Forward5Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageForwardOutline",
+    "exportName": "Forward",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageGalleryAddOutline",
+    "exportName": "GalleryAdd",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageGalleryEditOutline",
+    "exportName": "GalleryEdit",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageGalleryExportOutline",
+    "exportName": "GalleryExport",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageGalleryFavoriteOutline",
+    "exportName": "GalleryFavorite",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageGalleryImportOutline",
+    "exportName": "GalleryImport",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageGalleryRemoveOutline",
+    "exportName": "GalleryRemove",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageGallerySlashOutline",
+    "exportName": "GallerySlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageGalleryTickOutline",
+    "exportName": "GalleryTick",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageGalleryOutline",
+    "exportName": "Gallery",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageImageOutline",
+    "exportName": "Image",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMaximizeCircleOutline",
+    "exportName": "MaximizeCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMicrophone2Outline",
+    "exportName": "Microphone2",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMicrophoneSlash1Outline",
+    "exportName": "MicrophoneSlash1",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMicrophoneSlashOutline",
+    "exportName": "MicrophoneSlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMicrophoneOutline",
+    "exportName": "Microphone",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMiniMusicSqaureOutline",
+    "exportName": "MiniMusicSqaure",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMusicCircleOutline",
+    "exportName": "MusicCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMusicDashboardOutline",
+    "exportName": "MusicDashboard",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMusicFilterOutline",
+    "exportName": "MusicFilter",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMusicLibrary2Outline",
+    "exportName": "MusicLibrary2",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMusicPlaylistOutline",
+    "exportName": "MusicPlaylist",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMusicSquareAddOutline",
+    "exportName": "MusicSquareAdd",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMusicSquareRemoveOutline",
+    "exportName": "MusicSquareRemove",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMusicSquareSearchOutline",
+    "exportName": "MusicSquareSearch",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMusicSquareOutline",
+    "exportName": "MusicSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMusicOutline",
+    "exportName": "Music",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageMusicnoteOutline",
+    "exportName": "Musicnote",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageNextOutline",
+    "exportName": "Next",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageNoteSquareOutline",
+    "exportName": "NoteSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImagePauseCircleOutline",
+    "exportName": "PauseCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImagePauseOutline",
+    "exportName": "Pause",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImagePlayAddOutline",
+    "exportName": "PlayAdd",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImagePlayCircleOutline",
+    "exportName": "PlayCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImagePlayCricleOutline",
+    "exportName": "PlayCricle",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImagePlayRemoveOutline",
+    "exportName": "PlayRemove",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImagePlayOutline",
+    "exportName": "Play",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImagePreviousOutline",
+    "exportName": "Previous",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageRadioOutline",
+    "exportName": "Radio",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageRecordCircleOutline",
+    "exportName": "RecordCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageRecordOutline",
+    "exportName": "Record",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageRepeateMusicOutline",
+    "exportName": "RepeateMusic",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageRepeateOneOutline",
+    "exportName": "RepeateOne",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageScissorOutline",
+    "exportName": "Scissor",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageScreenmirroringOutline",
+    "exportName": "Screenmirroring",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageShuffleOutline",
+    "exportName": "Shuffle",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageStopCircleOutline",
+    "exportName": "StopCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageStopOutline",
+    "exportName": "Stop",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageSubtitleOutline",
+    "exportName": "Subtitle",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVideoAddOutline",
+    "exportName": "VideoAdd",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVideoCircleOutline",
+    "exportName": "VideoCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVideoHorizontalOutline",
+    "exportName": "VideoHorizontal",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVideoOctagonOutline",
+    "exportName": "VideoOctagon",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVideoPlayOutline",
+    "exportName": "VideoPlay",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVideoRemoveOutline",
+    "exportName": "VideoRemove",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVideoSlashOutline",
+    "exportName": "VideoSlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVideoSquareOutline",
+    "exportName": "VideoSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVideoTickOutline",
+    "exportName": "VideoTick",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVideoTimeOutline",
+    "exportName": "VideoTime",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVideoVerticalOutline",
+    "exportName": "VideoVertical",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVideoOutline",
+    "exportName": "Video",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVoiceCricleOutline",
+    "exportName": "VoiceCricle",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVoiceSquareOutline",
+    "exportName": "VoiceSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVolumeCrossOutline",
+    "exportName": "VolumeCross",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVolumeHighOutline",
+    "exportName": "VolumeHigh",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVolumeLow1Outline",
+    "exportName": "VolumeLow1",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVolumeLowOutline",
+    "exportName": "VolumeLow",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVolumeMuteOutline",
+    "exportName": "VolumeMute",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVolumeSlashOutline",
+    "exportName": "VolumeSlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "VideoAudioImageVolumeUpOutline",
+    "exportName": "VolumeUp",
+    "category": "VideoAudioImage",
+    "rootFolder": "outline"
+  }
+]

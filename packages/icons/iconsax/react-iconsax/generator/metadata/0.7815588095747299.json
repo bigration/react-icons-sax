@@ -1,0 +1,98 @@
+[
+  {
+    "importName": "DeliverySvg3DCubeScanOutline",
+    "exportName": "Svg3DCubeScan",
+    "category": "Delivery",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DeliverySvg3DRotateOutline",
+    "exportName": "Svg3DRotate",
+    "category": "Delivery",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DeliverySvg3DSquareOutline",
+    "exportName": "Svg3DSquare",
+    "category": "Delivery",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DeliveryBox1Outline",
+    "exportName": "Box1",
+    "category": "Delivery",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DeliveryBoxAddOutline",
+    "exportName": "BoxAdd",
+    "category": "Delivery",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DeliveryBoxRemoveOutline",
+    "exportName": "BoxRemove",
+    "category": "Delivery",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DeliveryBoxSearchOutline",
+    "exportName": "BoxSearch",
+    "category": "Delivery",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DeliveryBoxTickOutline",
+    "exportName": "BoxTick",
+    "category": "Delivery",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DeliveryBoxTimeOutline",
+    "exportName": "BoxTime",
+    "category": "Delivery",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DeliveryBoxOutline",
+    "exportName": "Box",
+    "category": "Delivery",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DeliveryConvert3DCubeOutline",
+    "exportName": "Convert3DCube",
+    "category": "Delivery",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DeliveryTruckFastOutline",
+    "exportName": "TruckFast",
+    "category": "Delivery",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DeliveryTruckRemoveOutline",
+    "exportName": "TruckRemove",
+    "category": "Delivery",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DeliveryTruckTickOutline",
+    "exportName": "TruckTick",
+    "category": "Delivery",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DeliveryTruckTimeOutline",
+    "exportName": "TruckTime",
+    "category": "Delivery",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "DeliveryTruckOutline",
+    "exportName": "Truck",
+    "category": "Delivery",
+    "rootFolder": "outline"
+  }
+]

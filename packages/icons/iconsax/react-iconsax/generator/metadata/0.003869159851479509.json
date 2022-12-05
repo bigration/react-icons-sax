@@ -1,0 +1,104 @@
+[
+  {
+    "importName": "SettingsCandle2Bulk",
+    "exportName": "Candle2",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SettingsCandleBulk",
+    "exportName": "Candle",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SettingsCategory2Bulk",
+    "exportName": "Category2",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SettingsCategoryBulk",
+    "exportName": "Category",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SettingsMenuBulk",
+    "exportName": "Menu",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SettingsMore2Bulk",
+    "exportName": "More2",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SettingsMoreBulk",
+    "exportName": "More",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SettingsSetting2Bulk",
+    "exportName": "Setting2",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SettingsSetting3Bulk",
+    "exportName": "Setting3",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SettingsSetting4Bulk",
+    "exportName": "Setting4",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SettingsSetting5Bulk",
+    "exportName": "Setting5",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SettingsSettingBulk",
+    "exportName": "Setting",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SettingsSettingsBulk",
+    "exportName": "Settings",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SettingsToggleOffCircleBulk",
+    "exportName": "ToggleOffCircle",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SettingsToggleOffBulk",
+    "exportName": "ToggleOff",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SettingsToggleOnCircleBulk",
+    "exportName": "ToggleOnCircle",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "SettingsToggleOnBulk",
+    "exportName": "ToggleOn",
+    "category": "Settings",
+    "rootFolder": "bulk"
+  }
+]

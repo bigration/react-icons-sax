@@ -1,0 +1,122 @@
+[
+  {
+    "importName": "UsersPeopleLinear",
+    "exportName": "People",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersProfile2UserLinear",
+    "exportName": "Profile2User",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersProfileAddLinear",
+    "exportName": "ProfileAdd",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersProfileCircleLinear",
+    "exportName": "ProfileCircle",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersProfileDeleteLinear",
+    "exportName": "ProfileDelete",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersProfileRemoveLinear",
+    "exportName": "ProfileRemove",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersProfileTickLinear",
+    "exportName": "ProfileTick",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersProfileLinear",
+    "exportName": "Profile",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersTagUserLinear",
+    "exportName": "TagUser",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersUserAddLinear",
+    "exportName": "UserAdd",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersUserCirlceAddLinear",
+    "exportName": "UserCirlceAdd",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersUserEditLinear",
+    "exportName": "UserEdit",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersUserMinusLinear",
+    "exportName": "UserMinus",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersUserOctagonLinear",
+    "exportName": "UserOctagon",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersUserRemoveLinear",
+    "exportName": "UserRemove",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersUserSearchLinear",
+    "exportName": "UserSearch",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersUserSquareLinear",
+    "exportName": "UserSquare",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersUserTagLinear",
+    "exportName": "UserTag",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersUserTickLinear",
+    "exportName": "UserTick",
+    "category": "Users",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "UsersUserLinear",
+    "exportName": "User",
+    "category": "Users",
+    "rootFolder": "linear"
+  }
+]

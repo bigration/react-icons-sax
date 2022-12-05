@@ -1,0 +1,290 @@
+[
+  {
+    "importName": "ComputersDevicesElectronicsAirdropBold",
+    "exportName": "Airdrop",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsAirpodBold",
+    "exportName": "Airpod",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsAirpodsBold",
+    "exportName": "Airpods",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsBluetooth2Bold",
+    "exportName": "Bluetooth2",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsBluetoothCircleBold",
+    "exportName": "BluetoothCircle",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsBluetoothRectangleBold",
+    "exportName": "BluetoothRectangle",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsBluetoothBold",
+    "exportName": "Bluetooth",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsClockBold",
+    "exportName": "Clock",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCloudAddBold",
+    "exportName": "CloudAdd",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCloudChangeBold",
+    "exportName": "CloudChange",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCloudConnectionBold",
+    "exportName": "CloudConnection",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCloudRemoveBold",
+    "exportName": "CloudRemove",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCpuChargeBold",
+    "exportName": "CpuCharge",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCpuSettingBold",
+    "exportName": "CpuSetting",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsCpuBold",
+    "exportName": "Cpu",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsDevicesBold",
+    "exportName": "Devices",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsDriver2Bold",
+    "exportName": "Driver2",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsDriverRefreshBold",
+    "exportName": "DriverRefresh",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsDriverBold",
+    "exportName": "Driver",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsElectricityBold",
+    "exportName": "Electricity",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsExternalDriveBold",
+    "exportName": "ExternalDrive",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsFolderConnectionBold",
+    "exportName": "FolderConnection",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsGameBold",
+    "exportName": "Game",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsGameboyBold",
+    "exportName": "Gameboy",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsHeadphoneBold",
+    "exportName": "Headphone",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsHeadphonesBold",
+    "exportName": "Headphones",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsKeyboardOpenBold",
+    "exportName": "KeyboardOpen",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsKeyboardBold",
+    "exportName": "Keyboard",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsLampBold",
+    "exportName": "Lamp",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMicroscopeBold",
+    "exportName": "Microscope",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMirroringScreenBold",
+    "exportName": "MirroringScreen",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMobileBold",
+    "exportName": "Mobile",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMonitorMobbileBold",
+    "exportName": "MonitorMobbile",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMonitorRecorderBold",
+    "exportName": "MonitorRecorder",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMonitorBold",
+    "exportName": "Monitor",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMouseBold",
+    "exportName": "Mouse",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsMusicPlayBold",
+    "exportName": "MusicPlay",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsPrinterSlashBold",
+    "exportName": "PrinterSlash",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsPrinterBold",
+    "exportName": "Printer",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsRam2Bold",
+    "exportName": "Ram2",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsRamBold",
+    "exportName": "Ram",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsSimcard1Bold",
+    "exportName": "Simcard1",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsSimcard2Bold",
+    "exportName": "Simcard2",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsSimcardBold",
+    "exportName": "Simcard",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsSpeakerBold",
+    "exportName": "Speaker",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsWatchStatusBold",
+    "exportName": "WatchStatus",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsWatchBold",
+    "exportName": "Watch",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "ComputersDevicesElectronicsWeightBold",
+    "exportName": "Weight",
+    "category": "ComputersDevicesElectronics",
+    "rootFolder": "bold"
+  }
+]

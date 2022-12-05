@@ -1,0 +1,68 @@
+[
+  {
+    "importName": "BuildingBankBroken",
+    "exportName": "Bank",
+    "category": "Building",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "BuildingBuilding3Broken",
+    "exportName": "Building3",
+    "category": "Building",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "BuildingBuilding4Broken",
+    "exportName": "Building4",
+    "category": "Building",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "BuildingBuildingBroken",
+    "exportName": "Building",
+    "category": "Building",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "BuildingBuildings2Broken",
+    "exportName": "Buildings2",
+    "category": "Building",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "BuildingBuildingsBroken",
+    "exportName": "Buildings",
+    "category": "Building",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "BuildingBulidingBroken",
+    "exportName": "Buliding",
+    "category": "Building",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "BuildingCourthouseBroken",
+    "exportName": "Courthouse",
+    "category": "Building",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "BuildingHospitalBroken",
+    "exportName": "Hospital",
+    "category": "Building",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "BuildingHouse2Broken",
+    "exportName": "House2",
+    "category": "Building",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "BuildingHouseBroken",
+    "exportName": "House",
+    "category": "Building",
+    "rootFolder": "broken"
+  }
+]

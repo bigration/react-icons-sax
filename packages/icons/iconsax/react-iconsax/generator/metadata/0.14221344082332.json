@@ -1,0 +1,56 @@
+[
+  {
+    "importName": "NotificationsLampChargeTwotone",
+    "exportName": "LampCharge",
+    "category": "Notifications",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "NotificationsLampOnTwotone",
+    "exportName": "LampOn",
+    "category": "Notifications",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "NotificationsLampSlashTwotone",
+    "exportName": "LampSlash",
+    "category": "Notifications",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "NotificationsNotification1Twotone",
+    "exportName": "Notification1",
+    "category": "Notifications",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "NotificationsNotificationBingTwotone",
+    "exportName": "NotificationBing",
+    "category": "Notifications",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "NotificationsNotificationCircleTwotone",
+    "exportName": "NotificationCircle",
+    "category": "Notifications",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "NotificationsNotificationFavoriteTwotone",
+    "exportName": "NotificationFavorite",
+    "category": "Notifications",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "NotificationsNotificationStatusTwotone",
+    "exportName": "NotificationStatus",
+    "category": "Notifications",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "NotificationsNotificationTwotone",
+    "exportName": "Notification",
+    "category": "Notifications",
+    "rootFolder": "twotone"
+  }
+]

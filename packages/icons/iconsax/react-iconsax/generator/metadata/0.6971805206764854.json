@@ -1,0 +1,392 @@
+[
+  {
+    "importName": "ArrowArrangeCircle2Twotone",
+    "exportName": "ArrangeCircle2",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrangeCircleTwotone",
+    "exportName": "ArrangeCircle",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrangeSquare2Twotone",
+    "exportName": "ArrangeSquare2",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrangeSquareTwotone",
+    "exportName": "ArrangeSquare",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrow2Twotone",
+    "exportName": "Arrow2",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrow3Twotone",
+    "exportName": "Arrow3",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowBottomTwotone",
+    "exportName": "ArrowBottom",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowCircleDownTwotone",
+    "exportName": "ArrowCircleDown",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowCircleLeftTwotone",
+    "exportName": "ArrowCircleLeft",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowCircleRightTwotone",
+    "exportName": "ArrowCircleRight",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowDown1Twotone",
+    "exportName": "ArrowDown1",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowDown2Twotone",
+    "exportName": "ArrowDown2",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowDownTwotone",
+    "exportName": "ArrowDown",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowLeft1Twotone",
+    "exportName": "ArrowLeft1",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowLeft2Twotone",
+    "exportName": "ArrowLeft2",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowLeft3Twotone",
+    "exportName": "ArrowLeft3",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowLeftTwotone",
+    "exportName": "ArrowLeft",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowRight1Twotone",
+    "exportName": "ArrowRight1",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowRight2Twotone",
+    "exportName": "ArrowRight2",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowRight3Twotone",
+    "exportName": "ArrowRight3",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowRightTwotone",
+    "exportName": "ArrowRight",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowSquareDownTwotone",
+    "exportName": "ArrowSquareDown",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowSquareLeftTwotone",
+    "exportName": "ArrowSquareLeft",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowSquareRightTwotone",
+    "exportName": "ArrowSquareRight",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowSquareUpTwotone",
+    "exportName": "ArrowSquareUp",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowSwapHorizontalTwotone",
+    "exportName": "ArrowSwapHorizontal",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowUp1Twotone",
+    "exportName": "ArrowUp1",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowUp2Twotone",
+    "exportName": "ArrowUp2",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowUp3Twotone",
+    "exportName": "ArrowUp3",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowArrowUpTwotone",
+    "exportName": "ArrowUp",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowBackSquareTwotone",
+    "exportName": "BackSquare",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowConvertTwotone",
+    "exportName": "Convert",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowExport1Twotone",
+    "exportName": "Export1",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowExport2Twotone",
+    "exportName": "Export2",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowExport3Twotone",
+    "exportName": "Export3",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowExportTwotone",
+    "exportName": "Export",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowForwardSquareTwotone",
+    "exportName": "ForwardSquare",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowFrame1Twotone",
+    "exportName": "Frame1",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowFrame2Twotone",
+    "exportName": "Frame2",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowFrameTwotone",
+    "exportName": "Frame",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowImport1Twotone",
+    "exportName": "Import1",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowImport2Twotone",
+    "exportName": "Import2",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowImportTwotone",
+    "exportName": "Import",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowLogin1Twotone",
+    "exportName": "Login1",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowLoginTwotone",
+    "exportName": "Login",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowLogout1Twotone",
+    "exportName": "Logout1",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowLogoutTwotone",
+    "exportName": "Logout",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowReceiveSquare2Twotone",
+    "exportName": "ReceiveSquare2",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowReceiveSquareTwotone",
+    "exportName": "ReceiveSquare",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowReceivedTwotone",
+    "exportName": "Received",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowRedoTwotone",
+    "exportName": "Redo",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowRefresh2Twotone",
+    "exportName": "Refresh2",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowRefreshCircleTwotone",
+    "exportName": "RefreshCircle",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowRefreshLeftSquareTwotone",
+    "exportName": "RefreshLeftSquare",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowRefreshRightSquareTwotone",
+    "exportName": "RefreshRightSquare",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowRefreshSquare2Twotone",
+    "exportName": "RefreshSquare2",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowRefreshTwotone",
+    "exportName": "Refresh",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowRepeatCircleTwotone",
+    "exportName": "RepeatCircle",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowRepeatTwotone",
+    "exportName": "Repeat",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowRotateLeftTwotone",
+    "exportName": "RotateLeft",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowRotateRightTwotone",
+    "exportName": "RotateRight",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowSendSqaure2Twotone",
+    "exportName": "SendSqaure2",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowSendSquareTwotone",
+    "exportName": "SendSquare",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowSendTwotone",
+    "exportName": "Send",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ArrowUndoTwotone",
+    "exportName": "Undo",
+    "category": "Arrow",
+    "rootFolder": "twotone"
+  }
+]

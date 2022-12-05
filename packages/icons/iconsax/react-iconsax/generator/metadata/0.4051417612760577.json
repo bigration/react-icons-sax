@@ -1,0 +1,488 @@
+[
+  {
+    "importName": "VideoAudioImageAudioSquareBroken",
+    "exportName": "AudioSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageBackward10SecondsBroken",
+    "exportName": "Backward10Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageBackward15SecondsBroken",
+    "exportName": "Backward15Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageBackward5SecondsBroken",
+    "exportName": "Backward5Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageBackwardBroken",
+    "exportName": "Backward",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageCameraSlashBroken",
+    "exportName": "CameraSlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageCameraBroken",
+    "exportName": "Camera",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageDevicesBroken",
+    "exportName": "Devices",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageForward10SecondsBroken",
+    "exportName": "Forward10Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageForward15SecondsBroken",
+    "exportName": "Forward15Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageForward5SecondsBroken",
+    "exportName": "Forward5Seconds",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageForwardBroken",
+    "exportName": "Forward",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageGalleryAddBroken",
+    "exportName": "GalleryAdd",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageGalleryEditBroken",
+    "exportName": "GalleryEdit",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageGalleryExportBroken",
+    "exportName": "GalleryExport",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageGalleryFavoriteBroken",
+    "exportName": "GalleryFavorite",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageGalleryImportBroken",
+    "exportName": "GalleryImport",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageGalleryRemoveBroken",
+    "exportName": "GalleryRemove",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageGallerySlashBroken",
+    "exportName": "GallerySlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageGalleryTickBroken",
+    "exportName": "GalleryTick",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageGalleryBroken",
+    "exportName": "Gallery",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageImageBroken",
+    "exportName": "Image",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMaximizeCircleBroken",
+    "exportName": "MaximizeCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMicrophone2Broken",
+    "exportName": "Microphone2",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMicrophoneSlash1Broken",
+    "exportName": "MicrophoneSlash1",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMicrophoneSlashBroken",
+    "exportName": "MicrophoneSlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMicrophoneBroken",
+    "exportName": "Microphone",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMiniMusicSqaureBroken",
+    "exportName": "MiniMusicSqaure",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMusicCircleBroken",
+    "exportName": "MusicCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMusicDashboardBroken",
+    "exportName": "MusicDashboard",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMusicFilterBroken",
+    "exportName": "MusicFilter",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMusicLibrary2Broken",
+    "exportName": "MusicLibrary2",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMusicPlaylistBroken",
+    "exportName": "MusicPlaylist",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMusicSquareAddBroken",
+    "exportName": "MusicSquareAdd",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMusicSquareRemoveBroken",
+    "exportName": "MusicSquareRemove",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMusicSquareSearchBroken",
+    "exportName": "MusicSquareSearch",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMusicSquareBroken",
+    "exportName": "MusicSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMusicBroken",
+    "exportName": "Music",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageMusicnoteBroken",
+    "exportName": "Musicnote",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageNextBroken",
+    "exportName": "Next",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageNoteSquareBroken",
+    "exportName": "NoteSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImagePauseCircleBroken",
+    "exportName": "PauseCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImagePauseBroken",
+    "exportName": "Pause",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImagePlayAddBroken",
+    "exportName": "PlayAdd",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImagePlayCircleBroken",
+    "exportName": "PlayCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImagePlayCricleBroken",
+    "exportName": "PlayCricle",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImagePlayRemoveBroken",
+    "exportName": "PlayRemove",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImagePlayBroken",
+    "exportName": "Play",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImagePreviousBroken",
+    "exportName": "Previous",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageRadioBroken",
+    "exportName": "Radio",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageRecordCircleBroken",
+    "exportName": "RecordCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageRecordBroken",
+    "exportName": "Record",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageRepeateMusicBroken",
+    "exportName": "RepeateMusic",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageRepeateOneBroken",
+    "exportName": "RepeateOne",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageScissorBroken",
+    "exportName": "Scissor",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageScreenmirroringBroken",
+    "exportName": "Screenmirroring",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageShuffleBroken",
+    "exportName": "Shuffle",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageStopCircleBroken",
+    "exportName": "StopCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageStopBroken",
+    "exportName": "Stop",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageSubtitleBroken",
+    "exportName": "Subtitle",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVideoAddBroken",
+    "exportName": "VideoAdd",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVideoCircleBroken",
+    "exportName": "VideoCircle",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVideoHorizontalBroken",
+    "exportName": "VideoHorizontal",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVideoOctagonBroken",
+    "exportName": "VideoOctagon",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVideoPlayBroken",
+    "exportName": "VideoPlay",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVideoRemoveBroken",
+    "exportName": "VideoRemove",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVideoSlashBroken",
+    "exportName": "VideoSlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVideoSquareBroken",
+    "exportName": "VideoSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVideoTickBroken",
+    "exportName": "VideoTick",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVideoTimeBroken",
+    "exportName": "VideoTime",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVideoVerticalBroken",
+    "exportName": "VideoVertical",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVideoBroken",
+    "exportName": "Video",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVoiceCricleBroken",
+    "exportName": "VoiceCricle",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVoiceSquareBroken",
+    "exportName": "VoiceSquare",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVolumeCrossBroken",
+    "exportName": "VolumeCross",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVolumeHighBroken",
+    "exportName": "VolumeHigh",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVolumeLow1Broken",
+    "exportName": "VolumeLow1",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVolumeLowBroken",
+    "exportName": "VolumeLow",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVolumeMuteBroken",
+    "exportName": "VolumeMute",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVolumeSlashBroken",
+    "exportName": "VolumeSlash",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "VideoAudioImageVolumeUpBroken",
+    "exportName": "VolumeUp",
+    "category": "VideoAudioImage",
+    "rootFolder": "broken"
+  }
+]

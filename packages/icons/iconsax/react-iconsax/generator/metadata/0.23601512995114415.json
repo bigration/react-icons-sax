@@ -1,0 +1,272 @@
+[
+  {
+    "importName": "GridSvg3SquareBold",
+    "exportName": "Svg3Square",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridAlignBottomBold",
+    "exportName": "AlignBottom",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridAlignHorizontallyBold",
+    "exportName": "AlignHorizontally",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridAlignLeftBold",
+    "exportName": "AlignLeft",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridAlignRightBold",
+    "exportName": "AlignRight",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridAlignVerticallyBold",
+    "exportName": "AlignVertically",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridConvertshape2Bold",
+    "exportName": "Convertshape2",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridConvertshapeBold",
+    "exportName": "Convertshape",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridCropBold",
+    "exportName": "Crop",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridElement2Bold",
+    "exportName": "Element2",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridElement3Bold",
+    "exportName": "Element3",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridElement4Bold",
+    "exportName": "Element4",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridElementEqualBold",
+    "exportName": "ElementEqual",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridElementPlusBold",
+    "exportName": "ElementPlus",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridFatrowsBold",
+    "exportName": "Fatrows",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridFormatCircleBold",
+    "exportName": "FormatCircle",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridFormatSquareBold",
+    "exportName": "FormatSquare",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridFrame1Bold",
+    "exportName": "Frame1",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridFrameBold",
+    "exportName": "Frame",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridGrid1Bold",
+    "exportName": "Grid1",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridGrid2Bold",
+    "exportName": "Grid2",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridGrid3Bold",
+    "exportName": "Grid3",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridGrid4Bold",
+    "exportName": "Grid4",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridGrid5Bold",
+    "exportName": "Grid5",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridGrid6Bold",
+    "exportName": "Grid6",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridGrid7Bold",
+    "exportName": "Grid7",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridGrid8Bold",
+    "exportName": "Grid8",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridGrid9Bold",
+    "exportName": "Grid9",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridGridEditBold",
+    "exportName": "GridEdit",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridGridEraserBold",
+    "exportName": "GridEraser",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridGridLockBold",
+    "exportName": "GridLock",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridKanbanBold",
+    "exportName": "Kanban",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridMaximize1Bold",
+    "exportName": "Maximize1",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridMaximize2Bold",
+    "exportName": "Maximize2",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridMaximize3Bold",
+    "exportName": "Maximize3",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridMaximize4Bold",
+    "exportName": "Maximize4",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridMaximizeBold",
+    "exportName": "Maximize",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridRotateLeftBold",
+    "exportName": "RotateLeft",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridRotateRightBold",
+    "exportName": "RotateRight",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridRowHorizontalBold",
+    "exportName": "RowHorizontal",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridRowVerticalBold",
+    "exportName": "RowVertical",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridSliderHorizontal1Bold",
+    "exportName": "SliderHorizontal1",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridSliderHorizontalBold",
+    "exportName": "SliderHorizontal",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridSliderVertical1Bold",
+    "exportName": "SliderVertical1",
+    "category": "Grid",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "GridSliderVerticalBold",
+    "exportName": "SliderVertical",
+    "category": "Grid",
+    "rootFolder": "bold"
+  }
+]

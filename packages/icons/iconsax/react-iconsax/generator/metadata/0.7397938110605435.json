@@ -1,0 +1,104 @@
+[
+  {
+    "importName": "SettingsCandle2Twotone",
+    "exportName": "Candle2",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SettingsCandleTwotone",
+    "exportName": "Candle",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SettingsCategory2Twotone",
+    "exportName": "Category2",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SettingsCategoryTwotone",
+    "exportName": "Category",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SettingsMenuTwotone",
+    "exportName": "Menu",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SettingsMore2Twotone",
+    "exportName": "More2",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SettingsMoreTwotone",
+    "exportName": "More",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SettingsSetting2Twotone",
+    "exportName": "Setting2",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SettingsSetting3Twotone",
+    "exportName": "Setting3",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SettingsSetting4Twotone",
+    "exportName": "Setting4",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SettingsSetting5Twotone",
+    "exportName": "Setting5",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SettingsSettingTwotone",
+    "exportName": "Setting",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SettingsSettingsTwotone",
+    "exportName": "Settings",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SettingsToggleOffCircleTwotone",
+    "exportName": "ToggleOffCircle",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SettingsToggleOffTwotone",
+    "exportName": "ToggleOff",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SettingsToggleOnCircleTwotone",
+    "exportName": "ToggleOnCircle",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SettingsToggleOnTwotone",
+    "exportName": "ToggleOn",
+    "category": "Settings",
+    "rootFolder": "twotone"
+  }
+]

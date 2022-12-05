@@ -1,0 +1,50 @@
+[
+  {
+    "importName": "FilesFolder2Broken",
+    "exportName": "Folder2",
+    "category": "Files",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "FilesFolderAddBroken",
+    "exportName": "FolderAdd",
+    "category": "Files",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "FilesFolderCloudBroken",
+    "exportName": "FolderCloud",
+    "category": "Files",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "FilesFolderCrossBroken",
+    "exportName": "FolderCross",
+    "category": "Files",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "FilesFolderFavoriteBroken",
+    "exportName": "FolderFavorite",
+    "category": "Files",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "FilesFolderMinusBroken",
+    "exportName": "FolderMinus",
+    "category": "Files",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "FilesFolderOpenBroken",
+    "exportName": "FolderOpen",
+    "category": "Files",
+    "rootFolder": "broken"
+  },
+  {
+    "importName": "FilesFolderBroken",
+    "exportName": "Folder",
+    "category": "Files",
+    "rootFolder": "broken"
+  }
+]

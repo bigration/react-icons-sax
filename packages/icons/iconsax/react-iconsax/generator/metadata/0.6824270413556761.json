@@ -1,0 +1,122 @@
+[
+  {
+    "importName": "BusinessActivityBold",
+    "exportName": "Activity",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessChart1Bold",
+    "exportName": "Chart1",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessChart2Bold",
+    "exportName": "Chart2",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessChart21Bold",
+    "exportName": "Chart21",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessChartFailBold",
+    "exportName": "ChartFail",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessChartSuccessBold",
+    "exportName": "ChartSuccess",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessChartBold",
+    "exportName": "Chart",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessDiagramBold",
+    "exportName": "Diagram",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessFavoriteChartBold",
+    "exportName": "FavoriteChart",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessGraphBold",
+    "exportName": "Graph",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessHashtagBold",
+    "exportName": "Hashtag",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessHealthBold",
+    "exportName": "Health",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessHomeHashtagBold",
+    "exportName": "HomeHashtag",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessHomeTrendDownBold",
+    "exportName": "HomeTrendDown",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessHomeTrendUpBold",
+    "exportName": "HomeTrendUp",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessPersonalcardBold",
+    "exportName": "Personalcard",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessPresentionChartBold",
+    "exportName": "PresentionChart",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessStatusUpBold",
+    "exportName": "StatusUp",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessTrendDownBold",
+    "exportName": "TrendDown",
+    "category": "Business",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "BusinessTrendUpBold",
+    "exportName": "TrendUp",
+    "category": "Business",
+    "rootFolder": "bold"
+  }
+]

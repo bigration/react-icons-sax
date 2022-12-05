@@ -1,0 +1,104 @@
+[
+  {
+    "importName": "CarAirplaneSquareBulk",
+    "exportName": "AirplaneSquare",
+    "category": "Car",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "CarAirplaneBulk",
+    "exportName": "Airplane",
+    "category": "Car",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "CarBusBulk",
+    "exportName": "Bus",
+    "category": "Car",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "CarCallAddBulk",
+    "exportName": "CallAdd",
+    "category": "Car",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "CarCallCallingBulk",
+    "exportName": "CallCalling",
+    "category": "Car",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "CarCallIncomingBulk",
+    "exportName": "CallIncoming",
+    "category": "Car",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "CarCallMinusBulk",
+    "exportName": "CallMinus",
+    "category": "Car",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "CarCallOutgoingBulk",
+    "exportName": "CallOutgoing",
+    "category": "Car",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "CarCallReceivedBulk",
+    "exportName": "CallReceived",
+    "category": "Car",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "CarCallRemoveBulk",
+    "exportName": "CallRemove",
+    "category": "Car",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "CarCallSlashBulk",
+    "exportName": "CallSlash",
+    "category": "Car",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "CarCallBulk",
+    "exportName": "Call",
+    "category": "Car",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "CarCarBulk",
+    "exportName": "Car",
+    "category": "Car",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "CarDrivingBulk",
+    "exportName": "Driving",
+    "category": "Car",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "CarGasStationBulk",
+    "exportName": "GasStation",
+    "category": "Car",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "CarShipBulk",
+    "exportName": "Ship",
+    "category": "Car",
+    "rootFolder": "bulk"
+  },
+  {
+    "importName": "CarSmartCarBulk",
+    "exportName": "SmartCar",
+    "category": "Car",
+    "rootFolder": "bulk"
+  }
+]

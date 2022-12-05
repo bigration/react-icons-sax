@@ -1,0 +1,218 @@
+[
+  {
+    "importName": "EmailsMessagesDeviceMessageLinear",
+    "exportName": "DeviceMessage",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesDirectInboxLinear",
+    "exportName": "DirectInbox",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesDirectNormalLinear",
+    "exportName": "DirectNormal",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesDirectNotificationLinear",
+    "exportName": "DirectNotification",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesDirectSendLinear",
+    "exportName": "DirectSend",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesDirectLinear",
+    "exportName": "Direct",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesDirectboxDefaultLinear",
+    "exportName": "DirectboxDefault",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesDirectboxNotifLinear",
+    "exportName": "DirectboxNotif",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesDirectboxReceiveLinear",
+    "exportName": "DirectboxReceive",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesDirectboxSendLinear",
+    "exportName": "DirectboxSend",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessage2Linear",
+    "exportName": "Message2",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessageAdd1Linear",
+    "exportName": "MessageAdd1",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessageAddLinear",
+    "exportName": "MessageAdd",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessageCircleLinear",
+    "exportName": "MessageCircle",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessageEditLinear",
+    "exportName": "MessageEdit",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessageFavoriteLinear",
+    "exportName": "MessageFavorite",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessageMinusLinear",
+    "exportName": "MessageMinus",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessageNotifLinear",
+    "exportName": "MessageNotif",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessageRemoveLinear",
+    "exportName": "MessageRemove",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessageSearchLinear",
+    "exportName": "MessageSearch",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessageSquareLinear",
+    "exportName": "MessageSquare",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessageText1Linear",
+    "exportName": "MessageText1",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessageTextLinear",
+    "exportName": "MessageText",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessageTickLinear",
+    "exportName": "MessageTick",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessageTimeLinear",
+    "exportName": "MessageTime",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessageLinear",
+    "exportName": "Message",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessages1Linear",
+    "exportName": "Messages1",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessages2Linear",
+    "exportName": "Messages2",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessages3Linear",
+    "exportName": "Messages3",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesMessagesLinear",
+    "exportName": "Messages",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesSmsEditLinear",
+    "exportName": "SmsEdit",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesSmsNotificationLinear",
+    "exportName": "SmsNotification",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesSmsSearchLinear",
+    "exportName": "SmsSearch",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesSmsStarLinear",
+    "exportName": "SmsStar",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesSmsTrackingLinear",
+    "exportName": "SmsTracking",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "EmailsMessagesSmsLinear",
+    "exportName": "Sms",
+    "category": "EmailsMessages",
+    "rootFolder": "linear"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "importName": "ShopBag2Linear",
+    "exportName": "Bag2",
+    "category": "Shop",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ShopBagCross1Linear",
+    "exportName": "BagCross1",
+    "category": "Shop",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ShopBagCrossLinear",
+    "exportName": "BagCross",
+    "category": "Shop",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ShopBagHappyLinear",
+    "exportName": "BagHappy",
+    "category": "Shop",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ShopBagTick2Linear",
+    "exportName": "BagTick2",
+    "category": "Shop",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ShopBagTickLinear",
+    "exportName": "BagTick",
+    "category": "Shop",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ShopBagTimerLinear",
+    "exportName": "BagTimer",
+    "category": "Shop",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ShopBagLinear",
+    "exportName": "Bag",
+    "category": "Shop",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ShopBarcodeLinear",
+    "exportName": "Barcode",
+    "category": "Shop",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ShopShopAddLinear",
+    "exportName": "ShopAdd",
+    "category": "Shop",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ShopShopRemoveLinear",
+    "exportName": "ShopRemove",
+    "category": "Shop",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ShopShopLinear",
+    "exportName": "Shop",
+    "category": "Shop",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ShopShoppingBagLinear",
+    "exportName": "ShoppingBag",
+    "category": "Shop",
+    "rootFolder": "linear"
+  },
+  {
+    "importName": "ShopShoppingCartLinear",
+    "exportName": "ShoppingCart",
+    "category": "Shop",
+    "rootFolder": "linear"
+  }
+]

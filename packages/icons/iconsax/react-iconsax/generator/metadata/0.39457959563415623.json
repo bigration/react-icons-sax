@@ -1,0 +1,86 @@
+[
+  {
+    "importName": "ShopBag2Twotone",
+    "exportName": "Bag2",
+    "category": "Shop",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ShopBagCross1Twotone",
+    "exportName": "BagCross1",
+    "category": "Shop",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ShopBagCrossTwotone",
+    "exportName": "BagCross",
+    "category": "Shop",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ShopBagHappyTwotone",
+    "exportName": "BagHappy",
+    "category": "Shop",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ShopBagTick2Twotone",
+    "exportName": "BagTick2",
+    "category": "Shop",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ShopBagTickTwotone",
+    "exportName": "BagTick",
+    "category": "Shop",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ShopBagTimerTwotone",
+    "exportName": "BagTimer",
+    "category": "Shop",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ShopBagTwotone",
+    "exportName": "Bag",
+    "category": "Shop",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ShopBarcodeTwotone",
+    "exportName": "Barcode",
+    "category": "Shop",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ShopShopAddTwotone",
+    "exportName": "ShopAdd",
+    "category": "Shop",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ShopShopRemoveTwotone",
+    "exportName": "ShopRemove",
+    "category": "Shop",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ShopShopTwotone",
+    "exportName": "Shop",
+    "category": "Shop",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ShopShoppingBagTwotone",
+    "exportName": "ShoppingBag",
+    "category": "Shop",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "ShopShoppingCartTwotone",
+    "exportName": "ShoppingCart",
+    "category": "Shop",
+    "rootFolder": "twotone"
+  }
+]

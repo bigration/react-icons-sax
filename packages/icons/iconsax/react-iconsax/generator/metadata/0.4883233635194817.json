@@ -1,0 +1,470 @@
+[
+  {
+    "importName": "MoneyArchiveOutline",
+    "exportName": "Archive",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyCardAddOutline",
+    "exportName": "CardAdd",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyCardEditOutline",
+    "exportName": "CardEdit",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyCardPosOutline",
+    "exportName": "CardPos",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyCardReceiveOutline",
+    "exportName": "CardReceive",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyCardRemove1Outline",
+    "exportName": "CardRemove1",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyCardRemoveOutline",
+    "exportName": "CardRemove",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyCardSendOutline",
+    "exportName": "CardSend",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyCardSlashOutline",
+    "exportName": "CardSlash",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyCardTick1Outline",
+    "exportName": "CardTick1",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyCardTickOutline",
+    "exportName": "CardTick",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyCardOutline",
+    "exportName": "Card",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyCardsOutline",
+    "exportName": "Cards",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyChartSquareOutline",
+    "exportName": "ChartSquare",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyCoin1Outline",
+    "exportName": "Coin1",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyCoinOutline",
+    "exportName": "Coin",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyConvertCardOutline",
+    "exportName": "ConvertCard",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyDiscountCircleOutline",
+    "exportName": "DiscountCircle",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyDiscountShapeOutline",
+    "exportName": "DiscountShape",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyDocumentOutline",
+    "exportName": "Document",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyDollarCircleOutline",
+    "exportName": "DollarCircle",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyDollarSquareOutline",
+    "exportName": "DollarSquare",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyEmptyWalletAddOutline",
+    "exportName": "EmptyWalletAdd",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyEmptyWalletChangeOutline",
+    "exportName": "EmptyWalletChange",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyEmptyWalletRemoveOutline",
+    "exportName": "EmptyWalletRemove",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyEmptyWalletTickOutline",
+    "exportName": "EmptyWalletTick",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyEmptyWalletTimeOutline",
+    "exportName": "EmptyWalletTime",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyEmptyWalletOutline",
+    "exportName": "EmptyWallet",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyMathOutline",
+    "exportName": "Math",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyMoney2Outline",
+    "exportName": "Money2",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyMoney3Outline",
+    "exportName": "Money3",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyMoney4Outline",
+    "exportName": "Money4",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyMoneyAddOutline",
+    "exportName": "MoneyAdd",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyMoneyChangeOutline",
+    "exportName": "MoneyChange",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyMoneyForbiddenOutline",
+    "exportName": "MoneyForbidden",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyMoneyReciveOutline",
+    "exportName": "MoneyRecive",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyMoneyRemoveOutline",
+    "exportName": "MoneyRemove",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyMoneySendOutline",
+    "exportName": "MoneySend",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyMoneyTickOutline",
+    "exportName": "MoneyTick",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyMoneyTimeOutline",
+    "exportName": "MoneyTime",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyMoneyOutline",
+    "exportName": "Money",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyMoneysOutline",
+    "exportName": "Moneys",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyPercentageCircleOutline",
+    "exportName": "PercentageCircle",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyPercentageSquareOutline",
+    "exportName": "PercentageSquare",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyReceipt1Outline",
+    "exportName": "Receipt1",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyReceipt21Outline",
+    "exportName": "Receipt21",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyReceipt2Outline",
+    "exportName": "Receipt2",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyReceiptAddOutline",
+    "exportName": "ReceiptAdd",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyReceiptDiscountOutline",
+    "exportName": "ReceiptDiscount",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyReceiptDisscountOutline",
+    "exportName": "ReceiptDisscount",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyReceiptEditOutline",
+    "exportName": "ReceiptEdit",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyReceiptItemOutline",
+    "exportName": "ReceiptItem",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyReceiptMinusOutline",
+    "exportName": "ReceiptMinus",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyReceiptSearchOutline",
+    "exportName": "ReceiptSearch",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyReceiptTextOutline",
+    "exportName": "ReceiptText",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyReceiptOutline",
+    "exportName": "Receipt",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneySecurityCardOutline",
+    "exportName": "SecurityCard",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyStrongbox2Outline",
+    "exportName": "Strongbox2",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyStrongboxOutline",
+    "exportName": "Strongbox",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyTag2Outline",
+    "exportName": "Tag2",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyTagOutline",
+    "exportName": "Tag",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyTicket2Outline",
+    "exportName": "Ticket2",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyTicketDiscountOutline",
+    "exportName": "TicketDiscount",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyTicketExpiredOutline",
+    "exportName": "TicketExpired",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyTicketStarOutline",
+    "exportName": "TicketStar",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyTicketOutline",
+    "exportName": "Ticket",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyTransactionMinusOutline",
+    "exportName": "TransactionMinus",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyWallet1Outline",
+    "exportName": "Wallet1",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyWallet2Outline",
+    "exportName": "Wallet2",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyWallet3Outline",
+    "exportName": "Wallet3",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyWalletAdd1Outline",
+    "exportName": "WalletAdd1",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyWalletAddOutline",
+    "exportName": "WalletAdd",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyWalletCheckOutline",
+    "exportName": "WalletCheck",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyWalletMinusOutline",
+    "exportName": "WalletMinus",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyWalletMoneyOutline",
+    "exportName": "WalletMoney",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyWalletRemoveOutline",
+    "exportName": "WalletRemove",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyWalletSearchOutline",
+    "exportName": "WalletSearch",
+    "category": "Money",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "MoneyWalletOutline",
+    "exportName": "Wallet",
+    "category": "Money",
+    "rootFolder": "outline"
+  }
+]

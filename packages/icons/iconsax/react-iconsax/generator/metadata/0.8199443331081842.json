@@ -1,0 +1,212 @@
+[
+  {
+    "importName": "TypeParagraphCharacterAttachCircleBold",
+    "exportName": "AttachCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterAttachSquareBold",
+    "exportName": "AttachSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterEraserBold",
+    "exportName": "Eraser",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterFirstlineBold",
+    "exportName": "Firstline",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterLanguageCircleBold",
+    "exportName": "LanguageCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterLanguageSquareBold",
+    "exportName": "LanguageSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterLink1Bold",
+    "exportName": "Link1",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterLink2Bold",
+    "exportName": "Link2",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterLink21Bold",
+    "exportName": "Link21",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterLinkCircleBold",
+    "exportName": "LinkCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterLinkSquareBold",
+    "exportName": "LinkSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterLinkBold",
+    "exportName": "Link",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterMaximizeBold",
+    "exportName": "Maximize",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterPaperclip2Bold",
+    "exportName": "Paperclip2",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterPaperclipBold",
+    "exportName": "Paperclip",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterPharagraphspacingBold",
+    "exportName": "Pharagraphspacing",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteDownCircleBold",
+    "exportName": "QuoteDownCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteDownSquareBold",
+    "exportName": "QuoteDownSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteDownBold",
+    "exportName": "QuoteDown",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteUpCircleBold",
+    "exportName": "QuoteUpCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteUpSquareBold",
+    "exportName": "QuoteUpSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteUpBold",
+    "exportName": "QuoteUp",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterSmallcapsBold",
+    "exportName": "Smallcaps",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextBlockBold",
+    "exportName": "TextBlock",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextBoldBold",
+    "exportName": "TextBold",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextItalicBold",
+    "exportName": "TextItalic",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextUnderlineBold",
+    "exportName": "TextUnderline",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextBold",
+    "exportName": "Text",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignCenterBold",
+    "exportName": "TextalignCenter",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignJustifycenterBold",
+    "exportName": "TextalignJustifycenter",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignJustifyleftBold",
+    "exportName": "TextalignJustifyleft",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignJustifyrightBold",
+    "exportName": "TextalignJustifyright",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignLeftBold",
+    "exportName": "TextalignLeft",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignRightBold",
+    "exportName": "TextalignRight",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  },
+  {
+    "importName": "TypeParagraphCharacterTranslateBold",
+    "exportName": "Translate",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "bold"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "importName": "BuildingBankOutline",
+    "exportName": "Bank",
+    "category": "Building",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "BuildingBuilding3Outline",
+    "exportName": "Building3",
+    "category": "Building",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "BuildingBuilding4Outline",
+    "exportName": "Building4",
+    "category": "Building",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "BuildingBuildingOutline",
+    "exportName": "Building",
+    "category": "Building",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "BuildingBuildings2Outline",
+    "exportName": "Buildings2",
+    "category": "Building",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "BuildingBuildingsOutline",
+    "exportName": "Buildings",
+    "category": "Building",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "BuildingBulidingOutline",
+    "exportName": "Buliding",
+    "category": "Building",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "BuildingCourthouseOutline",
+    "exportName": "Courthouse",
+    "category": "Building",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "BuildingHospitalOutline",
+    "exportName": "Hospital",
+    "category": "Building",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "BuildingHouse2Outline",
+    "exportName": "House2",
+    "category": "Building",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "BuildingHouseOutline",
+    "exportName": "House",
+    "category": "Building",
+    "rootFolder": "outline"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "importName": "TypeParagraphCharacterAttachCircleOutline",
+    "exportName": "AttachCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterAttachSquareOutline",
+    "exportName": "AttachSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterEraserOutline",
+    "exportName": "Eraser",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterFirstlineOutline",
+    "exportName": "Firstline",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterLanguageCircleOutline",
+    "exportName": "LanguageCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterLanguageSquareOutline",
+    "exportName": "LanguageSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterLink1Outline",
+    "exportName": "Link1",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterLink2Outline",
+    "exportName": "Link2",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterLink21Outline",
+    "exportName": "Link21",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterLinkCircleOutline",
+    "exportName": "LinkCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterLinkSquareOutline",
+    "exportName": "LinkSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterLinkOutline",
+    "exportName": "Link",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterMaximizeOutline",
+    "exportName": "Maximize",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterPaperclip2Outline",
+    "exportName": "Paperclip2",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterPaperclipOutline",
+    "exportName": "Paperclip",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterPharagraphspacingOutline",
+    "exportName": "Pharagraphspacing",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteDownCircleOutline",
+    "exportName": "QuoteDownCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteDownSquareOutline",
+    "exportName": "QuoteDownSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteDownOutline",
+    "exportName": "QuoteDown",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteUpCircleOutline",
+    "exportName": "QuoteUpCircle",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteUpSquareOutline",
+    "exportName": "QuoteUpSquare",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterQuoteUpOutline",
+    "exportName": "QuoteUp",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterSmallcapsOutline",
+    "exportName": "Smallcaps",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextBlockOutline",
+    "exportName": "TextBlock",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextBoldOutline",
+    "exportName": "TextBold",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextItalicOutline",
+    "exportName": "TextItalic",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextUnderlineOutline",
+    "exportName": "TextUnderline",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextOutline",
+    "exportName": "Text",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignCenterOutline",
+    "exportName": "TextalignCenter",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignJustifycenterOutline",
+    "exportName": "TextalignJustifycenter",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignJustifyleftOutline",
+    "exportName": "TextalignJustifyleft",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignJustifyrightOutline",
+    "exportName": "TextalignJustifyright",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignLeftOutline",
+    "exportName": "TextalignLeft",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterTextalignRightOutline",
+    "exportName": "TextalignRight",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "TypeParagraphCharacterTranslateOutline",
+    "exportName": "Translate",
+    "category": "TypeParagraphCharacter",
+    "rootFolder": "outline"
+  }
+]

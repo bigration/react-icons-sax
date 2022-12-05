@@ -14,8 +14,7 @@
     "#000": "{props.color || `#000000`}"
   },
   "svgProps": {
-    "width": "{props.size || 24}",
-    "height": "{props.size || 24}",
+    "color": "{props.color || undefined}",
     "viewBox": "{props.viewBox || '0 0 24 24'}",
     "fill": "currentColor",
     "style": "{mergedStyles}"

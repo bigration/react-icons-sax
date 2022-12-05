@@ -1,0 +1,170 @@
+[
+  {
+    "importName": "SecurityAlarmTwotone",
+    "exportName": "Alarm",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityCheckTwotone",
+    "exportName": "Check",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityEyeSlashTwotone",
+    "exportName": "EyeSlash",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityEyeTwotone",
+    "exportName": "Eye",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityFingerCricleTwotone",
+    "exportName": "FingerCricle",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityFingerScanTwotone",
+    "exportName": "FingerScan",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityKeySquareTwotone",
+    "exportName": "KeySquare",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityKeyTwotone",
+    "exportName": "Key",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityLock1Twotone",
+    "exportName": "Lock1",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityLockCircleTwotone",
+    "exportName": "LockCircle",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityLockSlashTwotone",
+    "exportName": "LockSlash",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityLockTwotone",
+    "exportName": "Lock",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityPasswordCheckTwotone",
+    "exportName": "PasswordCheck",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityRadarTwotone",
+    "exportName": "Radar",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityScanBarcodeTwotone",
+    "exportName": "ScanBarcode",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityScanTwotone",
+    "exportName": "Scan",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityScannerTwotone",
+    "exportName": "Scanner",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityScanningTwotone",
+    "exportName": "Scanning",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecuritySecuritySafeTwotone",
+    "exportName": "SecuritySafe",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecuritySecurityUserTwotone",
+    "exportName": "SecurityUser",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecuritySecurityTwotone",
+    "exportName": "Security",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityShieldCrossTwotone",
+    "exportName": "ShieldCross",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityShieldSearchTwotone",
+    "exportName": "ShieldSearch",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityShieldSecurityTwotone",
+    "exportName": "ShieldSecurity",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityShieldSlashTwotone",
+    "exportName": "ShieldSlash",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityShieldTickTwotone",
+    "exportName": "ShieldTick",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityShieldTwotone",
+    "exportName": "Shield",
+    "category": "Security",
+    "rootFolder": "twotone"
+  },
+  {
+    "importName": "SecurityUnlockTwotone",
+    "exportName": "Unlock",
+    "category": "Security",
+    "rootFolder": "twotone"
+  }
+]

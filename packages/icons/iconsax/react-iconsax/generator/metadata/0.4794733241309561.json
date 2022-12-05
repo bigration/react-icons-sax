@@ -1,0 +1,608 @@
+[
+  {
+    "importName": "EssetionalSvg3DcubeOutline",
+    "exportName": "Svg3Dcube",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalSvg3FullOutline",
+    "exportName": "Svg3Full",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalAddCircleOutline",
+    "exportName": "AddCircle",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalAddSquareOutline",
+    "exportName": "AddSquare",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalAddOutline",
+    "exportName": "Add",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalArchiveOutline",
+    "exportName": "Archive",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalAutobrightnessOutline",
+    "exportName": "Autobrightness",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalBatteryChargingOutline",
+    "exportName": "BatteryCharging",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalBatteryDisableOutline",
+    "exportName": "BatteryDisable",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalBatteryEmpty1Outline",
+    "exportName": "BatteryEmpty1",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalBatteryEmptyOutline",
+    "exportName": "BatteryEmpty",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalBatteryFullOutline",
+    "exportName": "BatteryFull",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalBox2Outline",
+    "exportName": "Box2",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalBroomOutline",
+    "exportName": "Broom",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalBubbleOutline",
+    "exportName": "Bubble",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalCakeOutline",
+    "exportName": "Cake",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalCdOutline",
+    "exportName": "Cd",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalChartOutline",
+    "exportName": "Chart",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalChromeOutline",
+    "exportName": "Chrome",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalCloseCircleOutline",
+    "exportName": "CloseCircle",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalCloseSquareOutline",
+    "exportName": "CloseSquare",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalCoffeeOutline",
+    "exportName": "Coffee",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalComputingOutline",
+    "exportName": "Computing",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalCrown1Outline",
+    "exportName": "Crown1",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalCrownOutline",
+    "exportName": "Crown",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalCupOutline",
+    "exportName": "Cup",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalDangerOutline",
+    "exportName": "Danger",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalDiamondsOutline",
+    "exportName": "Diamonds",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalDiscoverOutline",
+    "exportName": "Discover",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalEmojiHappyOutline",
+    "exportName": "EmojiHappy",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalEmojiNormalOutline",
+    "exportName": "EmojiNormal",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalEmojiSadOutline",
+    "exportName": "EmojiSad",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalFilterAddOutline",
+    "exportName": "FilterAdd",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalFilterEditOutline",
+    "exportName": "FilterEdit",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalFilterRemoveOutline",
+    "exportName": "FilterRemove",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalFilterSearchOutline",
+    "exportName": "FilterSearch",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalFilterSquareOutline",
+    "exportName": "FilterSquare",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalFilterTickOutline",
+    "exportName": "FilterTick",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalFilterOutline",
+    "exportName": "Filter",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalFlag2Outline",
+    "exportName": "Flag2",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalFlagOutline",
+    "exportName": "Flag",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalFlashCircleOutline",
+    "exportName": "FlashCircle",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalFlashSlashOutline",
+    "exportName": "FlashSlash",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalFlashOutline",
+    "exportName": "Flash",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalForbidden2Outline",
+    "exportName": "Forbidden2",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalForbiddenOutline",
+    "exportName": "Forbidden",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalGhostOutline",
+    "exportName": "Ghost",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalGlassOutline",
+    "exportName": "Glass",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalGrammerlyOutline",
+    "exportName": "Grammerly",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalHappyemojiOutline",
+    "exportName": "Happyemoji",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalHome1Outline",
+    "exportName": "Home1",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalHome2Outline",
+    "exportName": "Home2",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalHomeWifiOutline",
+    "exportName": "HomeWifi",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalHomeOutline",
+    "exportName": "Home",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalInfoCircleOutline",
+    "exportName": "InfoCircle",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalInformationOutline",
+    "exportName": "Information",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalInstagramOutline",
+    "exportName": "Instagram",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalJudgeOutline",
+    "exportName": "Judge",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalLampOutline",
+    "exportName": "Lamp",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalLevelOutline",
+    "exportName": "Level",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalMenuOutline",
+    "exportName": "Menu",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalMilkOutline",
+    "exportName": "Milk",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalMinusCirlceOutline",
+    "exportName": "MinusCirlce",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalMinusSquareOutline",
+    "exportName": "MinusSquare",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalMinusOutline",
+    "exportName": "Minus",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalMirrorOutline",
+    "exportName": "Mirror",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalMoreCircleOutline",
+    "exportName": "MoreCircle",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalMoreSquareOutline",
+    "exportName": "MoreSquare",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalMouseCircleOutline",
+    "exportName": "MouseCircle",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalMouseSquareOutline",
+    "exportName": "MouseSquare",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalMouseOutline",
+    "exportName": "Mouse",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalPetOutline",
+    "exportName": "Pet",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalRankingOutline",
+    "exportName": "Ranking",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalReserveOutline",
+    "exportName": "Reserve",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalSafeHomeOutline",
+    "exportName": "SafeHome",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalSend2Outline",
+    "exportName": "Send2",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalSendOutline",
+    "exportName": "Send",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalShareOutline",
+    "exportName": "Share",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalSignpostOutline",
+    "exportName": "Signpost",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalSlashOutline",
+    "exportName": "Slash",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalSliderOutline",
+    "exportName": "Slider",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalSmartHomeOutline",
+    "exportName": "SmartHome",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalSortOutline",
+    "exportName": "Sort",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalSoundOutline",
+    "exportName": "Sound",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalSpeedometerOutline",
+    "exportName": "Speedometer",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalStatusOutline",
+    "exportName": "Status",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalStickerOutline",
+    "exportName": "Sticker",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalStoryOutline",
+    "exportName": "Story",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalTagCrossOutline",
+    "exportName": "TagCross",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalTagRightOutline",
+    "exportName": "TagRight",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalTickCircleOutline",
+    "exportName": "TickCircle",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalTickSquareOutline",
+    "exportName": "TickSquare",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalTrashOutline",
+    "exportName": "Trash",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalTreeOutline",
+    "exportName": "Tree",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalTriangleOutline",
+    "exportName": "Triangle",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalTrushSquareOutline",
+    "exportName": "TrushSquare",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalVerifyOutline",
+    "exportName": "Verify",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalWarning2Outline",
+    "exportName": "Warning2",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalWeightOutline",
+    "exportName": "Weight",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalWifiSquareOutline",
+    "exportName": "WifiSquare",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  },
+  {
+    "importName": "EssetionalWifiOutline",
+    "exportName": "Wifi",
+    "category": "Essetional",
+    "rootFolder": "outline"
+  }
+]
