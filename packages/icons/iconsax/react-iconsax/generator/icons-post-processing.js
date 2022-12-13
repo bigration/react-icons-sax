@@ -1,5 +1,6 @@
 const path = require('path');
 const fs = require('fs');
+const lodash = require('lodash');
 
 const directoryPath = path.join(__dirname, 'metadata');
 
@@ -17,10 +18,12 @@ async function postProcess() {
     return a.concat(b);
   }, []);
 
+  const groupByRootFolder = lodash.groupBy(merge, (item) => item.rootFolder);
+
   await fs.promises.writeFile(
     `${directoryPath}/../../src/metadata.ts`,
-    `export const metadata: Array<{importName: string, exportName: string, category: string, rootFolder: string}> = ${JSON.stringify(
-      merge
+    `export const metadata: Record<string, Array<{importName: string, exportName: string, category: string, rootFolder: string}>> = ${JSON.stringify(
+      groupByRootFolder
     )}`,
     function (err) {
       if (err) throw err;

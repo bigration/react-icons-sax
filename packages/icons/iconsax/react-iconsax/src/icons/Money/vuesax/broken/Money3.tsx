@@ -16,7 +16,7 @@ const SvgMoney3 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgMoney3 = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M2 8.5c0-3.5 2-5 5-5h10c3 0 5 1.5 5 5v7c0 3.5-2 5-5 5H7c-3 0-5-1.5-5-5v-2.97"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -32,7 +32,7 @@ const SvgMoney3 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="M15 12c0-1.66-1.34-3-3-3s-3 1.34-3 3 1.34 3 3 3M19 7h-3M8 17H5"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

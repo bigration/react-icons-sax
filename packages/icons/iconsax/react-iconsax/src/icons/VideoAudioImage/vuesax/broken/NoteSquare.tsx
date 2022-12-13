@@ -2,7 +2,7 @@
 import * as React from 'react';
 import { SVGProps } from 'react';
 type IconProps = {
-  size?: number,
+  size?: number;
 };
 const SvgNoteSquare = (props: IconProps & SVGProps<SVGSVGElement>) => {
   const mergedStyles = {
@@ -16,7 +16,7 @@ const SvgNoteSquare = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgNoteSquare = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M2 13.012v1.99c0 5 2 7 7 7h2M22 10V9c0-5-2-7-7-7H9C4 2 2 4 2 9M15.512 22a2 2 0 1 0 0-4 2 2 0 0 0 0 4ZM17.512 20.002v-6.99M18.822 12.071l2.21.74c.53.18.97.78.97 1.35v.59c0 .76-.59 1.19-1.31.95l-2.21-.74c-.53-.18-.97-.78-.97-1.35v-.59c0-.77.59-1.19 1.31-.95Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

@@ -16,7 +16,7 @@ const SvgSearchZoomIn = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgSearchZoomIn = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M8.5 11h5M11 13.5v-5M11 2a9 9 0 1 1-4.07.97M19.071 20.97c.53 1.6 1.74 1.76 2.67.36.86-1.28.3-2.33-1.24-2.33-1.15 0-1.79.89-1.43 1.97Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

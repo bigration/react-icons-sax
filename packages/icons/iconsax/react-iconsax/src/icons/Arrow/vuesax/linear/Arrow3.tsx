@@ -16,7 +16,7 @@ const SvgArrow3 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgArrow3 = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M10.45 6.72 6.73 3 3.01 6.72M6.73 21V3M13.55 17.28 17.27 21l3.72-3.72M17.27 3v18"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

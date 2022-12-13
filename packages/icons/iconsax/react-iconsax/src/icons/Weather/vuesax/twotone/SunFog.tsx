@@ -2,7 +2,7 @@
 import * as React from 'react';
 import { SVGProps } from 'react';
 type IconProps = {
-  size?: number,
+  size?: number;
 };
 const SvgSunFog = (props: IconProps & SVGProps<SVGSVGElement>) => {
   const mergedStyles = {
@@ -16,7 +16,7 @@ const SvgSunFog = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,14 +24,14 @@ const SvgSunFog = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M18.5 12a6.5 6.5 0 1 0-13 0"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <path
         d="m4.99 4.99-.13-.13m14.15.13.13-.13-.13.13ZM12 2.08V2v.08ZM2.08 12H2h.08ZM22 12h-.08.08Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={2}
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -39,7 +39,7 @@ const SvgSunFog = (props: IconProps & SVGProps<SVGSVGElement>) => {
       <path
         opacity={0.4}
         d="M4 15h16"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -47,7 +47,7 @@ const SvgSunFog = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="M6 18h12"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -56,7 +56,7 @@ const SvgSunFog = (props: IconProps & SVGProps<SVGSVGElement>) => {
       <path
         opacity={0.4}
         d="M9 21h6"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

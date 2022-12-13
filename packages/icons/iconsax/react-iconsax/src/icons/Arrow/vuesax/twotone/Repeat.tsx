@@ -16,7 +16,7 @@ const SvgRepeat = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgRepeat = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <g
         opacity={0.4}
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -35,7 +35,7 @@ const SvgRepeat = (props: IconProps & SVGProps<SVGSVGElement>) => {
       </g>
       <path
         d="M20.418 18.84H6.578c-1.66 0-3-1.34-3-3v-3.32"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -43,7 +43,7 @@ const SvgRepeat = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="m17.262 22 3.16-3.16-3.16-3.16"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

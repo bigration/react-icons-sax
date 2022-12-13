@@ -16,7 +16,7 @@ const SvgSolanaSol = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -25,16 +25,16 @@ const SvgSolanaSol = (props: IconProps & SVGProps<SVGSVGElement>) => {
       <path d="M24 0H0v24h24V0Z" fill="#fff" />
       <path
         d="M20 3.5H5.5c-.31 0-.61.15-.8.4l-1.5 2c-.49.66-.02 1.6.8 1.6h14.5c.31 0 .61-.15.8-.4l1.5-2c.49-.66.02-1.6-.8-1.6Z"
-        fill="#292D32"
+        fill="currentColor"
       />
       <path
         opacity={0.4}
         d="M4 10h14.5c.31 0 .61.15.8.4l1.5 2c.49.66.02 1.6-.8 1.6H5.5c-.31 0-.61-.15-.8-.4l-1.5-2c-.49-.66-.02-1.6.8-1.6Z"
-        fill="#292D32"
+        fill="currentColor"
       />
       <path
         d="M20 16.5H5.5c-.31 0-.61.15-.8.4l-1.5 2c-.49.66-.02 1.6.8 1.6h14.5c.31 0 .61-.15.8-.4l1.5-2c.49-.66.02-1.6-.8-1.6Z"
-        fill="#292D32"
+        fill="currentColor"
       />
     </svg>
   );

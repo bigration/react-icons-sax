@@ -16,7 +16,7 @@ const SvgDesigntools = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,14 +24,14 @@ const SvgDesigntools = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M10.43 17.619c0 1.1-.42 2.15-1.21 2.95-.61.61-1.44 1.03-2.43 1.16l-2.46.27c-1.34.15-2.49-.99-2.33-2.35l.27-2.46c.24-2.19 2.07-3.59 4.01-3.63.2-.01.41 0 .6.01.85.11 1.68.5 2.36 1.19.67.67 1.05 1.45 1.16 2.29.01.19.03.38.03.57Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <g
         opacity={0.4}
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -41,14 +41,14 @@ const SvgDesigntools = (props: IconProps & SVGProps<SVGSVGElement>) => {
       </g>
       <path
         d="m20.12 12.73.74.73c1.49 1.49 1.49 2.96 0 4.45l-2.96 2.96c-1.47 1.47-2.96 1.47-4.43 0M3.11 10.509c-1.47-1.49-1.47-2.96 0-4.45l2.96-2.96c1.47-1.47 2.96-1.47 4.43 0l.74.74"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
       />
       <path
         opacity={0.4}
         d="m11.25 3.852-3.7 3.7M20.12 12.73l-2.96 2.95"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
       />

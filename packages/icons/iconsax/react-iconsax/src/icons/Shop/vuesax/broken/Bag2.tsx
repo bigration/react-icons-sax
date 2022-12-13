@@ -2,7 +2,7 @@
 import * as React from 'react';
 import { SVGProps } from 'react';
 type IconProps = {
-  size?: number,
+  size?: number;
 };
 const SvgBag2 = (props: IconProps & SVGProps<SVGSVGElement>) => {
   const mergedStyles = {
@@ -16,7 +16,7 @@ const SvgBag2 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgBag2 = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M7.5 7.67V6.7c0-2.25 1.81-4.46 4.06-4.67a4.5 4.5 0 0 1 4.94 4.48v1.38M3.81 16.56l.23 1.87C4.26 20.39 4.98 22 9 22h6c4.02 0 4.74-1.61 4.95-3.57l.75-6C20.97 9.99 20.27 8 16 8H8c-4.27 0-4.97 1.99-4.7 4.43"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -32,7 +32,7 @@ const SvgBag2 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="M15.495 12h.009M8.495 12h.008"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={2}
         strokeLinecap="round"
         strokeLinejoin="round"

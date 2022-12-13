@@ -2,7 +2,7 @@
 import * as React from 'react';
 import { SVGProps } from 'react';
 type IconProps = {
-  size?: number,
+  size?: number;
 };
 const SvgPaperclip2 = (props: IconProps & SVGProps<SVGSVGElement>) => {
   const mergedStyles = {
@@ -16,7 +16,7 @@ const SvgPaperclip2 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgPaperclip2 = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="m5.762 8.809-1.21 1.21c-2.34 2.34-2.34 6.14 0 8.49M12.33 12.152l-2.47 2.47a3.495 3.495 0 0 0 0 4.95 3.495 3.495 0 0 0 4.95 0l3.89-3.89a7.007 7.007 0 0 0 0-9.9 7.007 7.007 0 0 0-9.9 0"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

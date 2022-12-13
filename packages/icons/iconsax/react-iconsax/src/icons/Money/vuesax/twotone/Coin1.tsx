@@ -16,7 +16,7 @@ const SvgCoin1 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgCoin1 = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <g
         opacity={0.4}
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -33,7 +33,7 @@ const SvgCoin1 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       </g>
       <path
         d="M9.99 17.98A7.99 7.99 0 1 0 9.99 2a7.99 7.99 0 0 0 0 15.98Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -41,7 +41,7 @@ const SvgCoin1 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       <path
         opacity={0.4}
         d="M12.98 19.88c.9 1.27 2.37 2.1 4.05 2.1 2.73 0 4.95-2.22 4.95-4.95 0-1.66-.82-3.13-2.07-4.03"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

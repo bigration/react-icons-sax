@@ -16,7 +16,7 @@ const SvgOkbOkb = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgOkbOkb = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M17 17a5 5 0 1 0 0-10 5 5 0 0 0 0 10Z"
-        stroke="#17191C"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -32,7 +32,7 @@ const SvgOkbOkb = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="M12 22a5 5 0 1 0 0-10 5 5 0 0 0 0 10ZM12 12a5 5 0 1 0 0-10 5 5 0 0 0 0 10Z"
-        stroke="#17191C"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -40,7 +40,7 @@ const SvgOkbOkb = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="M7 17A5 5 0 1 0 7 7a5 5 0 0 0 0 10Z"
-        stroke="#17191C"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

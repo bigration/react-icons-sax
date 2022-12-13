@@ -16,7 +16,7 @@ const SvgBus = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,21 +24,21 @@ const SvgBus = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M4 14.96V5.1C4 3.4 5.39 2 7.1 2h9.8C18.6 2 20 3.39 20 5.1v13.8c0 1.7-1.39 3.1-3.1 3.1H7.1C5.4 22 4 20.61 4 18.9"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <path
         d="M18.5 13c.83 0 1.5-.67 1.5-1.5v-2c0-.83-.67-1.5-1.5-1.5h-13C4.67 8 4 8.67 4 9.5v2c0 .83.67 1.5 1.5 1.5h8.53M9.5 5h5"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <path
         d="M8.495 17.7h.008M15.495 17.7h.009"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={2.5}
         strokeLinecap="round"
         strokeLinejoin="round"

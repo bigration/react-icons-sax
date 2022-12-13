@@ -16,7 +16,7 @@ const SvgArrowLeft3 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -25,11 +25,11 @@ const SvgArrowLeft3 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       <path
         opacity={0.4}
         d="m10.768 8.52 5.05 3.79v5.61c0 .96-1.16 1.44-1.84.76l-5.18-5.17a2.13 2.13 0 0 1 0-3.01l1.97-1.98Z"
-        fill="#292D32"
+        fill="currentColor"
       />
       <path
         d="M15.82 6.082v6.23l-5.05-3.79 3.21-3.21c.68-.67 1.84-.19 1.84.77Z"
-        fill="#292D32"
+        fill="currentColor"
       />
     </svg>
   );

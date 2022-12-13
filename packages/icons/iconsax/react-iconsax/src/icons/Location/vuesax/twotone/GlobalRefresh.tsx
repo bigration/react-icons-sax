@@ -16,7 +16,7 @@ const SvgGlobalRefresh = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,14 +24,14 @@ const SvgGlobalRefresh = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <g
         opacity={0.4}
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -41,7 +41,7 @@ const SvgGlobalRefresh = (props: IconProps & SVGProps<SVGSVGElement>) => {
       </g>
       <path
         d="M19.502 14.7c-.37-.11-.79-.18-1.25-.18a3.74 3.74 0 0 0 0 7.48c2.06 0 3.74-1.68 3.74-3.74a3.7 3.7 0 0 0-.63-2.08M20.043 14.801l-1.25-1.43M20.042 14.8l-1.46 1.06"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

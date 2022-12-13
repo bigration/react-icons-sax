@@ -16,7 +16,7 @@ const SvgArrowSwap = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,15 +24,15 @@ const SvgArrowSwap = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M9.011 21.25c-.19 0-.38-.07-.53-.22l-5.01-5.01a.754.754 0 0 1 0-1.06c.29-.29.77-.29 1.06 0l5.01 5.01c.29.29.29.77 0 1.06-.15.14-.34.22-.53.22Z"
-        fill="#292D32"
+        fill="currentColor"
       />
       <path
         d="M9.012 21.25c-.41 0-.75-.34-.75-.75v-17c0-.41.34-.75.75-.75s.75.34.75.75v17c0 .41-.34.75-.75.75ZM20.011 9.261c-.19 0-.38-.07-.53-.22l-5.01-5.01a.754.754 0 0 1 0-1.06c.29-.29.77-.29 1.06 0l5.01 5.01c.29.29.29.77 0 1.06-.15.15-.34.22-.53.22Z"
-        fill="#292D32"
+        fill="currentColor"
       />
       <path
         d="M14.988 21.25c-.41 0-.75-.34-.75-.75v-17c0-.41.34-.75.75-.75s.75.34.75.75v17c0 .41-.33.75-.75.75Z"
-        fill="#292D32"
+        fill="currentColor"
       />
     </svg>
   );

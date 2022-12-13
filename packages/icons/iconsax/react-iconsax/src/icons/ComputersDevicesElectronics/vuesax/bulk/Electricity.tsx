@@ -16,7 +16,7 @@ const SvgElectricity = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -25,11 +25,11 @@ const SvgElectricity = (props: IconProps & SVGProps<SVGSVGElement>) => {
       <path
         opacity={0.4}
         d="M10.5 16h3c2.5 0 4-1.8 4-4V6.91c0-1.05-.86-1.91-1.91-1.91H8.42c-1.05 0-1.91.86-1.91 1.91V12C6.5 14.2 8 16 10.5 16Z"
-        fill="#292D32"
+        fill="currentColor"
       />
       <path
         d="M10.25 2v3h-1.5V2c0-.41.34-.75.75-.75s.75.34.75.75ZM15.25 2v3h-1.5V2c0-.41.34-.75.75-.75s.75.34.75.75ZM12.75 16v6c0 .41-.34.75-.75.75s-.75-.34-.75-.75v-6h1.5Z"
-        fill="#292D32"
+        fill="currentColor"
       />
     </svg>
   );

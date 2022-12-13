@@ -16,7 +16,7 @@ const SvgGemini = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,14 +24,14 @@ const SvgGemini = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M2 2a19.45 19.45 0 0 0 20 0M2 22.002a19.45 19.45 0 0 1 20 0"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <path
         d="M6.87 7.512c1.13 4.3.62 8.91-1.53 12.89M18.67 20.408a17.683 17.683 0 0 1-.1-16.59l.13-.24"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

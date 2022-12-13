@@ -16,7 +16,7 @@ const SvgPenClose = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgPenClose = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <g
         opacity={0.4}
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -34,7 +34,7 @@ const SvgPenClose = (props: IconProps & SVGProps<SVGSVGElement>) => {
       </g>
       <path
         d="M11 6.5c0 .41-.06.82-.17 1.2a4.455 4.455 0 0 1-1.37 2.18C8.67 10.58 7.64 11 6.5 11c-.51 0-.99-.08-1.44-.24a4.466 4.466 0 0 1-2.41-1.94A4.5 4.5 0 0 1 2 6.5c0-1.42.65-2.69 1.69-3.51A4.494 4.494 0 0 1 11 6.5ZM7.7 7.68 5.32 5.3M7.68 5.32 5.3 7.7"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

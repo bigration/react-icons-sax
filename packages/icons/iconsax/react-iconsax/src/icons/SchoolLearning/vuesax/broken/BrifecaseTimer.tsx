@@ -16,7 +16,7 @@ const SvgBrifecaseTimer = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgBrifecaseTimer = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M12 18.2a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -32,7 +32,7 @@ const SvgBrifecaseTimer = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="M12.25 12.95v.93c0 .35-.18.68-.49.86l-.76.46"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -40,7 +40,7 @@ const SvgBrifecaseTimer = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="M20.95 18.43C20.74 20.39 20.02 22 16 22H8c-4.02 0-4.74-1.61-4.95-3.57l-.75-8C2.03 7.99 2.73 6 7 6h10c4.27 0 4.97 1.99 4.7 4.43L21.37 14M8 6v-.8C8 3.43 8 2 11.2 2h1.6C16 2 16 3.43 16 5.2V6"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -48,7 +48,7 @@ const SvgBrifecaseTimer = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="M21.652 11a16.335 16.335 0 0 1-5.64 2.64M2.621 11.27c1.67 1.14 3.49 1.95 5.38 2.41"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

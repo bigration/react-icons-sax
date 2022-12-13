@@ -16,7 +16,7 @@ const SvgReceived = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgReceived = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M16.59 5.91 19 3.5M5 17.501l8.38-8.38M5 7.23V17.5h10.27M3.5 22h17"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

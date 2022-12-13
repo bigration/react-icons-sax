@@ -16,7 +16,7 @@ const SvgAugurRep = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,13 +24,13 @@ const SvgAugurRep = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z"
-        stroke="#17191C"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
       />
       <path
         d="m9 11 2.5-5h1l2.5 5M8 13l-1 2 5 3 5-3-1-2"
-        stroke="#17191C"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

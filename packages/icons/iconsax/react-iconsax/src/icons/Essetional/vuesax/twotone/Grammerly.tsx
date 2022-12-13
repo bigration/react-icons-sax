@@ -16,7 +16,7 @@ const SvgGrammerly = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgGrammerly = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M19.07 4.948c3.97 3.97 3.9 10.45-.2 14.34-3.79 3.59-9.94 3.59-13.74 0-4.11-3.89-4.18-10.37-.2-14.34 3.9-3.91 10.24-3.91 14.14 0Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -32,7 +32,7 @@ const SvgGrammerly = (props: IconProps & SVGProps<SVGSVGElement>) => {
       <path
         opacity={0.4}
         d="M15.84 16.07c-2.12 2-5.56 2-7.67 0"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

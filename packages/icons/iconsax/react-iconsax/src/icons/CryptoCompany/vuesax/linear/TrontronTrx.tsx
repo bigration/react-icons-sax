@@ -16,7 +16,7 @@ const SvgTrontronTrx = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgTrontronTrx = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="m2.6 3.6 6.7 16.8c.4.9 1.1 1 1.7.2l9.4-11.9c.3-.4.3-1-.1-1.3l-3.1-3.1c-.1-.2-.4-.3-.5-.3l-13-1.7c-.9-.2-1.4.4-1.1 1.3Z"
-        stroke="#17191C"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -32,7 +32,7 @@ const SvgTrontronTrx = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="m10 21 1-11-8-7.1M17 4l-6 6 9-1.8"
-        stroke="#17191C"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

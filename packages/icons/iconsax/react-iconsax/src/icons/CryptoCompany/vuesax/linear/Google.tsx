@@ -16,7 +16,7 @@ const SvgGoogle = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgGoogle = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M15.2 3H8.8L1.4 15.7 4.6 21h14.8s3.2-5.5 3.2-5.4c0 .1-7.4-12.6-7.4-12.6ZM8.8 3l10.6 18M15.2 3 4.6 21M1.5 15.7H22"
-        stroke="#17191C"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

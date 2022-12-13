@@ -16,7 +16,7 @@ const SvgFlag2 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgFlag2 = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M6.45 2v20"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -33,7 +33,7 @@ const SvgFlag2 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       <path
         opacity={0.34}
         d="m6.95 4 8.1 3.5c3.3 1.4 3.3 3.8.2 5.4L6.95 17"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

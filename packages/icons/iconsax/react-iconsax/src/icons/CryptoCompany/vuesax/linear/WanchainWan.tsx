@@ -16,7 +16,7 @@ const SvgWanchainWan = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgWanchainWan = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M16.5 8.9 12 6.2 7.5 8.9M7.5 9v6.1l4.5-2.7 4.5 2.7V9M14.2 16.2 12 17.7l-2.2-1.5"
-        stroke="#17191C"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -32,7 +32,7 @@ const SvgWanchainWan = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z"
-        stroke="#17191C"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

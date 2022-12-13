@@ -16,7 +16,7 @@ const SvgArrowSwap = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgArrowSwap = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="m14.988 3.5 5.02 5.01M14.988 13.01V3.5M14.988 20.5V17M9.008 20.498l-5.02-5.01M9.012 10.988v9.51M9.012 3.5V7"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

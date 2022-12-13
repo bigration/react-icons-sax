@@ -16,7 +16,7 @@ const SvgWindows = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -28,20 +28,20 @@ const SvgWindows = (props: IconProps & SVGProps<SVGSVGElement>) => {
         fillRule="evenodd"
         clipRule="evenodd"
         d="m20.8 2.241-8 1.6c-.47.09-.8.5-.8.98v5.18c0 .55.45 1 1 1h8c.55 0 1-.45 1-1v-6.78c0-.63-.58-1.1-1.2-.98Z"
-        fill="#292D32"
+        fill="currentColor"
       />
       <path
         fillRule="evenodd"
         clipRule="evenodd"
         d="m20.8 21.76-8-1.6c-.47-.09-.8-.5-.8-.98V14c0-.55.45-1 1-1h8c.55 0 1 .45 1 1v6.78c0 .63-.58 1.1-1.2.98ZM8.79 4.56l-6 1.28c-.46.1-.79.51-.79.98V10c0 .55.45 1 1 1h6c.55 0 1-.45 1-1V5.53c0-.63-.59-1.11-1.21-.97Z"
-        fill="#292D32"
+        fill="currentColor"
       />
       <path
         opacity={0.4}
         fillRule="evenodd"
         clipRule="evenodd"
         d="m8.79 19.44-6-1.28c-.46-.1-.79-.51-.79-.98V14c0-.55.45-1 1-1h6c.55 0 1 .45 1 1v4.47c0 .63-.59 1.11-1.21.97Z"
-        fill="#292D32"
+        fill="currentColor"
       />
     </svg>
   );

@@ -35,7 +35,7 @@ for dir in packages/icons/iconsax/iconsax-assets/src/lib/icons/*/; do
 done
 
 echo "Post processing"
-node ./generator/icons-post-processing.js
+node $LIB_PATH//packages/icons/iconsax/react-iconsax/generator/icons-post-processing.js
 MAIN_INDEX_ARRAY+=("export {metadata} from './metadata';")
 
 printf '%s\n' "${MAIN_INDEX_ARRAY[@]}" > $LIB_PATH/packages/icons/iconsax/react-iconsax/src/index.ts

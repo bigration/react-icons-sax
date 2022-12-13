@@ -16,7 +16,7 @@ const SvgRotateRight = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgRotateRight = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M3.328 13.328c0 4.79 3.88 8.67 8.67 8.67s8.67-3.88 8.67-8.67c0-1.78-.54-3.44-1.46-4.82m-4.32-3.43c-.87-.26-1.83-.43-2.89-.43-3.21 0-6.02 1.75-7.51 4.34M15.128 5.32 12.238 2M15.132 5.32l-3.37 2.46"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

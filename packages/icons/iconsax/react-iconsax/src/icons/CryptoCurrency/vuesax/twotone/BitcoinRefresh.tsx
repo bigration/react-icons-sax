@@ -16,7 +16,7 @@ const SvgBitcoinRefresh = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,21 +24,21 @@ const SvgBitcoinRefresh = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M4.47 11.42 2.73 9.68 1 11.42M19.53 12.578l1.74 1.74 1.74-1.74"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <path
         d="M21.26 14.318v-2.32c0-5.12-4.15-9.26-9.26-9.26-2.92 0-5.53 1.36-7.23 3.47M2.74 9.68V12c0 5.12 4.15 9.26 9.26 9.26 2.92 0 5.53-1.36 7.23-3.47"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <g
         opacity={0.4}
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

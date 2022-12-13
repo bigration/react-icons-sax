@@ -16,7 +16,7 @@ const SvgFlash = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,12 +24,12 @@ const SvgFlash = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M12 3.672v16.66l-.8.91c-1.11 1.26-2.02.92-2.02-.76v-7.2H6.09c-1.4 0-1.79-.86-.86-1.91l6.77-7.7Z"
-        fill="#292D32"
+        fill="currentColor"
       />
       <path
         opacity={0.4}
         d="M18.77 12.63 12 20.33V3.67l.8-.91c1.11-1.26 2.02-.92 2.02.76v7.2h3.09c1.4 0 1.79.86.86 1.91Z"
-        fill="#292D32"
+        fill="currentColor"
       />
     </svg>
   );

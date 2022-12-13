@@ -11,12 +11,13 @@
     "#FFFFFF": "{props.color || `#FFFFFF`}",
     "black": "{props.color || `#000000`}",
     "#111111": "{props.color || `#000000`}",
-    "#000": "{props.color || `#000000`}"
+    "#000": "{props.color || `#000000`}",
+    "#292D32": "currentColor",
+    "#17191C": "currentColor"
   },
   "svgProps": {
     "color": "{props.color || undefined}",
     "viewBox": "{props.viewBox || '0 0 24 24'}",
-    "fill": "currentColor",
     "style": "{mergedStyles}"
   }
 }

@@ -16,7 +16,7 @@ const SvgOkbOkb = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -26,28 +26,34 @@ const SvgOkbOkb = (props: IconProps & SVGProps<SVGSVGElement>) => {
       <path
         opacity={0.4}
         d="M22 12c0 2.76-2.24 5-5 5 0-2.76-2.24-5-5-5 2.76 0 5-2.24 5-5 2.76 0 5 2.24 5 5Z"
-        fill="#292D32"
+        fill="currentColor"
       />
-      <path d="M17 17c-2.76 0-5-2.24-5-5 2.76 0 5 2.24 5 5Z" fill="#292D32" />
+      <path
+        d="M17 17c-2.76 0-5-2.24-5-5 2.76 0 5 2.24 5 5Z"
+        fill="currentColor"
+      />
       <path
         opacity={0.4}
         d="M17 17c0 2.76-2.24 5-5 5s-5-2.24-5-5c2.76 0 5-2.24 5-5 0 2.76 2.24 5 5 5Z"
-        fill="#292D32"
+        fill="currentColor"
       />
-      <path d="M17 7c0 2.76-2.24 5-5 5 0-2.76 2.24-5 5-5Z" fill="#292D32" />
+      <path
+        d="M17 7c0 2.76-2.24 5-5 5 0-2.76 2.24-5 5-5Z"
+        fill="currentColor"
+      />
       <path
         opacity={0.4}
         d="M17 7c-2.76 0-5 2.24-5 5 0-2.76-2.24-5-5-5 0-2.76 2.24-5 5-5s5 2.24 5 5Z"
-        fill="#292D32"
+        fill="currentColor"
       />
       <path
         d="M12 12c0 2.76-2.24 5-5 5 0-2.76 2.24-5 5-5ZM12 12c-2.76 0-5-2.24-5-5 2.76 0 5 2.24 5 5Z"
-        fill="#292D32"
+        fill="currentColor"
       />
       <path
         opacity={0.4}
         d="M12 12c-2.76 0-5 2.24-5 5-2.76 0-5-2.24-5-5s2.24-5 5-5c0 2.76 2.24 5 5 5Z"
-        fill="#292D32"
+        fill="currentColor"
       />
     </svg>
   );

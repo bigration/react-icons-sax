@@ -16,7 +16,7 @@ const SvgNoteRemove = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgNoteRemove = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M7 14h5M7 5.96 3.25 2.21M6.96 2.25 3.21 6M7 10h8M21 12v4M10 2h6c3.33.18 5 1.41 5 5.99M3 9.012v6.97c0 4.01 1 6.02 6 6.02h6"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -32,7 +32,7 @@ const SvgNoteRemove = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="m21 16-6 6v-3c0-2 1-3 3-3h3Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

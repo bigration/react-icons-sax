@@ -16,7 +16,7 @@ const SvgCeloCelo = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,13 +24,13 @@ const SvgCeloCelo = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M15 16a7 7 0 1 0 0-14 7 7 0 0 0 0 14Z"
-        stroke="#17191C"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
       />
       <path
         d="M9 22A7 7 0 1 0 9 8a7 7 0 0 0 0 14Z"
-        stroke="#17191C"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
       />

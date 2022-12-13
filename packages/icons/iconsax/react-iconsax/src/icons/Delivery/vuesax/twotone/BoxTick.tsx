@@ -16,7 +16,7 @@ const SvgBoxTick = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgBoxTick = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M23.001 17.911c.02.75-.18 1.46-.54 2.07-.2.36-.47.69-.77.96-.69.64-1.6 1.03-2.61 1.06-1.46.03-2.75-.72-3.46-1.87-.38-.59-.61-1.3-.62-2.05a3.97 3.97 0 0 1 1.43-3.15c.68-.56 1.54-.91 2.48-.93a4 4 0 0 1 4.09 3.91Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -32,14 +32,14 @@ const SvgBoxTick = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="m17.441 18.033 1.01.96 2.09-2.02"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <g
         opacity={0.4}
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

@@ -16,7 +16,7 @@ const SvgStatusUp = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -25,17 +25,22 @@ const SvgStatusUp = (props: IconProps & SVGProps<SVGSVGElement>) => {
       <path
         opacity={0.4}
         d="M6.88 18.148v-2.07M12 18.152v-4.14M17.12 18.15v-6.22"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
       />
-      <g opacity={0.4} stroke="#292D32" strokeWidth={1.5} strokeLinecap="round">
+      <g
+        opacity={0.4}
+        stroke="currentColor"
+        strokeWidth={1.5}
+        strokeLinecap="round"
+      >
         <path d="m17.119 5.852-.46.54a18.882 18.882 0 0 1-9.78 6.04" />
         <path d="M14.19 5.852h2.93v2.92" strokeLinejoin="round" />
       </g>
       <path
         d="M9 22h6c5 0 7-2 7-7V9c0-5-2-7-7-7H9C4 2 2 4 2 9v6c0 5 2 7 7 7Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

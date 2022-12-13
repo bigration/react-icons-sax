@@ -16,7 +16,7 @@ const SvgCard = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -25,11 +25,11 @@ const SvgCard = (props: IconProps & SVGProps<SVGSVGElement>) => {
       <path
         opacity={0.4}
         d="M22 9v7.46c0 2.29-1.86 4.14-4.15 4.14H6.15C3.86 20.6 2 18.75 2 16.46V9h20Z"
-        fill="#292D32"
+        fill="currentColor"
       />
       <path
         d="M22 7.538v1.46H2v-1.46c0-2.29 1.86-4.14 4.15-4.14h11.7c2.29 0 4.15 1.85 4.15 4.14ZM8 17.25H6c-.41 0-.75-.34-.75-.75s.34-.75.75-.75h2c.41 0 .75.34.75.75s-.34.75-.75.75ZM14.5 17.25h-4c-.41 0-.75-.34-.75-.75s.34-.75.75-.75h4c.41 0 .75.34.75.75s-.34.75-.75.75Z"
-        fill="#292D32"
+        fill="currentColor"
       />
     </svg>
   );

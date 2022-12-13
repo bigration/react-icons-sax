@@ -16,7 +16,7 @@ const SvgMoneyTime = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgMoneyTime = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M14.5 12a2.5 2.5 0 0 0-5 0 2.5 2.5 0 0 0 2.5 2.5M18.5 9.5v5M5 22a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -32,7 +32,7 @@ const SvgMoneyTime = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="M5.25 16.75v.93c0 .35-.18.68-.49.86L4 19"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -40,7 +40,7 @@ const SvgMoneyTime = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="M2 15.2V9c0-3.5 2-5 5-5h10c3 0 5 1.5 5 5v6c0 3.5-2 5-5 5H8.5"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

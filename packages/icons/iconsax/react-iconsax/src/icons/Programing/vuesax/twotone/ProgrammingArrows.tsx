@@ -16,7 +16,7 @@ const SvgProgrammingArrows = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,14 +24,14 @@ const SvgProgrammingArrows = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M19 22a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <g
         opacity={0.4}
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -42,7 +42,7 @@ const SvgProgrammingArrows = (props: IconProps & SVGProps<SVGSVGElement>) => {
       </g>
       <path
         d="M5 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

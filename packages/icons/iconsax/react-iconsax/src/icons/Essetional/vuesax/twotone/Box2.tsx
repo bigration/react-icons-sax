@@ -16,7 +16,7 @@ const SvgBox2 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,14 +24,14 @@ const SvgBox2 = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M14.22 9.78 12 10.89m0 0L9.78 9.78M12 10.89v2.78m2.22-10.56L12 2 9.78 3.11M5.33 18.67l-2.22-1.11v-2.78m15.56 3.89 2.22-1.11v-2.78"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <g
         opacity={0.4}
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

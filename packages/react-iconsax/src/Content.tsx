@@ -5,24 +5,17 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Link from '@mui/material/Link';
 import * as Lib from '@bigration/react-iconsax';
-import { ListChildComponentProps } from 'react-window';
 import { FixedSizeGrid as Grid } from 'react-window';
-import { Stack, Theme } from '@mui/material';
-import { useMediaQuery } from '@mui/material';
+import { Stack, Theme, useMediaQuery } from '@mui/material';
 import { TwitterPicker } from 'react-color';
 import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
 import FormControl from '@mui/material/FormControl';
 import Select, { SelectChangeEvent } from '@mui/material/Select';
 import Slider from '@mui/material/Slider';
-import { groupBy } from 'lodash';
+import { IconDialog } from './IconDialog';
 
 export default function Content() {
-  const groupByRootFolder = React.useMemo(
-    () => groupBy(Lib.metadata, (item) => item.rootFolder),
-    [Lib.metadata]
-  );
-
   const S = useMediaQuery((theme: Theme) => theme.breakpoints.up('sm'));
   const M = useMediaQuery((theme: Theme) => theme.breakpoints.up('md'));
   const [control, setControl] = React.useState<{
@@ -43,21 +36,21 @@ export default function Content() {
     grid.cols = 4;
   }
 
-  let columnWidth = 100;
+  const columnWidth = 100;
 
   const colorChange = (color) => {
     setControl({ ...control, color: color.hex });
   };
 
-  const handleSizeChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+  const handleSizeChange = (event: Event, newValue: number | number[]) => {
     setControl({
       ...control,
-      size: event.target.value === '' ? 24 : Number(event.target.value),
+      size: !newValue ? 24 : Number(newValue as number),
     });
   };
 
   const handleFolderChange = (event: SelectChangeEvent) => {
-    setControl({ ...control, folder: event.target.value as string });
+    setControl({ ...control, folder: event.target.value });
   };
 
   return (
@@ -93,7 +86,7 @@ export default function Content() {
                 label="Icon type"
                 onChange={handleFolderChange}
               >
-                {Object.keys(groupByRootFolder).map((folder) => (
+                {Object.keys(Lib.metadata).map((folder) => (
                   <MenuItem value={folder} key={folder}>
                     {folder}
                   </MenuItem>
@@ -127,13 +120,13 @@ export default function Content() {
             columnCount={grid.cols}
             columnWidth={columnWidth}
             height={600}
-            rowCount={groupByRootFolder?.[control.folder]?.length || 0}
-            rowHeight={control.size + 5}
+            rowCount={Lib.metadata?.[control.folder]?.length || 0}
+            rowHeight={control.size + 60}
             width={columnWidth * grid.cols}
           >
             {({ columnIndex, rowIndex, style }) => {
               const item =
-                groupByRootFolder?.[control.folder]?.[
+                Lib.metadata?.[control.folder]?.[
                   rowIndex * grid.cols + columnIndex
                 ];
 
@@ -143,6 +136,9 @@ export default function Content() {
 
               const Icon = Lib[item.importName];
 
+              if (!Icon) {
+                return <div>{item.importName}</div>;
+              }
               return (
                 <div
                   className={
@@ -156,7 +152,7 @@ export default function Content() {
                   }
                   style={style}
                 >
-                  <Icon size={control.size} color={control.color} />
+                  <IconDialog Icon={Icon} item={item} control={control} />
                 </div>
               );
             }}

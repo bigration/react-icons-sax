@@ -16,18 +16,18 @@ const SvgFrame = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
       {...props}
     >
       <path d="M24 0H0v24h24V0Z" fill="#fff" />
-      <path d="m12 6 5-3 5 3v12l-5 3-10-6V9l10 6V9l-5-3Z" fill="#292D32" />
+      <path d="m12 6 5-3 5 3v12l-5 3-10-6V9l10 6V9l-5-3Z" fill="currentColor" />
       <path
         opacity={0.4}
         d="m12 18-5 3-5-3V6l5-3 10 6v6L7 9v6l5 3Z"
-        fill="#292D32"
+        fill="currentColor"
       />
     </svg>
   );

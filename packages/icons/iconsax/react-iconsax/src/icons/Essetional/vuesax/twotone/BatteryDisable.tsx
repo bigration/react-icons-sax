@@ -16,7 +16,7 @@ const SvgBatteryDisable = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -25,14 +25,14 @@ const SvgBatteryDisable = (props: IconProps & SVGProps<SVGSVGElement>) => {
       <path
         opacity={0.34}
         d="M20.5 9.5C22 9.5 22 10 22 11v2c0 1 0 1.5-1.5 1.5"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <path
         d="m4 21.5 12-19M7 5c-4 0-5 1-5 5v4c0 3.4.72 4.63 3.39 4.92"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -40,7 +40,7 @@ const SvgBatteryDisable = (props: IconProps & SVGProps<SVGSVGElement>) => {
       <path
         opacity={0.34}
         d="M13 18.998c4 0 5-1 5-5v-4c0-3.39-.72-4.63-3.37-4.92"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

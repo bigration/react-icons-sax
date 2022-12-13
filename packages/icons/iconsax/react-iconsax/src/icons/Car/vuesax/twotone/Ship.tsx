@@ -16,7 +16,7 @@ const SvgShip = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,14 +24,14 @@ const SvgShip = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M20.42 12.37c.87.35 1.41 1.38 1.21 2.29l-.41 1.86C20.51 19.72 18 22 14.38 22H9.62C6 22 3.49 19.72 2.78 16.52l-.41-1.86c-.2-.91.34-1.94 1.21-2.29L5 11.8l5.51-2.21c.96-.38 2.02-.38 2.98 0L19 11.8l1.42.57ZM12 22V10"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <g
         opacity={0.4}
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

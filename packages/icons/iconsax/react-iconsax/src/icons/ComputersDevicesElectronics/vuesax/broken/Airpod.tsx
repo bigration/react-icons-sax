@@ -16,7 +16,7 @@ const SvgAirpod = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,14 +24,14 @@ const SvgAirpod = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M2.62 10.97V8.25c0-.77.03-1.46.11-2.07C3.1 2.89 4.65 2 8.88 2h6.25c4.22 0 5.78.89 6.14 4.18.09.61.11 1.3.11 2.07v7.5c0 .77-.03 1.46-.11 2.08-.37 3.28-1.92 4.17-6.15 4.17H8.88c-4.22 0-5.78-.89-6.14-4.17-.09-.62-.12-1.31-.12-2.08v-.74M21.23 8.922h-4.1M6.87 8.922h-4.1"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <path
         d="M17.13 8.921c0 1.13-.92 2.05-2.05 2.05H8.92c-.56 0-1.08-.23-1.45-.61-.37-.36-.6-.87-.6-1.44 0-1.13.92-2.05 2.05-2.05h6.15c.56 0 1.08.23 1.45.61.38.37.61.88.61 1.44Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

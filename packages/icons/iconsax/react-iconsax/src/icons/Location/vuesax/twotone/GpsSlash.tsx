@@ -16,7 +16,7 @@ const SvgGpsSlash = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,14 +24,14 @@ const SvgGpsSlash = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M17.21 6.6A7.503 7.503 0 0 0 6.58 17.19M12 4V2M4 12H2"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <g
         opacity={0.4}
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -40,7 +40,7 @@ const SvgGpsSlash = (props: IconProps & SVGProps<SVGSVGElement>) => {
       </g>
       <path
         d="m14.12 9.88-4.24 4.24a2.996 2.996 0 1 1 4.24-4.24ZM22 2 2 22"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

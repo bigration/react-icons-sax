@@ -16,7 +16,7 @@ const SvgAutonioNiox = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -26,11 +26,11 @@ const SvgAutonioNiox = (props: IconProps & SVGProps<SVGSVGElement>) => {
       <path
         opacity={0.4}
         d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10Z"
-        fill="#292D32"
+        fill="currentColor"
       />
       <path
         d="M11.79 6.21 9.66 9.76c-.1.17.02.38.21.38h4.26c.19 0 .31-.21.21-.38l-2.13-3.55a.244.244 0 0 0-.42 0ZM8.36 12.21l-2.13 3.55c-.1.17.02.38.21.38h4.26c.19 0 .31-.21.21-.38l-2.13-3.55a.244.244 0 0 0-.42 0ZM15.21 12.21l-2.13 3.55c-.1.17.019.38.209.38h4.26c.19 0 .31-.21.21-.38l-2.13-3.55c-.08-.16-.32-.16-.42 0Z"
-        fill="#292D32"
+        fill="currentColor"
       />
     </svg>
   );

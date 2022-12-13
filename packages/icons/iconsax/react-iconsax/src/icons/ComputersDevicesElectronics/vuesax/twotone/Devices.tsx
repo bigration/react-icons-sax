@@ -16,7 +16,7 @@ const SvgDevices = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,14 +24,14 @@ const SvgDevices = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M17.01 12.73a1.07 1.07 0 1 0 0-2.14 1.07 1.07 0 0 0 0 2.14Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <path
         d="M20 6v1.79c-.25-.03-.54-.05-.85-.05h-4.28c-2.14 0-2.85.71-2.85 2.85v5.11H6c-3.2 0-4-.8-4-4V6c0-3.2.8-4 4-4h10c3.2 0 4 .8 4 4Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -39,14 +39,14 @@ const SvgDevices = (props: IconProps & SVGProps<SVGSVGElement>) => {
       <path
         opacity={0.4}
         d="M2 11.898h10"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
       />
       <g
         opacity={0.4}
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -55,7 +55,7 @@ const SvgDevices = (props: IconProps & SVGProps<SVGSVGElement>) => {
       </g>
       <path
         d="M17.01 12.73a1.07 1.07 0 1 0 0-2.14 1.07 1.07 0 0 0 0 2.14Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -63,7 +63,7 @@ const SvgDevices = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="M22 10.588v8.56c0 2.14-.71 2.85-2.85 2.85h-4.28c-2.14 0-2.85-.71-2.85-2.85v-8.56c0-2.14.71-2.85 2.85-2.85h4.28c.31 0 .6.02.85.05 1.48.19 2 .97 2 2.8Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -71,7 +71,7 @@ const SvgDevices = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="M19.15 17.011c0 1.18-.96 2.14-2.14 2.14-1.18 0-2.14-.96-2.14-2.14a2.142 2.142 0 0 1 3.54-1.62c.45.4.74.98.74 1.62ZM17.01 12.73a1.07 1.07 0 1 0 0-2.14 1.07 1.07 0 0 0 0 2.14Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

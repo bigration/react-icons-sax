@@ -16,7 +16,7 @@ const SvgGrid2 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -25,11 +25,11 @@ const SvgGrid2 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       <path
         opacity={0.4}
         d="M2 12h10v10H7.81C4.17 22 2 19.83 2 16.19V12ZM22 7.81V12H12V2h4.19C19.83 2 22 4.17 22 7.81Z"
-        fill="#292D32"
+        fill="currentColor"
       />
       <path
         d="M12 2v10H2V7.81C2 4.17 4.17 2 7.81 2H12ZM22 12v4.19c0 3.64-2.17 5.81-5.81 5.81H12V12h10Z"
-        fill="#292D32"
+        fill="currentColor"
       />
     </svg>
   );

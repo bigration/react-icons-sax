@@ -16,7 +16,7 @@ const SvgSend = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgSend = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M7.41 5.91 5 3.5M19.001 17.501l-8.38-8.38M19 7.23V17.5H8.73M3.5 22h17"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

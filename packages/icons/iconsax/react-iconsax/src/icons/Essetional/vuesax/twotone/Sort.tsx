@@ -16,7 +16,7 @@ const SvgSort = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,20 +24,20 @@ const SvgSort = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M3 7h18"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
       />
       <path
         opacity={0.34}
         d="M6 12h12"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
       />
       <path
         d="M10 17h4"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
       />

@@ -16,7 +16,7 @@ const SvgPenTool = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgPenTool = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <g
         opacity={0.4}
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -33,7 +33,7 @@ const SvgPenTool = (props: IconProps & SVGProps<SVGSVGElement>) => {
       </g>
       <path
         d="m11.15 5.19-.78-.78c-.47-.47-.47-1.23 0-1.7l.78-.78c.47-.47 1.23-.47 1.7 0l.78.78c.47.47.47 1.23 0 1.7l-.78.78c-.47.47-1.23.47-1.7 0ZM19.45 9.809h1.1c.66 0 1.2.54 1.2 1.2v1.1c0 .66-.54 1.2-1.2 1.2h-1.1c-.66 0-1.2-.54-1.2-1.2v-1.1c0-.66.54-1.2 1.2-1.2ZM4.55 9.809h-1.1c-.66 0-1.2.54-1.2 1.2v1.1c0 .66.54 1.2 1.2 1.2h1.1c.66 0 1.2-.54 1.2-1.2v-1.1c0-.66-.54-1.2-1.2-1.2ZM18.54 10.1l-5.3-5.3M5.46 10.1l5.3-5.3"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"

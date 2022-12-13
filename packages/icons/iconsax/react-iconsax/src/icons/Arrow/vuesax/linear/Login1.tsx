@@ -16,7 +16,7 @@ const SvgLogin1 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgLogin1 = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="m11.68 14.62 2.56-2.56-2.56-2.56M4 12.06h10.17"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -32,7 +32,7 @@ const SvgLogin1 = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="M12 4c4.42 0 8 3 8 8s-3.58 8-8 8"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

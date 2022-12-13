@@ -16,7 +16,7 @@ const SvgBoxTime = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgBoxTime = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <g
         opacity={0.4}
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeLinecap="round"
         strokeLinejoin="round"
@@ -34,7 +34,7 @@ const SvgBoxTime = (props: IconProps & SVGProps<SVGSVGElement>) => {
       </g>
       <path
         d="M23 18c0 1.2-.53 2.27-1.36 3A4 4 0 0 1 19 22c-2.21 0-4-1.79-4-4 0-1.26.58-2.39 1.5-3.12A3.999 3.999 0 0 1 23 18Z"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"
@@ -42,7 +42,7 @@ const SvgBoxTime = (props: IconProps & SVGProps<SVGSVGElement>) => {
       />
       <path
         d="M19.25 16.75v1.5L18 19"
-        stroke="#292D32"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

@@ -16,7 +16,7 @@ const SvgFramer = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgFramer = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="m5 2 14 14H5V9h14V2H5ZM12 16v6l-7-6h7Z"
-        stroke="#17191C"
+        stroke="currentColor"
         strokeWidth={1.5}
         strokeMiterlimit={10}
         strokeLinecap="round"

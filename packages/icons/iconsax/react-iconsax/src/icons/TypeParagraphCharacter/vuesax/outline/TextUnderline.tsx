@@ -2,7 +2,7 @@
 import * as React from 'react';
 import { SVGProps } from 'react';
 type IconProps = {
-  size?: number,
+  size?: number;
 };
 const SvgTextUnderline = (props: IconProps & SVGProps<SVGSVGElement>) => {
   const mergedStyles = {
@@ -16,7 +16,7 @@ const SvgTextUnderline = (props: IconProps & SVGProps<SVGSVGElement>) => {
       width="1em"
       height="1em"
       viewBox={props.viewBox || '0 0 24 24'}
-      fill="currentColor"
+      fill="none"
       xmlns="http://www.w3.org/2000/svg"
       color={props.color || undefined}
       style={mergedStyles}
@@ -24,7 +24,7 @@ const SvgTextUnderline = (props: IconProps & SVGProps<SVGSVGElement>) => {
     >
       <path
         d="M19 21.75H5c-.41 0-.75-.34-.75-.75s.34-.75.75-.75h14c.41 0 .75.34.75.75s-.34.75-.75.75ZM12 17.75c-4.27 0-7.75-3.48-7.75-7.75V3c0-.41.34-.75.75-.75s.75.34.75.75v7c0 3.45 2.8 6.25 6.25 6.25s6.25-2.8 6.25-6.25V3c0-.41.34-.75.75-.75s.75.34.75.75v7c0 4.27-3.48 7.75-7.75 7.75Z"
-        fill="#292D32"
+        fill="currentColor"
       />
     </svg>
   );
