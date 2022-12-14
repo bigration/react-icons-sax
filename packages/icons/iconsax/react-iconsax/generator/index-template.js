@@ -1,7 +1,7 @@
 const path = require('path');
 const fs = require('fs');
 
-const metadataPath = 'packages/icons/iconsax/react-iconsax/generator/metadata';
+const metadataPath = 'packages/icons/iconsax/react-iconsax/generator/dist';
 
 function defaultIndexTemplate(filePaths) {
   const metadata = [];

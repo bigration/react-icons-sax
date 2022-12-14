@@ -19,6 +19,9 @@
       "@bigation/iconsax-assets": [
         "packages/icons/iconsax/iconsax-assets/src/index.ts"
       ],
+      "@bigration-libs/ui-elements": [
+        "packages/storybook/ui-elements/src/index.ts"
+      ],
       "@bigration/react-iconsax": [
         "packages/icons/iconsax/react-iconsax/src/index.ts"
       ]

@@ -2,7 +2,7 @@ const path = require('path');
 const fs = require('fs');
 const lodash = require('lodash');
 
-const directoryPath = path.join(__dirname, 'metadata');
+const directoryPath = path.join(__dirname, 'dist');
 
 async function postProcess() {
   const files = await fs.promises.readdir(directoryPath);
@@ -20,14 +20,32 @@ async function postProcess() {
 
   const groupByRootFolder = lodash.groupBy(merge, (item) => item.rootFolder);
 
-  await fs.promises.writeFile(
-    `${directoryPath}/../../src/metadata.ts`,
-    `export const metadata: Record<string, Array<{importName: string, exportName: string, category: string, rootFolder: string}>> = ${JSON.stringify(
-      groupByRootFolder
-    )}`,
-    function (err) {
-      if (err) throw err;
-    }
+  await Promise.all(
+    Object.keys(groupByRootFolder).map(
+      async (group) =>
+        await fs.promises.writeFile(
+          `${directoryPath}/../../src/${group}.ts`,
+          `export const ${group}: Array<{importName: string, exportName: string, category: string, rootFolder: string}> = ${JSON.stringify(
+            groupByRootFolder[group]
+          )}`,
+          function (err) {
+            if (err) throw err;
+          }
+        )
+    )
+  );
+
+  await Promise.all(
+    Object.keys(groupByRootFolder).map(
+      async (group) =>
+        await fs.promises.appendFile(
+          `${directoryPath}/../../src/index.ts`,
+          `export { ${group} } from './${group}';\n`,
+          function (err) {
+            if (err) throw err;
+          }
+        )
+    )
   );
 }
 
