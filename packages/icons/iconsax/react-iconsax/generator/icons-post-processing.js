@@ -26,7 +26,9 @@ async function postProcess() {
         await fs.promises.writeFile(
           `${directoryPath}/../../src/${group}.ts`,
           `export const ${group}: Array<{importName: string, exportName: string, category: string, rootFolder: string}> = ${JSON.stringify(
-            groupByRootFolder[group]
+            groupByRootFolder[group].sort(function (a, b) {
+              return a.importName.localeCompare(b.importName);
+            })
           )}`,
           function (err) {
             if (err) throw err;
