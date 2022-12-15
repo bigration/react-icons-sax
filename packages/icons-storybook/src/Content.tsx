@@ -2,7 +2,7 @@ import * as React from 'react';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
-import * as Lib from '@bigration/react-iconsax';
+import * as Lib from 'react-icons-sax';
 import { FixedSizeGrid as Grid } from 'react-window';
 import { Link, Paper, Stack, Theme, useMediaQuery } from '@mui/material';
 import { TwitterPicker } from 'react-color';
