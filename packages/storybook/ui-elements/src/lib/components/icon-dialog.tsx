@@ -2,8 +2,8 @@ import * as React from 'react';
 import { FC, SVGProps } from 'react';
 import DialogTitle from '@mui/material/DialogTitle';
 import Dialog from '@mui/material/Dialog';
-import Typography from '@mui/material/Typography';
-import { ButtonBase, DialogContent, Stack } from '@mui/material';
+import { ButtonBase, DialogContent } from '@mui/material';
+import { marked } from 'marked';
 
 type IconProps = {
   size?: number;
@@ -25,6 +25,15 @@ export const IconDialog: FC<{
 }> = ({ Icon, item, control }) => {
   const [open, setOpen] = React.useState(false);
 
+  const markdown = `
+  \`\`\`typescript
+   import { ${item.importName} } from 'react-icons-sax';
+
+   <${item.importName} />
+
+  \`\`\`
+`;
+
   return (
     <>
       <ButtonBase component="div" onClick={() => setOpen(true)}>
@@ -33,16 +42,7 @@ export const IconDialog: FC<{
       <Dialog onClose={() => setOpen(false)} open={open}>
         <DialogTitle>Import Icon</DialogTitle>
         <DialogContent>
-          <Stack direction="column" gap={2}>
-            <Typography
-              component="p"
-              sx={{ whiteSpace: 'pre-line' }}
-            >{`import { ${item.importName} } from 'react-icons-sax';`}</Typography>
-            <Typography
-              component="p"
-              sx={{ whiteSpace: 'pre-line' }}
-            >{`<${item.importName} />`}</Typography>
-          </Stack>
+          <div dangerouslySetInnerHTML={{ __html: marked(markdown) }}></div>
         </DialogContent>
       </Dialog>
     </>
