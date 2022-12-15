@@ -10,10 +10,10 @@
     ]
   },
   "dependencies": {
-    "react-icons-sax": "^0.0.1",
     "@emotion/react": "^11.10.5",
     "@emotion/server": "^11.10.0",
     "@emotion/styled": "^11.10.5",
+    "@monaco-editor/react": "^4.4.6",
     "@mui/material": "^5.10.16",
     "@mui/styled-engine-sc": "^5.10.16",
     "@next/font": "^13.0.6",
@@ -23,6 +23,7 @@
     "react": "18.2.0",
     "react-color": "^2.19.3",
     "react-dom": "18.2.0",
+    "react-icons-sax": "^0.0.1",
     "react-is": "18.2.0",
     "react-virtualized-auto-sizer": "^1.0.7",
     "react-window": "^1.8.8",

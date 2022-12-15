@@ -2,7 +2,7 @@
   <a href="https://iconsax.vercel.app" rel="noopener" target="_blank" ><img width="200" src="https://raw.giogo-back.png" alt="react-icon-sax"></a>
 </p>
 
-<h1 style="text-align: center;">react-icon-sax</h1>
+<h1 style="text-align: center;">react-icons-sax</h1>
 
 <div style="text-align: center;">
 
@@ -12,26 +12,28 @@ Icons are provided by Iconsax. Please visit the official website for further det
 
 ## Demo and documentation
 
-All code snippets and documentation are available here [**iconsax.vercel.app**](https://iconsax.vercel.app)
+All code snippets and documentation are available here:
+
+<h2 style="text-align: center;">https://iconsax.vercel.app</h2>
 
 ## Installation
 
 #### 1.Install package
 
-To install material-table with `npm`:
+To install with `npm`:
 
-    npm install react-icon-sax --save
+    npm install react-icons-sax --save
 
-To install material-table with `yarn`:
+To install with `yarn`:
 
-    yarn add react-icon-sax
+    yarn add react-icons-sax
 
 ## Basic Usage
 
-Here is a basic example of using material-table within a react application.
+Here is a basic example of using `react-icons-sax` within a `React` application.
 
 ```jsx
-import { EssetionalPetOutline } from '@bigration/react-iconsax';
+import { EssetionalPetOutline } from 'react-icons-sax';
 
 <EssetionalPetOutline />;
 ```

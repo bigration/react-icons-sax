@@ -2,9 +2,9 @@ import * as React from 'react';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
-import * as Lib from 'react-icons-sax';
+import * as Lib from '@bigration/react-iconsax';
 import { FixedSizeGrid as Grid } from 'react-window';
-import { Paper, Stack, Theme, useMediaQuery } from '@mui/material';
+import { Link, Paper, Stack, Theme, useMediaQuery } from '@mui/material';
 import { TwitterPicker } from 'react-color';
 import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
@@ -12,15 +12,27 @@ import FormControl from '@mui/material/FormControl';
 import Select, { SelectChangeEvent } from '@mui/material/Select';
 import Slider from '@mui/material/Slider';
 import { IconDialog } from '@bigration-libs/ui-elements';
+import TextField from '@mui/material/TextField';
 
 export default function Content() {
   const S = useMediaQuery((theme: Theme) => theme.breakpoints.up('sm'));
   const M = useMediaQuery((theme: Theme) => theme.breakpoints.up('md'));
+
+  const [icons, setIcons] = React.useState<
+    Array<{
+      importName: string;
+      exportName: string;
+      category: string;
+      rootFolder: string;
+    }>
+  >(Lib['outline']);
+
   const [control, setControl] = React.useState<{
     color: string;
     size: number;
     folder: string;
-  }>({ color: '#673ab7', size: 32, folder: 'outline' });
+    query?: string;
+  }>({ color: '#673ab7', size: 32, folder: 'outline', query: undefined });
 
   const grid = {
     cols: 0,
@@ -48,67 +60,106 @@ export default function Content() {
   };
 
   const handleFolderChange = (event: SelectChangeEvent) => {
-    setControl({ ...control, folder: event.target.value });
+    setControl({ ...control, folder: event.target.value, query: undefined });
+    setIcons(Lib[event.target.value]);
+  };
+
+  const handleQuerySearch = (event: React.ChangeEvent<HTMLInputElement>) => {
+    setControl({ ...control, query: event.target.value });
+
+    if (!event.target.value) {
+      setIcons(Lib[control.folder]);
+    } else {
+      setIcons(
+        icons.filter((icon) =>
+          icon.importName
+            .toLowerCase()
+            .includes(event.target.value.toLowerCase().trim())
+        )
+      );
+    }
   };
 
   return (
     <Container maxWidth="md">
       <Typography variant="h2" component="h1" gutterBottom>
-        React Iconsax
+        Iconsax Icons
       </Typography>
       <Typography variant="h5" component="h2" gutterBottom>
-        {'Pin a footer to the bottom of the viewport.'}
-        {'The footer will move as the main element of the page grows.'}
+        Icons are provided by Iconsax.
+      </Typography>
+      <Typography variant="subtitle1" component="h2" gutterBottom>
+        {`Please visit the official website for further details `}
+        <Link href="https://iconsax.io/" target="_blank">
+          iconsax.io
+        </Link>
       </Typography>
       <Stack
         component={Paper}
-        direction="row"
+        direction="column"
         justifyContent="center"
         gap={4}
         alignItems="center"
         sx={{ p: 5 }}
       >
-        <Box sx={{ minWidth: 120 }}>
-          <FormControl fullWidth>
-            <InputLabel id="folder-select-label">Icon type</InputLabel>
-            <Select
-              labelId="folder-select-label"
-              id="folder-select"
-              value={control.folder}
-              label="Icon type"
-              onChange={handleFolderChange}
-            >
-              {['outline', 'twotone', 'linear', 'bulk', 'bold', 'broken'].map(
-                (folder) => (
-                  <MenuItem value={folder} key={folder}>
-                    {folder}
-                  </MenuItem>
-                )
-              )}
-            </Select>
-          </FormControl>
-        </Box>
+        <Stack
+          direction="row"
+          justifyContent="center"
+          gap={4}
+          alignItems="center"
+        >
+          <Box sx={{ minWidth: 120 }}>
+            <FormControl fullWidth>
+              <InputLabel id="folder-select-label">Icon type</InputLabel>
+              <Select
+                labelId="folder-select-label"
+                id="folder-select"
+                value={control.folder}
+                label="Icon type"
+                onChange={handleFolderChange}
+              >
+                {['outline', 'twotone', 'linear', 'bulk', 'bold', 'broken'].map(
+                  (folder) => (
+                    <MenuItem value={folder} key={folder}>
+                      {folder}
+                    </MenuItem>
+                  )
+                )}
+              </Select>
+            </FormControl>
+          </Box>
 
-        <Box width={300}>
-          <Typography id="icon-size-slider" gutterBottom>
-            Icon size
-          </Typography>
-          <Slider
-            size="small"
-            defaultValue={control.size}
-            aria-label="Small"
-            valueLabelDisplay="auto"
-            onChange={handleSizeChange}
+          <Box width={300}>
+            <Typography id="icon-size-slider" gutterBottom>
+              Icon size
+            </Typography>
+            <Slider
+              size="small"
+              defaultValue={control.size}
+              aria-label="Small"
+              valueLabelDisplay="auto"
+              onChange={handleSizeChange}
+            />
+          </Box>
+          <TwitterPicker
+            onChangeComplete={colorChange}
+            color={control.color}
+            triangle="hide"
           />
-        </Box>
-        <TwitterPicker
-          onChangeComplete={colorChange}
-          color={control.color}
-          triangle="hide"
+        </Stack>
+        <TextField
+          id="search-field"
+          label="Search icons"
+          variant="outlined"
+          fullWidth
+          value={control.query || ''}
+          onChange={handleQuerySearch}
         />
       </Stack>
+
       <Box
         sx={{
+          p: 5,
           display: 'flex',
           justifyContent: 'center',
         }}
@@ -118,13 +169,12 @@ export default function Content() {
           columnCount={grid.cols}
           columnWidth={columnWidth}
           height={600}
-          rowCount={Lib?.[control.folder]?.length || 0}
+          rowCount={icons.length / grid.cols}
           rowHeight={control.size + 60}
           width={columnWidth * grid.cols}
         >
           {({ columnIndex, rowIndex, style }) => {
-            const item =
-              Lib?.[control.folder]?.[rowIndex * grid.cols + columnIndex];
+            const item = icons[rowIndex * grid.cols + columnIndex];
 
             if (item == null) {
               return null;

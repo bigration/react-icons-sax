@@ -3,7 +3,7 @@ import { FC, SVGProps } from 'react';
 import DialogTitle from '@mui/material/DialogTitle';
 import Dialog from '@mui/material/Dialog';
 import Typography from '@mui/material/Typography';
-import { ButtonBase, DialogContent } from '@mui/material';
+import { ButtonBase, DialogContent, Stack } from '@mui/material';
 
 type IconProps = {
   size?: number;
@@ -31,9 +31,18 @@ export const IconDialog: FC<{
         <Icon size={control.size} color={control.color} />
       </ButtonBase>
       <Dialog onClose={() => setOpen(false)} open={open}>
-        <DialogTitle>Set backup account</DialogTitle>
+        <DialogTitle>Import Icon</DialogTitle>
         <DialogContent>
-          <Typography variant="caption">{item.importName}</Typography>
+          <Stack direction="column" gap={2}>
+            <Typography
+              component="p"
+              sx={{ whiteSpace: 'pre-line' }}
+            >{`import { ${item.importName} } from 'react-icons-sax';`}</Typography>
+            <Typography
+              component="p"
+              sx={{ whiteSpace: 'pre-line' }}
+            >{`<${item.importName} />`}</Typography>
+          </Stack>
         </DialogContent>
       </Dialog>
     </>
