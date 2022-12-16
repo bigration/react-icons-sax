@@ -26,12 +26,10 @@ const Main = styled('main', { shouldForwardProp: (prop) => prop !== 'open' })<{
 }));
 
 export type DashboardLayoutProps = {
-  route: string;
   initialDrawerOpened?: boolean;
 };
 
 export const DashboardLayout: FC<PropsWithChildren<DashboardLayoutProps>> = ({
-  route,
   initialDrawerOpened,
   children,
 }) => {

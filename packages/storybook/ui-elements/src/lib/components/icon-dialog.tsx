@@ -3,7 +3,7 @@ import { FC, SVGProps } from 'react';
 import DialogTitle from '@mui/material/DialogTitle';
 import Dialog from '@mui/material/Dialog';
 import { ButtonBase, DialogContent } from '@mui/material';
-import { marked } from 'marked';
+import { CodeHighlight } from './CodeHighlight';
 
 type IconProps = {
   size?: number;
@@ -42,7 +42,7 @@ export const IconDialog: FC<{
       <Dialog onClose={() => setOpen(false)} open={open}>
         <DialogTitle>Import Icon</DialogTitle>
         <DialogContent>
-          <div dangerouslySetInnerHTML={{ __html: marked(markdown) }}></div>
+          <CodeHighlight markdown={markdown} />
         </DialogContent>
       </Dialog>
     </>

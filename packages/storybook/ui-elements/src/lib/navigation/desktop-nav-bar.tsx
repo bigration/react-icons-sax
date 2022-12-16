@@ -11,6 +11,7 @@ import {
   SettingsSetting2Outline,
   LocationDirectLeftOutline,
   EssetionalEmojiHappyOutline,
+  SupportLikeQuestionLovelyTwotone,
 } from 'react-icons-sax';
 
 const DesktopNavBar: FC<{
@@ -38,6 +39,11 @@ const DesktopNavBar: FC<{
       </DrawerHeader>
       <Divider />
       <List>
+        <DesktopNavbarItem
+          name="Iconsax Icons"
+          path="/"
+          Icon={SupportLikeQuestionLovelyTwotone}
+        />
         <DesktopNavbarItem
           name="Installation"
           path="/installation"

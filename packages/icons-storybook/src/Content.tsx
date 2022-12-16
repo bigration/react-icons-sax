@@ -4,7 +4,7 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import * as Lib from 'react-icons-sax';
 import { FixedSizeGrid as Grid } from 'react-window';
-import { Link, Paper, Stack, Theme, useMediaQuery } from '@mui/material';
+import { Paper, Stack, Theme, useMediaQuery } from '@mui/material';
 import { TwitterPicker } from 'react-color';
 import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
@@ -13,6 +13,7 @@ import Select, { SelectChangeEvent } from '@mui/material/Select';
 import Slider from '@mui/material/Slider';
 import { IconDialog } from '@bigration-libs/ui-elements';
 import TextField from '@mui/material/TextField';
+import HeaderContent from './HeaderContent';
 
 export default function Content() {
   const S = useMediaQuery((theme: Theme) => theme.breakpoints.up('sm'));
@@ -81,129 +82,125 @@ export default function Content() {
   };
 
   return (
-    <Container maxWidth="md">
-      <Typography variant="h2" component="h1" gutterBottom>
-        Iconsax Icons
-      </Typography>
-      <Typography variant="h5" component="h2" gutterBottom>
-        Icons are provided by Iconsax.
-      </Typography>
-      <Typography variant="subtitle1" component="h2" gutterBottom>
-        {`Please visit the official website for further details `}
-        <Link href="https://iconsax.io/" target="_blank">
-          iconsax.io
-        </Link>
-      </Typography>
-      <Stack
-        component={Paper}
-        direction="column"
-        justifyContent="center"
-        gap={4}
-        alignItems="center"
-        sx={{ p: 5 }}
-      >
+    <>
+      <HeaderContent />
+      <Container maxWidth="md">
         <Stack
-          direction="row"
+          component={Paper}
+          direction="column"
           justifyContent="center"
           gap={4}
           alignItems="center"
+          sx={{ p: 5 }}
         >
-          <Box sx={{ minWidth: 120 }}>
-            <FormControl fullWidth>
-              <InputLabel id="folder-select-label">Icon type</InputLabel>
-              <Select
-                labelId="folder-select-label"
-                id="folder-select"
-                value={control.folder}
-                label="Icon type"
-                onChange={handleFolderChange}
-              >
-                {['outline', 'twotone', 'linear', 'bulk', 'bold', 'broken'].map(
-                  (folder) => (
+          <Stack
+            direction="row"
+            justifyContent="center"
+            gap={4}
+            alignItems="center"
+          >
+            <Box sx={{ minWidth: 120 }}>
+              <FormControl fullWidth>
+                <InputLabel id="folder-select-label">Icon type</InputLabel>
+                <Select
+                  labelId="folder-select-label"
+                  id="folder-select"
+                  value={control.folder}
+                  label="Icon type"
+                  onChange={handleFolderChange}
+                >
+                  {[
+                    'outline',
+                    'twotone',
+                    'linear',
+                    'bulk',
+                    'bold',
+                    'broken',
+                  ].map((folder) => (
                     <MenuItem value={folder} key={folder}>
                       {folder}
                     </MenuItem>
-                  )
-                )}
-              </Select>
-            </FormControl>
-          </Box>
+                  ))}
+                </Select>
+              </FormControl>
+            </Box>
 
-          <Box width={300}>
-            <Typography id="icon-size-slider" gutterBottom>
-              Icon size
-            </Typography>
-            <Slider
-              size="small"
-              defaultValue={control.size}
-              aria-label="Small"
-              valueLabelDisplay="auto"
-              onChange={handleSizeChange}
+            <Box width={300}>
+              <Typography id="icon-size-slider" gutterBottom>
+                Icon size
+              </Typography>
+              <Slider
+                size="small"
+                defaultValue={control.size}
+                aria-label="Small"
+                valueLabelDisplay="auto"
+                onChange={handleSizeChange}
+              />
+            </Box>
+            <TwitterPicker
+              onChangeComplete={colorChange}
+              color={control.color}
+              triangle="hide"
             />
-          </Box>
-          <TwitterPicker
-            onChangeComplete={colorChange}
-            color={control.color}
-            triangle="hide"
+          </Stack>
+          <TextField
+            id="search-field"
+            label="Search icons"
+            variant="outlined"
+            fullWidth
+            value={control.query || ''}
+            onChange={handleQuerySearch}
           />
         </Stack>
-        <TextField
-          id="search-field"
-          label="Search icons"
-          variant="outlined"
-          fullWidth
-          value={control.query || ''}
-          onChange={handleQuerySearch}
-        />
-      </Stack>
 
-      <Box
-        sx={{
-          p: 5,
-          display: 'flex',
-          justifyContent: 'center',
-        }}
-      >
-        <Grid
-          style={{ textAlign: 'center' }}
-          columnCount={grid.cols}
-          columnWidth={columnWidth}
-          height={600}
-          rowCount={icons.length / grid.cols}
-          rowHeight={control.size + 60}
-          width={columnWidth * grid.cols}
+        <Box
+          sx={{
+            p: 5,
+            display: 'flex',
+            justifyContent: 'center',
+          }}
         >
-          {({ columnIndex, rowIndex, style }) => {
-            const item = icons[rowIndex * grid.cols + columnIndex];
+          <Grid
+            style={{ textAlign: 'center' }}
+            columnCount={grid.cols}
+            columnWidth={columnWidth}
+            height={600}
+            rowCount={icons.length / grid.cols}
+            rowHeight={control.size + 60}
+            width={columnWidth * grid.cols}
+          >
+            {({ columnIndex, rowIndex, style }) => {
+              const item = icons[rowIndex * grid.cols + columnIndex];
 
-            if (item == null) {
-              return null;
-            }
+              if (item == null) {
+                return null;
+              }
 
-            const Icon = Lib[item.importName];
+              const Icon = Lib[item.importName];
 
-            if (!Icon) {
-              return <div>{item.importName}</div>;
-            }
-            return (
-              <div
-                className={
-                  columnIndex % 2
-                    ? rowIndex % 2 === 0
+              if (!Icon) {
+                return <div>{item.importName}</div>;
+              }
+              return (
+                <div
+                  className={
+                    columnIndex % 2
+                      ? rowIndex % 2 === 0
+                        ? 'GridItemOdd'
+                        : 'GridItemEven'
+                      : rowIndex % 2
                       ? 'GridItemOdd'
                       : 'GridItemEven'
-                    : rowIndex % 2
-                    ? 'GridItemOdd'
-                    : 'GridItemEven'
-                }
-                style={style}
-              >
-                <IconDialog Icon={Icon} item={item} control={control} />
-              </div>
-            );
-          }}
-        </Grid>
-      </Box>
-    </Container>
+                  }
+                  style={style}
+                >
+                  <IconDialog Icon={Icon} item={item} control={control} />
+                </div>
+              );
+            }}
+          </Grid>
+        </Box>
+      </Container>
+    </>
   );
 }

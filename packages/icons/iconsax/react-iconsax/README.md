@@ -1,7 +1,3 @@
-<p style="box-shadow: 2px 2px;text-align: center;">
-  <a href="https://iconsax.vercel.app" rel="noopener" target="_blank" ><img width="200" src="https://raw.giogo-back.png" alt="react-icon-sax"></a>
-</p>
-
 <h1 style="text-align: center;">react-icons-sax</h1>
 
 <div style="text-align: center;">

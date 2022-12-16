@@ -1,12 +1,12 @@
 import React from 'react';
-import Content from '../src/Content';
 import { DashboardLayout } from '@bigration-libs/ui-elements';
+import UsageContent from '../src/usage/UsageContent';
 
 export function Index() {
   return (
     <div>
       <DashboardLayout>
-        <Content />
+        <UsageContent />
       </DashboardLayout>
     </div>
   );

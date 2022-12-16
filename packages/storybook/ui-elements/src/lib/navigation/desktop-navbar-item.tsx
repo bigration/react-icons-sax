@@ -1,8 +1,12 @@
 import * as React from 'react';
 import { FC } from 'react';
-import { ListItemIcon, ListItemText } from '@mui/material';
+import {
+  ListItem,
+  ListItemIcon,
+  ListItemProps,
+  ListItemText,
+} from '@mui/material';
 import { styled } from '@mui/material/styles';
-import { ListItem, ListItemProps } from '@mui/material';
 import Link from 'next/link';
 import { borderRadius, hoverStyle } from './../core';
 
