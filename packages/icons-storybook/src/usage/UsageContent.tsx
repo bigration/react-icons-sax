@@ -5,6 +5,7 @@ import Typography from '@mui/material/Typography';
 import { CodeHighlight } from '@bigration-libs/ui-elements';
 import IconsPropsTable from './IconsPropsTable';
 import { Stack } from '@mui/material';
+import MuiExample from './MuiExample';
 
 export default function UsageContent() {
   const basicCode = `
@@ -29,6 +30,8 @@ import { EssetionalPetOutline } from 'react-icons-sax';
           <Typography variant="h5">All props are optional</Typography>
 
           <IconsPropsTable />
+
+          <MuiExample />
         </Stack>
       </Container>
     </>
