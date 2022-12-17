@@ -22,7 +22,7 @@
     "react": "18.2.0",
     "react-color": "^2.19.3",
     "react-dom": "18.2.0",
-    "react-icons-sax": "^0.0.1",
+    "react-icons-sax": "^0.0.5",
     "react-is": "18.2.0",
     "react-markdown": "^8.0.4",
     "react-syntax-highlighter": "^15.5.0",
